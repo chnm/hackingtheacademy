@@ -23,6 +23,7 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
+{{ partial "banner.html" . }}
 <header>
   <p><a id="logo" href="/">Hacking the Academy</a></p>
 </header>
@@ -30,6 +31,10 @@
 {{ block "main" . }}{{ end }}
 </main>
 <footer>
+  <div class="footer-logos">
+    <a href="https://rrchnm.org/"><img src="/theme/logos/rrchnm_logo.png" alt="Roy Rosenzweig Center for History and New Media" width="62" height="60"></a>
+    <a href="https://www.gmu.edu/"><img src="/theme/logos/gmu-logo.png" alt="George Mason University" width="200" height="60"></a>
+  </div>
   <p><a href="/">Hacking the Academy</a> was a project of the <a href="https://rrchnm.org/">Roy Rosenzweig Center for History and New Media</a>, <a href="https://www.gmu.edu/">George Mason University</a>.</p>
 </footer>
 </body>
