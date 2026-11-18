@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="post">
+<h1>{{ .Title }}</h1>
+<ul>
+{{ range .Pages.ByTitle }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Parent.Title }})</li>
+{{ end }}
+</ul>
+</article>
+{{ end }}

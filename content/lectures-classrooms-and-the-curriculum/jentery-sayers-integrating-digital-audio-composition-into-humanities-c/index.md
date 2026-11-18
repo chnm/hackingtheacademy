@@ -1,0 +1,72 @@
+---
+title: "Integrating Digital Audio Composition into Humanities Courses"
+authors: ["Jentery Sayers"]
+weight: 36
+original_url: "http://chronicle.com/blogPost/Integrating-Digital-Audio/24266/"
+archive_url: "https://web.archive.org/web/20100529162255/http://chronicle.com/blogPost/Integrating-Digital-Audio/24266/"
+published: 2010-05-25
+captured_from: wayback
+---
+
+| Previous [Using Open Atrium to Manage Collaborative Academic Projects](http://chronicle.com/blogPost/Using-Open-Atrium-to-Manage/24252/) | Next [How Do You Organize and Annotate PDFs? (Reader Response Roundup)](http://chronicle.com/blogPost/How-Do-You-Organize-and/24117/) | 
+
+May 25, 2010, 02:00 PM ET
+
+# Integrating Digital Audio Composition into Humanities Courses
+
+![Edison Phonograph](image-1.jpg)
+
+*\[This guest post is by [Jentery Sayers](http://www.jenterysayers.com/?p=3449), who is a PhD candidate in English at the University of Washington, Seattle. In 2010-2011, he will be teaching media and communication studies courses in Interdisciplinary Arts and Sciences at the University of Washington, Bothell. He is also actively involved with [HASTAC](http://www.hastac.org/). You can follow Jentery on Twitter: [@jenterysayers](http://twitter.com/jenterysayers).\]*
+
+Back in October 2009, Billie Hara published a wonderfully detailed ProfHacker post titled, ["Responding to Student Writing (audio style)"](http://chronicle.com/blogPost/Responding-to-Student-Writi/22770/). There, she provides a few reasons why instructors might compose digital audio in response to student writing. For instance, students are often keen on audio feedback, which seems more personal than handwritten notes or typed text. As an instructor of English and media studies, I have reached similar conclusions. Broadening the sensory modalities and types of media involved in feedback not only diversifies how learning happens; it also requires all participants to develop some basic—and handy—technical competencies (e.g., recording, storing, and accessing MP3s) all too rare in the humanities.
+
+In this post, I want to continue ProfHacker's inquiry into audio by unpacking two questions: **How might students—and not just instructors—compose digital audio in their humanities courses? And what might they learn in so doing?**
+
+Designing Courses with Audio Composition in Mind
+
+One of the easiest ways to integrate digital audio composition into a humanities course is to identify the kinds of compositions that might be possible and then find some examples. Below, I consider five kinds of digital audio compositions:
+
+- recorded talks
+- audio essays
+- playlists
+- mashups
+- interviews
+
+Each entails its own learning outcomes, technologies, and technical competencies.
+
+The **recorded talk** consists of students reading their own academic essays aloud or giving oral presentations of their research. Quite obviously, this model privileges the voice, and the talk is almost always scripted or otherwise prepared. Instructors who want students to practice communicating their work might find recorded talks an appealing option, especially if the talks are delivered in front of the class or the recordings are circulated via a class blog for feedback. If the audio is not edited, then the technical competencies and hardware required for recorded talks are minimal. Today, mobile technologies, such as iPhones, Olympus digital voice recorders, and various laptops, all record voices with ease, and examples of recorded academic talks abound. One common archive is [iTunes U](http://www.apple.com/education/itunes-u/). At my home institution, the Simpson Center for the Humanities also archives recorded talks on [its website](http://depts.washington.edu/uwch/pub_media_arch.htm).
+
+The **audio essay** differs from the talk in that audio samples are integrated into an essay written, read aloud, and produced by the student. Listeners not only hear the student's voice; audio also functions as evidence for an argument. Put this way, the audio essay can be an opportunity for students to research and analyze recorded sound as their primary object of inquiry, treating it much like, say, a novel or a poem in a literature course. In the process they learn how to edit audio and compare it with textual evidence. To get students started, online archives like [UbuWeb](http://ubuweb.com/) and [PennSound](http://writing.upenn.edu/pennsound/) are rife with source material, including a broad array of sound art and recorded readings. I have found that Marshall McLuhan's LP version of *The Medium Is the Massage* (digitized and available at [UbuWeb](http://www.ubu.com/sound/mcluhan.html)) never fails to spark a conversation, since it blends audio samples with McLuhan's own reading of the text. If students and instructors are looking for free, reliabile, and intuitive software to record and edit audio essays, then [Audacity](http://audacity.sourceforge.net/) is a great choice. If they are Mac users, then [GarageBand](http://www.apple.com/ilife/garageband/) is another friendly option.
+
+The sample-based approach to the audio essay can be expanded even further into **playlists or mashups**, which consist entirely of audio files aggregated by students. While the playlist only requires students to compile and strategically arrange audio files in a sequence (like a mixtape), the mashup necessitates editing audio so that (portions of) multiple source files are layered together (like Girl Talk in [Prof. Matthew Soar's fan video](http://www.youtube.com/watch?v=WK3O_qZVqXk) \[YouTube\]). Whereas claims made in an academic talk or audio essay are usually stated explicitly, playlists and mashups help students learn how to arrange more tacit claims by generating associations, juxtapositions, resonance, dissonance, and transitions between evidence. They also become fantastic opportunities for discussing intellectual property and digital rights management. For examples, both historical and contemporary, I often point students to the work of Les Paul, William S. Burroughs, Kool Herc, DJ Spooky, and DJ/rupture, among others. Of course, iTunes is one of the most popular ways to generate playlists, and Audacity is perfectly fine for mashups. However, if [Pro Tools](http://www.avid.com/US/products/family/Pro-Tools) is available on your campus, then it might be preferable for students and instructors who are particularly invested in production.
+
+Of all the approaches mentioned thus far, **interviews** are probably the most social approach to audio compositions. Rather than searching audio archives or recording their own talks, students can conduct and record interviews that explore a specific issue. Here, they may act more like critical listeners than speakers, and the benefit of this approach is that students learn how to construct an adaptable set of questions and articulate sound methods for qualitative research. They might also have the opportunity to learn more about transcription, if applicable. For interviews, I recommend an array of examples, including everything from the work of Sharon Daniel (e.g., [*Blood Sugar*](http://bloodsugararchives.net/) and [*Public Secrets*](http://www.vectorsjournal.org/projects/index.php?project=57)) to popular radio shows like [*This American Life*](http://www.thisamericanlife.org/donate). Radio shows are also fun to study because they often incorporate "soundscapes" (e.g., background music and effects) into the composition process. Should students be curious about how to find some soundscape material, then [Creative Commons Audio](http://creativecommons.org/audio/) is a good choice. Also, if your campus makes them accessible, then high quality microphones and recording devices are preferable for interviews. Mobile technologies, like the iPhone, do not render the most acoustically robust or rich recordings.
+
+Of course, this list is not exhaustive, and **I am interested in hearing more from ProfHacker's readers about what approaches to digital audio they have tried (in humanities courses or not), what examples they have used, and how they articulated their learning outcomes accordingly**.
+
+Theory and History, Too
+
+While students can easily compose digital audio on their own, it never hurts to supplement the composition process with some theory and history. After all, working with sound often poses questions that visual approaches may not. In the classroom, I prefer to talk about the relationships between seeing and hearing, or visuals and audio, rather than treating them as somehow separate from each other. I also find that giving students a survey of several methods for studying digital audio helps, too. Here, some examples are "sonic culture," "audio composition," and "sound and phenomenology."
+
+Studies of sonic culture lend themselves to contextualizing the production and circulation of digital audio. They also invite students to do a little history. For instance, how does digital audio figure into a larger history of sound reproduction? What kinds of cultures formed around the gramophone, magnetic tape, the compact disc, or the MP3? How and why were these media advertised, and with what audiences in mind? How do they intersect with questions of race, gender, class, or sexuality? Who had access to recording technologies and when, and how does the medium on which sound is recorded affect the perception of it? Inquiries such as these can be enhanced by pointing students to the work of Les Back, Michael Bull, Lisa Gitelman, Douglas Kahn, Friedrich Kittler, Greg Milner, Tara Rodgers, Jonathan Sterne, Emily Thompson, or Alexander Weheliye. Also, if you are looking for references while designing a course, then see the [online syllabus](http://www.shaviro.com/Classes/Sound.html) for Steven Shaviro's "Sonic Culture" course at Wayne State University.
+
+Students might also benefit from approaching digital audio composition through traditions in computers and writing. This approach to audio composition gives students the very tangible opportunity to articulate the audiences for their compositions and how audio enables communications with them. It might also focus on how to use digital audio for argumentation. For instance, how does voice affect people's interpretations of what they hear? As a sensory modality, how does listening intersect with seeing, and to what effects on learning and public knowledge? Or more broadly, what is the rhetorical situation of a given audio composition, and what rhetorical devices does the composer use to persuade listeners? Here, online journals, such as [*Kairos: A Journal of Rhetoric, Technology, and Pedagogy*](http://www.technorhetoric.net/) and [*Computers and Composition Online*](http://www.bgsu.edu/cconline/), are rich resources for materials. In particular, students and instructors might find Michael J. Salvo's and Thomas Rickert's multimodal webtext, ["...And They Had Pro Tools"](http://www.bgsu.edu/cconline/rickert_salvo/start.htm), especially informative, since it provides both rhetorical frameworks for digital audio composition and audio samples. Another productive exercise, which I have found incredibly useful for helping students examine audio in relation to visuals, is analyzing a film clip in three ways: "as is" (both audio and visuals), with the audio muted, and by listening to the audio without looking at the screen. [A prompt for this assignment](http://staff.washington.edu/jentery/121/response1_2.html), based on the work of Michel Chion, is available on the course site for "Service-Learning, Sonic Culture, and Media Activism," an English composition course I designed and taught at the University of Washington.
+
+As students compose digital audio or study its history, they will ultimately come across terms like "presence," "authenticity," "immediacy," and the like. That is, through terms such as these, sound and hearing are often situated against visuals and seeing. Scholars like Sterne, in *The Audible Past*, note that hearing is commonly tied to emotion, affect, feeling, and immersion, whereas seeing is associated with the intellect, perspective, objectivity, and distance. If students are curious about how these distinctions come about—and even how to complicate them—then spending some time on the phenomenology of sound might be worthwhile. For instance, when does the voice imply the physical presence of the speaker? Why are music and noise typically described through the feelings they evoke? What is it about audio feedback that suggests a more personal response, and what does that response say about popular perceptions of writing and its role in learning? Although these conversations can easily become quite abstract, encouraging students to explore one or two of them gives them the chance to explain their digital audio compositions through a history of ideas. Among many options, work by Jacques Derrida, Michel Foucault, Eric Havelock, Don Ihde, Martin Jay, Marshall McLuhan, Walter Ong, R. Murray Schafer, and Sandy Stone is frequently referenced in scholarship on the phenomenologies of sound and vision. Navigating students through these complex texts, especially as a group in the classroom, is a worthwhile exercise.
+
+So What Might Students Learn?
+
+Although learning experiences differ from student to student, and classroom to classroom, I have found that integrating digital audio into humanities courses helps students:
+
+- **Enrich** their understandings of text-based scholarship.
+- **Broaden** how they define terms such as "writing" and "composition" and the practices associated with them.
+- **Stay engaged** by switching the sensory modalities through which they learn.
+- Bring things (e.g., iPods) that are familiar to them into the classroom and **mobilize that familiarity** toward academic inquiry.
+- **Tinker and experiment** with new software (e.g., Audacity and Pro Tools) rarely used in the humanities.
+- **Communicate** with each other and share their work through an array of media and modes.
+- **Compare and mix media** (e.g., the vinyl record, the MP3, film, and the book) in fresh and exciting ways.
+- **Articulate** how seeing and hearing change over time, not to mention how they are contextualized.
+
+Again, this list is nowhere near exhaustive, and so I invite your comments below.
+
+\[Image in this post courtesy of [Wikimedia Commons](http://en.wikipedia.org/wiki/File:EdisonPhonograph.jpg)\]

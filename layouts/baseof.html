@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+{{ with resources.Get "theme/style.css" | fingerprint }}<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.rrchnm.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header>
+  <p><a id="logo" href="/">Hacking the Academy</a></p>
+</header>
+<main id="main">
+{{ block "main" . }}{{ end }}
+</main>
+<footer>
+  <p><a href="/">Hacking the Academy</a> was a project of the <a href="https://rrchnm.org/">Roy Rosenzweig Center for History and New Media</a>, <a href="https://www.gmu.edu/">George Mason University</a>.</p>
+</footer>
+</body>
+</html>

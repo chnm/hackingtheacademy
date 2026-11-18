@@ -1,0 +1,37 @@
+---
+title: "A distributed, multi-client courseware"
+authors: ["Boone Gorges"]
+weight: 7
+note: "(Nominated by Brian Croxall)"
+original_url: "http://teleogistic.net/2010/05/a-distributed-multi-client-courseware/"
+archive_url: "https://web.archive.org/web/20100529161527/http://teleogistic.net/2010/05/a-distributed-multi-client-courseware/"
+published: 2010-05-23
+captured_from: wayback
+---
+
+At yesterday’s [THATCamp](http://thatcamp.org) I attended a session, facilitated by [Steve Ramsay](http://lenz.unl.edu/wordpress/), entitled “All Courseware Sucks”. You can read the blog post that served as the inspiration for the session [at the THATCamp blog](http://thatcamp.org/2010/all-courseware-sucks/). Steve started the session by framing the issue in a way that ended up being quite helpful: he had us list the features of courseware that we’d used, and then to talk about whether they were all crucial. The problem is that almost all of them were crucial to at least someone in the room. Moreover, some of the items that certain individuals found the most useful (say, a gradebook where students could track their progress) seemed the most expendable to others. Listening to that discussion, I thought to myself: This must be what happens in Blackboard focus groups. Gödel’s Second Theorem of LMSes: Any learning management system with a vocabulary rich enough to do interesting work can be shown to be bloatware.
+
+If it’s not the functionality of courseware that we dislike, then, what is it? Well, the basic complaint seems to be that the interface is terrible. And not just terrible in an aesthetic way, though certainly most courseware is absolutely devoid of whimsy. The deeper problem is that software design decisions about how courseware conceives of a course – its hierarchy, its ontology, the vocabulary used to describe its objects, its workflow, its presentation – constrain the instructional design decisions that the professor can make about how the course will be taught.
+
+How do you design a courseware interface that jibes with the aesthetic and instructional predilictions of instructors from math, biology, French Lit, and everywhere between? Answer: You don’t. There are dozens and dozens of well-developed, general purpose content management systems out there. Each has an interface that its users are comfortable with. Why not take advantage of this fact? If students sometimes prefer Blackboard because at least with Bb they know what they’re getting into, why not just let them use whatever they’re already comfortable with?
+
+The idea in a nutshell: **Abstract the content from the platform, so that individual students and professors can use whatever platform they’d like as an interface**. Existing CMSes like Blackboard, Moodle, WordPress, Drupal, Joomla, and so forth become clients that sync with a central data repository hosted by the school or by a third party.
+
+There are about a trillion details that need to be filled in to make this viable. But here’s a very rough-n-ready explanation of how it might work in a particular case. Let’s imagine that Jack is the professor, using Drupal as client software, and Sally is the student, using WordPress as her preferred client. Jack is going to assign a blog post, and Sally’s going to complete it.
+
+1. Jack logs into his Drupal installation. This could be on his own server or on a centralized installation hosted by his school. On this installation there will be a module that creates a number of new content types in addition to the default Story and Page. Let’s imagine the content type is called Assignment, which contains fields for content, subject, due date, and whatever other metadata you might like.
+2. Jack writes the assignment and saves it. It saves to the Drupal database as a native Drupal item.
+3. After the save, a hook is triggered by a Bridge module. Bridges are client-specific translators that send and fetch information to and from the central repository. The Bridge module translates the Drupal content type into an XML or JSON document that is formatted according to the agreed-upon standard data format for Assignments.
+4. The Bridge module sends the document to the central Server. The Server can be connected to the student information and registrar systems in much the way that Blackboard is. The Server recognizes Jack’s signature on the document, and furthermore knows that the file is associated with Jack’s particular course. The document is translated into a Server database object and saved, keyed by Jack’s user id, the course id, etc. The Server could be set up to send out email notifications to students at this time, alerting them of a new assignment.
+5. The next time Sally logs into her WordPress installation, her WP Bridge plugin (another piece of translating software, this one WP-specific) pings the Server. The Server knows that Sally is in Jack’s class, so it looks through the database to see if any new assignments have been posted in that class since Sally last logged in. It finds the blog assignment that Jack posted, translates it to a JSON or XML doc, and sends it to Sally’s WordPress installation. The Bridge then parses the document and saves it as a WordPress-native item in the database of Sally’s WordPress installation, perhaps as an instance of a custom post type or something like that.
+6. Sally visits the course page in her WP installation. This could be an admin panel on the Dashboard, or a front-end page. It shows the new assignment, to write a new blog post.
+7. Sally writes a new blog post using the native blog functionality of WP (different content types that aren’t so WP-friendly would need a bit of interface or theme work. Discussion forums, for instance, could easily be stored as custom post types and skinned to look like a traditional forum thread). She might indicate, using a certain tag or category or postmeta checkbox, that this blog post belongs to a particular class, or is a response to a particular assignment. The post is saved to the WP database, and, as above, the Bridge plugin then kicks in, translates the post, and sends it back to the Server, where the process will repeat the next time that Jack logs into his installation.
+
+As I’m writing this, I realize that it seems really simple and obvious, and I’m sure that there are a hundred reasons why something like this would be hard to actually implement. But it’s worth exploration, as this model enjoys the huge advantage of letting the user choose whichever of a number of interfaces suits their fancy.
+
+A few complications to mull over, off the top of my head:
+
+- Certain content is likely not to translate very well between platforms, especially content whose visual presentation is central to its effect. In those instances, the content could be rendered using the client software of the author and linked to in addition to/instead of being transcoded.
+- File storage. Where do you store images, zip files, etc? On the author’s client installation, on the Server, or both?
+- Security. How do you ensure that only Jack is able to download assignments for his course? What prot
+The*[A distributed, multi-client courseware](http://teleogistic.net/2010/05/a-distributed-multi-client-courseware/)* by *[Boone Gorges](http://teleogistic.net)*, unless otherwise expressly stated, is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). Related posts:

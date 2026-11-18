@@ -1,0 +1,23 @@
+# Hacking the Academy (2010): the crowdsourced book, rebuilt in Hugo with a
+# captured copy of every contribution. See README.md.
+baseURL = "https://hackingtheacademy.org/"
+title = "Hacking the Academy"
+locale = "en-US"
+disableHugoGeneratorInject = true
+capitalizeListTitles = false
+disableKinds = ["rss"]
+
+# Raw HTML in the captured Markdown is limited to footnote marks and a few
+# inline tags; scripts/capture.py escapes everything else before it gets here.
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  author = "authors"
+
+[params]
+  edited_volume = "https://doi.org/10.3998/dh.12172434.0001.001"
+
+# Allow the .html content files (Hugo blocks text/html content by default).
+[security]
+  allowContent = ['! ^text/org$']

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="post">
+<h1>{{ .Title }}</h1>
+{{ if eq .Section "news" }}
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="post">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="date">{{ .Date.Format "January 2006" }}</p>
+    <p>{{ .Summary | plainify | truncate 240 }} <a href="{{ .RelPermalink }}">Continue reading<span class="visually-hidden"> {{ .Title }}</span>.</a></p>
+  </div>
+  {{ end }}
+{{ else }}
+  <div class="content">{{ .Content }}</div>
+{{ end }}
+</article>
+{{ end }}

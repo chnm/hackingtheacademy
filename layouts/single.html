@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="post">
+<h1>{{ .Title }}</h1>
+{{ with .Params.authors }}<p class="byline">{{ range $i, $a := . }}{{ if $i }}, {{ end }}<a href="{{ (site.GetPage (printf "/authors/%s" ($a | urlize))).RelPermalink }}">{{ $a }}</a>{{ end }}</p>{{ end }}
+{{ if and .Date (eq .Section "news") }}<p class="date">{{ .Date.Format "January 2006" }}</p>{{ end }}
+{{ with .Params.captured_from }}{{ partial "provenance.html" $ }}{{ end }}
+<div class="content">{{ .Content }}</div>
+{{ if .Params.captured_from }}<p class="back">Back to <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>{{ end }}
+</article>
+{{ end }}

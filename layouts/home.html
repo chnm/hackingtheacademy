@@ -1,0 +1,18 @@
+{{ define "main" }}
+<hgroup>
+  <h1>A Book Crowdsourced in One Week</h1>
+  <p class="subtitle">May 21-28, 2010</p>
+</hgroup>
+<p class="highlight"><a href="{{ site.Params.edited_volume }}">The Edited Volume</a> (University of Michigan Press, 2013)</p>
+<p class="intro">These are the more than 300 pieces contributed during the book week, each kept here with a link to where it first appeared. Read <a href="/what-this-is-and-how-to-contribute/">the original call for contributions</a>, or the <a href="/announcing-hacking-the-academy-the-edited-volume-table-of-contents/">table of contents of the edited volume</a>.</p>
+<h2>Table of Contents</h2>
+<nav id="toc" aria-label="Table of contents">
+<ul>
+{{ range site.Sections.ByWeight }}{{ if ne .Section "news" }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}{{ end }}
+  <li><a href="/news/">News</a></li>
+  <li><a href="/authors/">Contributors</a></li>
+</ul>
+</nav>
+{{ end }}

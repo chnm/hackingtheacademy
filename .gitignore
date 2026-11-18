@@ -1,0 +1,6 @@
+.venv/
+public/
+resources/
+.hugo_build.lock
+cache/
+capture.log

@@ -1,0 +1,17 @@
+---
+title: "The Aesthetics of the Virtual Learning Space"
+authors: ["Luke Waltzer"]
+weight: 22
+original_url: "http://cac.ophony.org/2006/11/02/the-aesthetics-of-the-virtual-learning-space/"
+archive_url: "https://web.archive.org/web/20100529193511/http://cac.ophony.org/2006/11/02/the-aesthetics-of-the-virtual-learning-space/"
+published: 2006-11-02
+captured_from: wayback
+---
+
+I’ve been thinking a lot recently about the aesthetics of the virtual space, and how it can impact the amounts and types of traffic to an online learning tool.  What got me thinking about this was my attempt to answer the question of how weblogs used as instructional tools were different than “learning management systems” like Blackboard and WebCT.  Blackboard, like the course blogs I advocate, can easily transfer a wide-array of file types, and allows for participant discussion (though in a significantly less flexible manner than blogs).  If the primary benefit of the blog over Blackboard as an instructional tool lay in its malleability to the purpose of a teacher, then I would say that running a close second in terms of a separating difference is the *aesthetic* potential of a blog over a Blackboard site. And, obviously, those two points are related.
+
+I’ve seen some good Blackboard sites in the past, and have used it myself effectively in the teaching of the American history survey. I’ve never, however, heard any faculty member or any student say “what a great Blackboard site! Wow!” Instructional blogs that I’ve seen in circulation, however, have “wowed” frequently. This is likely not a newsflash to anyone with experience using these technologies.
+
+The “wow” factor, on the surface, seems to have little pedagogical value, and it’s vulnerable to accusations that it elevates style over substance. But I don’t think it should be completely discounted as an element of our efforts to bring students to our material through online teaching tools.  Creating an inviting virtual space, *with a logic and an aesthetic that flow from the purpose and materials of the course*, can help students see that space as an extension of the learning that is happening concurrently in the classroom.  It can help them feel a sense of belonging and a sense of ownership, and can help them feel that they are participating in something unique.  I can’t help but believe that this feeling translates to the way that students approach the material and the assignments on the site.  I look forward to exploring this issue more in my teaching and support of others’ teaching.  Blackboard’s aesthetic, with its heinous buttons and familiar logic, tends to generalize online learning.  It’s much more likely to produce a “duh” than a “wow.”
+
+The point is that we are dealing with *spaces* here, and virtual though they may be, how they look and act impacts the way we teach in them and the ways that students learn in them.  When we’re in the classroom, there are different methods we can use to engage students: mastery of the material, ability to spin a tale, and asking probing and demanding questions are a few that come to mind.  Those methods are still available to us in the virtual space, to be sure, but face-to-face contact is not.  Just as the personality of the teacher is an important element of his or her ability to engage a class, so too is the personality of an online teaching space.  This personality is developed through an attention to aesthetics.

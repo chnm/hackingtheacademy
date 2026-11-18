@@ -1,0 +1,12 @@
+<aside class="provenance" aria-label="About this copy">
+<p>
+{{- with .Params.note }}{{ strings.Trim . "() " | strings.FirstUpper }}. {{ end -}}
+{{ with .Params.original_url }}Originally published{{ with $.Params.published }} {{ time.Format "January 2, 2006" . }}{{ end }} at <a href="{{ . }}">{{ (urls.Parse .).Host | strings.TrimPrefix "www." }}</a>.{{ end }}
+{{ $snap := "" }}{{ with .Params.archive_url }}{{ $snap = . }}{{ end }}
+{{- if eq .Params.captured_from "wayback" }} This copy comes from the <a href="{{ $snap }}">Internet Archive's snapshot</a>.
+{{- else if eq .Params.captured_from "live" }} This copy was taken from the original page in 2026.{{ with $snap }} See also the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}
+{{- else if eq .Params.captured_from "youtube" }}{{ with $snap }} See the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}
+{{- else }} No copy is kept here.{{ with $snap }} See the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}
+{{- end }}
+</p>
+</aside>

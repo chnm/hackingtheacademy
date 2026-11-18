@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="post">
+<h1>Contributors</h1>
+<ul class="contributors">
+{{ range .Pages.ByTitle }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ len .Pages }})</li>
+{{ end }}
+</ul>
+</article>
+{{ end }}
