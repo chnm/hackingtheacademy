@@ -29,9 +29,10 @@ Media hosts (Vimeo, SlideShare, Scribd, Issuu) are embedded, never captured as t
 ## Rebuilding the captures
 
 ```bash
-python3.12 -m venv .venv && .venv/bin/pip install -r scripts/requirements.txt
-.venv/bin/python scripts/capture.py ~/work/chnm/hackingtheacademy-src/hackingtheacademy.org
+uv run scripts/capture.py ~/work/chnm/hackingtheacademy-src/hackingtheacademy.org
 ```
+
+The script declares its Python version and dependencies inline ([PEP 723](https://peps.python.org/pep-0723/)), so [uv](https://docs.astral.sh/uv/) sets up its environment on the first run.
 
 The argument is a mirror of the 2026 static site (`wget -m https://hackingtheacademy.org/`). Fetches are cached in `cache/` (gitignored), so a rerun only regenerates the files. The script overwrites `content/<section>/`, so make hand edits after the last run, or carry them over.
 
@@ -40,3 +41,7 @@ The argument is a mirror of the 2026 static site (`wget -m https://hackingtheaca
 ```bash
 hugo server
 ```
+
+## License
+
+The code (`scripts/`, `layouts/`, `assets/`, the configuration) is MIT-licensed; see [LICENSE](LICENSE). It doesn't cover the content: the contributions under `content/` are their authors' work, republished from the 2010 book week with links to where each first appeared. The Adler web font in `static/theme/fonts/` is a third-party font under its own terms.
