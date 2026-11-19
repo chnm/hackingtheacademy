@@ -310,8 +310,11 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 .notice { display: flex; align-items: center; gap: 15px; background: #f8f8f8; border: 1px solid #ddd; padding: 10px; margin: 0 0 20px; }
 .notice img { height: 30px; width: auto; }
 .notice p { font-size: 1.2em; margin: 0; }
-.footer-logos { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1.75rem; margin: 3em 0 1.25rem; }
-.footer-logos img { height: 60px; width: auto; display: block; }
+.footer-logos { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 2rem; margin: 1.5em 0; }
+.footer-logos img { height: 50px; width: auto; max-width: 100%; display: block; }
+.footer-logos a:last-child img { height: 80px; }
+footer { margin-top: 3em; }
+.footer-links { font-size: 1.3em; }
 @media (max-width: 600px) {
   body { margin: 0; padding: 16px; box-shadow: none; }
   #logo { font-size: 3.6em; padding: 10px 0; }
