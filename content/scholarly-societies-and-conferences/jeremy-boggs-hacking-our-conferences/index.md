@@ -1,7 +1,7 @@
 ---
 title: "Hacking our Conferences"
 authors: ["Jeremy Boggs"]
-weight: 22
+weight: 21
 original_url: "http://clioweb.org/2010/05/28/hacking-our-conferences/"
 archive_url: "https://web.archive.org/web/20110102075307/http://clioweb.org/2010/05/28/hacking-our-conferences/"
 published: 2010-05-28

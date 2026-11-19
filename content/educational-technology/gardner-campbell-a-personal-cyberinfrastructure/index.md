@@ -1,7 +1,7 @@
 ---
 title: "A Personal Cyberinfrastructure"
 authors: ["Gardner Campbell"]
-weight: 14
+weight: 13
 note: "(nominated by Matt Gold)"
 original_url: "http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/APersonalCyberinfrastructure/178431"
 archive_url: "https://web.archive.org/web/20100523220609/http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/APersonalCyberinfrastructure/178431"

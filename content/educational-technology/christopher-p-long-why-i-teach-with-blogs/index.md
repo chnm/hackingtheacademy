@@ -1,7 +1,7 @@
 ---
 title: "Why I Teach With Blogs"
 authors: ["Christopher P. Long"]
-weight: 24
+weight: 23
 note: "(video)"
 original_url: "http://www.personal.psu.edu/cpl2/blogs/cplportfolio/2010/05/why-i-teach-with-blogs.html"
 archive_url: "https://web.archive.org/web/20100529231927/http://www.personal.psu.edu/cpl2/blogs/cplportfolio/2010/05/why-i-teach-with-blogs.html"

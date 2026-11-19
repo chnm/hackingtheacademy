@@ -1,7 +1,7 @@
 ---
 title: "Will the Center Hold?"
 authors: ["Mills Kelly"]
-weight: 5
+weight: 4
 note: "(nominated  by Dan Cohen)"
 original_url: "http://edwired.org/?p=479"
 archive_url: "https://web.archive.org/web/20100529193440/http://edwired.org/?p=479"

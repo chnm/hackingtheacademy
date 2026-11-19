@@ -1,7 +1,7 @@
 ---
 title: "Towards the Next Stage of EdTech at CUNY"
 authors: ["Luke Waltzer"]
-weight: 21
+weight: 20
 original_url: "http://cac.ophony.org/2009/05/29/towards-the-next-stage-of-edtech-at-cuny/"
 archive_url: "https://web.archive.org/web/20100531005625/http://cac.ophony.org/2009/05/29/towards-the-next-stage-of-edtech-at-cuny/"
 published: 2009-05-29

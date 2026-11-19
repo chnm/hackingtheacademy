@@ -1,7 +1,7 @@
 ---
 title: "A distributed, multi-client courseware"
 authors: ["Boone Gorges"]
-weight: 7
+weight: 6
 note: "(Nominated by Brian Croxall)"
 original_url: "http://teleogistic.net/2010/05/a-distributed-multi-client-courseware/"
 archive_url: "https://web.archive.org/web/20100529161527/http://teleogistic.net/2010/05/a-distributed-multi-client-courseware/"

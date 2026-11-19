@@ -1,7 +1,7 @@
 ---
 title: "Relationships that Don’t Suck"
 authors: ["Cole Camplese"]
-weight: 35
+weight: 34
 original_url: "http://colecamplese.typepad.com/my_blog/2009/02/relationships-that-don-t-suck.html"
 archive_url: "https://web.archive.org/web/20100509174157/http://colecamplese.typepad.com/my_blog/2009/02/relationships-that-don-t-suck.html"
 published: 2009-02-24

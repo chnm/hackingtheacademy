@@ -1,7 +1,7 @@
 ---
 title: "The Aesthetics of the Virtual Learning Space"
 authors: ["Luke Waltzer"]
-weight: 22
+weight: 21
 original_url: "http://cac.ophony.org/2006/11/02/the-aesthetics-of-the-virtual-learning-space/"
 archive_url: "https://web.archive.org/web/20100529193511/http://cac.ophony.org/2006/11/02/the-aesthetics-of-the-virtual-learning-space/"
 published: 2006-11-02

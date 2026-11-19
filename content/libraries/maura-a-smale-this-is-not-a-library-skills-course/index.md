@@ -1,7 +1,7 @@
 ---
 title: "This is Not a Library Skills Course"
 authors: ["Maura A. Smale"]
-weight: 33
+weight: 32
 original_url: "http://msmale.commons.gc.cuny.edu/2010/05/28/this-is-not-a-library-skills-course/"
 archive_url: "https://web.archive.org/web/20100601054507/http://msmale.commons.gc.cuny.edu/2010/05/28/this-is-not-a-library-skills-course/"
 published: 2010-05-28

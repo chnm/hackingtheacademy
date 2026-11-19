@@ -1,7 +1,7 @@
 ---
 title: "Academic technologists know how to use a computer: Does that mean they should be in the central computing group?"
 authors: ["Meg Stewart"]
-weight: 32
+weight: 31
 original_url: "http://geospatial.posterous.com/academic-technologists-know-how-to-use-a-comp"
 archive_url: "https://web.archive.org/web/20100529204156/http://geospatial.posterous.com/academic-technologists-know-how-to-use-a-comp"
 published: 2010-05-26

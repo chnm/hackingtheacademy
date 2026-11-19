@@ -1,7 +1,7 @@
 ---
 title: "Teaching on YouTube"
 authors: ["Alex Juhasz"]
-weight: 23
+weight: 22
 original_url: "http://www.openculture.com/2008/04/teaching_on_youtube.html"
 archive_url: "https://web.archive.org/web/20100823212752/http://www.openculture.com/2008/04/teaching_on_youtube.html"
 published: 2008-04-22

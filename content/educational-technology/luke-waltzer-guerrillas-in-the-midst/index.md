@@ -1,7 +1,7 @@
 ---
 title: "Guerrillas in the Midst"
 authors: ["Luke Waltzer"]
-weight: 39
+weight: 38
 original_url: "http://lukewaltzer.com/guerrillas-in-the-midst/"
 archive_url: "https://web.archive.org/web/20100531035850/http://lukewaltzer.com/guerrillas-in-the-midst/"
 published: 2010-05-30

@@ -1,7 +1,7 @@
 ---
 title: "The Future of the AHA (cont’d)"
 authors: ["Mills Kelly"]
-weight: 9
+weight: 8
 original_url: "http://edwired.org/?p=310"
 archive_url: "https://web.archive.org/web/20100513004914/http://edwired.org/?p=310"
 published: 2008-06-04

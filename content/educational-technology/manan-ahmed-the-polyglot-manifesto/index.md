@@ -1,7 +1,7 @@
 ---
 title: "The Polyglot Manifesto"
 authors: ["Manan Ahmed"]
-weight: 37
+weight: 36
 original_url: "http://hnn.us/articles/25354.html"
 archive_url: "https://web.archive.org/web/20090825181022/http://hnn.us/articles/25354.html"
 published: 2005-09-30

@@ -1,7 +1,7 @@
 ---
 title: "The Archive or the Trace: Cultural Permanence and the Fugitive Text"
 authors: ["Mark Sample"]
-weight: 31
+weight: 30
 original_url: "http://www.samplereality.com/2010/01/18/the-archive-or-the-trace-cultural-permanence-and-the-fugitive-text/"
 archive_url: "https://web.archive.org/web/20100622165508/http://www.samplereality.com/2010/01/18/the-archive-or-the-trace-cultural-permanence-and-the-fugitive-text/"
 published: 2010-01-18

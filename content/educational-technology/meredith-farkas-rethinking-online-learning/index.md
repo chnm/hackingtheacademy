@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Online Learning"
 authors: ["Meredith Farkas"]
-weight: 8
+weight: 7
 note: "(nominated by Dorothea Salo)"
 original_url: "http://meredith.wolfwater.com/wordpress/2010/05/19/creating-community-in-online-learning/"
 archive_url: "https://web.archive.org/web/20100525165413/http://meredith.wolfwater.com/wordpress/2010/05/19/creating-community-in-online-learning/"

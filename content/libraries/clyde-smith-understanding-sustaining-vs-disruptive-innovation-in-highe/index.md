@@ -1,7 +1,7 @@
 ---
 title: "Understanding Sustaining vs. Disruptive Innovation in Higher Education and Academic Libraries"
 authors: ["Clyde Smith"]
-weight: 35
+weight: 34
 original_url: "http://www.culturalresearch.org/2010/05/-disruptive-vs-sustaining-innovation-in-higher-education-and-academic-libraries.html"
 archive_url: "https://web.archive.org/web/20100523105840/http://www.culturalresearch.org/2010/05/-disruptive-vs-sustaining-innovation-in-higher-education-and-academic-libraries.html"
 published: 2010-05-15

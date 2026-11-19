@@ -1,7 +1,7 @@
 ---
 title: "Notes on Running an Unconference"
 authors: ["Ethan Watrall"]
-weight: 14
+weight: 13
 original_url: "http://chronicle.com/blogPost/Notes-on-Organizing-an/24028/"
 archive_url: "https://web.archive.org/web/20100522021601/http://chronicle.com/blogPost/Notes-on-Organizing-an/24028/"
 published: 2010-05-17

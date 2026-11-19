@@ -1,7 +1,7 @@
 ---
 title: "What Would Does the Community Think?"
 authors: ["Jim Groom"]
-weight: 15
+weight: 14
 original_url: "http://bavatuesdays.com/what-would-does-the-community-think/"
 archive_url: "https://web.archive.org/web/20100530065246/http://bavatuesdays.com/what-would-does-the-community-think/"
 published: 2008-01-30

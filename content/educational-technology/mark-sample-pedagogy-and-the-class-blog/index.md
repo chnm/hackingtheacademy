@@ -1,7 +1,7 @@
 ---
 title: "Pedagogy and the Class Blog"
 authors: ["Mark Sample"]
-weight: 29
+weight: 28
 original_url: "http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/"
 archive_url: "https://web.archive.org/web/20100502030115/http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/"
 published: 2009-08-14

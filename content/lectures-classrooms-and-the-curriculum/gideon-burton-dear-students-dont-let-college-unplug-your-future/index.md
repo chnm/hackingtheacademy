@@ -1,7 +1,7 @@
 ---
 title: "Dear Students: Don’t Let College Unplug Your Future"
 authors: ["Gideon Burton"]
-weight: 64
+weight: 63
 original_url: "http://www.academicevolution.com/2009/01/dear-students.html"
 archive_url: "https://web.archive.org/web/20100317144233/http://www.academicevolution.com/2009/01/dear-students.html"
 published: 2009-01-06

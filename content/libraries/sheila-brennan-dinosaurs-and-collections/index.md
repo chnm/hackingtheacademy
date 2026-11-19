@@ -1,7 +1,7 @@
 ---
 title: "Dinosaurs and Collections"
 authors: ["Sheila Brennan"]
-weight: 27
+weight: 26
 original_url: "https://chnm.gmu.edu/staff/sheila/lot49/?p=83"
 archive_url: "https://web.archive.org/web/20131006165745/https://chnm.gmu.edu/staff/sheila/lot49/?p=83"
 published: 2009-01-01

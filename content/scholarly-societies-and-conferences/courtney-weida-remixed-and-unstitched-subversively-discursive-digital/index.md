@@ -1,7 +1,7 @@
 ---
 title: "Remixed and Unstitched: Subversively Discursive Digital Communities of Contemporary Craft"
 authors: ["Courtney Weida"]
-weight: 25
+weight: 24
 original_url: "http://digitalcommunitiesofcontemporarycraft.blogspot.com/2010/05/re-mixed-and-unstitched-subversively.html"
 archive_url: "https://web.archive.org/web/20160722012342/http://digitalcommunitiesofcontemporarycraft.blogspot.com/2010/05/re-mixed-and-unstitched-subversively.html"
 published: 2010-05-22

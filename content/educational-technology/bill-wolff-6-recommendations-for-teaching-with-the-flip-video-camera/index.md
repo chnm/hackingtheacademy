@@ -1,7 +1,7 @@
 ---
 title: "6 recommendations for teaching with the flip video camera"
 authors: ["Bill Wolff"]
-weight: 48
+weight: 47
 original_url: "http://williamwolff.org/composingspaces/some-recommendations-for-teaching-with-the-flip-video-camera/"
 archive_url: "https://web.archive.org/web/20100701004812/http://williamwolff.org/composingspaces/some-recommendations-for-teaching-with-the-flip-video-camera/"
 published: 2009-06-10

@@ -1,7 +1,7 @@
 ---
 title: "Managing Distraction: Reading in the Age of the App"
 authors: ["Monica Bulger"]
-weight: 33
+weight: 32
 note: "(nominated by Christine Madsen)"
 original_url: "http://monicabulger.com/2010/05/managing-distraction-reading-in-the-age-of-the-app/"
 archive_url: "https://web.archive.org/web/20100528121522/http://monicabulger.com/2010/05/managing-distraction-reading-in-the-age-of-the-app/"

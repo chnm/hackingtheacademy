@@ -1,7 +1,7 @@
 ---
 title: "Accessible Course Hacks: A Brief Primer"
 authors: ["Leslie Madsen-Brooks"]
-weight: 69
+weight: 68
 original_url: "http://cluttermuseum.blogspot.com/2010/05/accessible-course-hacks-brief-primer.html"
 archive_url: "https://web.archive.org/web/20101016145143/http://cluttermuseum.blogspot.com/2010/05/accessible-course-hacks-brief-primer.html"
 published: 2010-05-28

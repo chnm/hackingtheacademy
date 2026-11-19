@@ -1,7 +1,7 @@
 ---
 title: "Online CVs"
 authors: ["Patrick Murray-John"]
-weight: 31
+weight: 30
 original_url: "http://www.patrickgmj.net/node/187"
 archive_url: "https://web.archive.org/web/20100611092204/http://www.patrickgmj.net/node/187"
 published: 2010-05-29

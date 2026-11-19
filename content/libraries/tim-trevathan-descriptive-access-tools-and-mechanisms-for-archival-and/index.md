@@ -1,7 +1,7 @@
 ---
 title: "Descriptive access tools and mechanisms for archival and manuscript materials in the online environment"
 authors: ["Tim Trevathan"]
-weight: 38
+weight: 37
 original_url: "http://www.scribd.com/doc/19367583/LIBR25611EAD-Online-Access-Tools-FINISHED-Final-BlackPRNT5109"
 archive_url: "https://web.archive.org/web/20101114180109/http://www.scribd.com/doc/19367583/LIBR25611EAD-Online-Access-Tools-FINISHED-Final-BlackPRNT5109"
 published: 2009-09-03

@@ -1,7 +1,7 @@
 ---
 title: "Parsing the Box"
 authors: ["Boone Gorges"]
-weight: 3
+weight: 2
 note: "(response to Gold,  Against LMSes)"
 original_url: "http://edwired.org/?p=479"
 archive_url: "https://web.archive.org/web/20100529193440/http://edwired.org/?p=479"

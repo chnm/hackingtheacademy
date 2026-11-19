@@ -1,7 +1,7 @@
 ---
 title: "From Knowledgable to Knowledge-able: Learning in New Media Environments"
 authors: ["Michael Wesch"]
-weight: 26
+weight: 25
 original_url: "http://www.academiccommons.org/commons/essay/knowledgable-knowledge-able"
 archive_url: "https://web.archive.org/web/20100523140648/http://www.academiccommons.org/commons/essay/knowledgable-knowledge-able"
 published: 2009-01-07

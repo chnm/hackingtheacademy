@@ -1,7 +1,7 @@
 ---
 title: "Where’s the Prof?: Twitter Feeds for Your Office Door"
 authors: ["Jeff McClurken"]
-weight: 9
+weight: 8
 original_url: "http://chronicle.com/blogPost/Wheres-the-Prof-Twitter-/23043/"
 archive_url: "https://web.archive.org/web/20100529163305/http://chronicle.com/blogPost/Wheres-the-Prof-Twitter-/23043/"
 published: 2010-03-16

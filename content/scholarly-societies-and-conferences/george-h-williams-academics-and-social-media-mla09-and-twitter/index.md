@@ -1,7 +1,7 @@
 ---
 title: "Academics and Social Media: #mla09 and Twitter"
 authors: ["George H. Williams"]
-weight: 21
+weight: 20
 original_url: "http://chronicle.com/blogPost/AcademicsSocial-Media-/22901/"
 archive_url: "https://web.archive.org/web/20100527213757/http://chronicle.com/blogPost/AcademicsSocial-Media-/22901/"
 published: 2010-01-09

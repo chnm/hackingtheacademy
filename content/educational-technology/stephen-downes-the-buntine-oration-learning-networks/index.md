@@ -1,7 +1,7 @@
 ---
 title: "The Buntine Oration: Learning Networks"
 authors: ["Stephen Downes"]
-weight: 25
+weight: 24
 note: "(nomination by @bdieu)"
 original_url: "http://www.downes.ca/cgi-bin/page.cgi?post=20"
 archive_url: "https://web.archive.org/web/20100327042247/http://www.downes.ca/cgi-bin/page.cgi?post=20"

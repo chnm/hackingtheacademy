@@ -1,7 +1,7 @@
 ---
 title: "My own personal digital humanities conference"
 authors: ["Mark Sample"]
-weight: 11
+weight: 10
 original_url: "http://www.samplereality.com/2010/05/19/forget-unconferences-lets-think-about-underconferences/"
 archive_url: "https://web.archive.org/web/20100529204112/http://www.samplereality.com/2010/05/19/forget-unconferences-lets-think-about-underconferences/"
 published: 2010-05-19

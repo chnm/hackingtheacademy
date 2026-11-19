@@ -1,7 +1,7 @@
 ---
 title: "Epic.edu"
 authors: ["Tim Carmody"]
-weight: 44
+weight: 43
 original_url: "http://snarkmarket.com/2009/3043"
 published: 2021-02-12
 captured_from: live

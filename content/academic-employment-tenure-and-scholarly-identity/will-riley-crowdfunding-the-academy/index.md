@@ -1,7 +1,7 @@
 ---
 title: "Crowdfunding the Academy"
 authors: ["Will Riley"]
-weight: 32
+weight: 31
 original_url: "http://www.willriley.net/social-finance/crowdfunding-the-academy/"
 archive_url: "https://web.archive.org/web/20100602035514/http://www.willriley.net/social-finance/crowdfunding-the-academy/"
 published: 2010-05-28

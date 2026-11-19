@@ -1,7 +1,7 @@
 ---
 title: "Critical and Creative Parameters for Digital Media Learning"
 authors: ["Craig Dietrich"]
-weight: 58
+weight: 57
 original_url: "http://thoughtmesh.net/publish/318.php"
 archive_url: "https://web.archive.org/web/20111104171739/http://thoughtmesh.net/publish/318.php"
 published: 2009-08-01

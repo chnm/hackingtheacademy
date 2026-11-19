@@ -1,7 +1,7 @@
 ---
 title: "The Computer-Mediated Classroom"
 authors: ["Joan Shaffer"]
-weight: 59
+weight: 58
 original_url: "http://writingdegreezero.com/archives/318"
 archive_url: "https://web.archive.org/web/20120413231043/http://writingdegreezero.com/archives/318"
 published: 2010-01-21

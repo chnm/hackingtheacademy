@@ -1,7 +1,7 @@
 ---
 title: "From Cost-Center to Profit-Center: Academic Libraries"
 authors: ["Cathy Eisenhower"]
-weight: 24
+weight: 23
 original_url: "http://uvenus.wordpress.com/2010/02/17/314/"
 archive_url: "https://web.archive.org/web/20100615235519/http://uvenus.wordpress.com/2010/02/17/314/"
 published: 2010-02-17

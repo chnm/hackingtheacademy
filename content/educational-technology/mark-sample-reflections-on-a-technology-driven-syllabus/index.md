@@ -1,7 +1,7 @@
 ---
 title: "Reflections on a Technology-Driven Syllabus"
 authors: ["Mark Sample"]
-weight: 28
+weight: 27
 original_url: "http://www.samplereality.com/2009/09/30/reflections-on-a-technology-driven-syllabus/"
 archive_url: "https://web.archive.org/web/20100502030119/http://www.samplereality.com/2009/09/30/reflections-on-a-technology-driven-syllabus/"
 published: 2009-09-30

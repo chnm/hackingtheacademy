@@ -1,7 +1,7 @@
 ---
 title: "Against Learning Management Systems"
 authors: ["Matthew K. Gold"]
-weight: 2
+weight: 1
 original_url: "http://mkgold.net/blog/2009/03/30/against-learning-management-systems/"
 archive_url: "https://web.archive.org/web/20100529154637/http://mkgold.net/blog/2009/03/30/against-learning-management-systems/"
 published: 2009-03-30

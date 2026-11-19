@@ -1,7 +1,7 @@
 ---
 title: "Revolution or Evolution? Changing Instructional Practices in the Academy"
 authors: ["Derek Bruff"]
-weight: 60
+weight: 59
 original_url: "http://derekbruff.com/teachingwithcrs/?p=658"
 archive_url: "https://web.archive.org/web/20101017052906/http://derekbruff.com/teachingwithcrs/?p=658"
 published: 2010-10-16

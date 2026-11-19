@@ -1,7 +1,7 @@
 ---
 title: "How to get the most out of an unconference?"
 authors: ["James Calder"]
-weight: 16
+weight: 15
 original_url: "http://www.publicmediacamp.org/2010/03/31/how-to-get-the-most-out-of-an-unconference/"
 archive_url: "https://web.archive.org/web/20100621083315/http://www.publicmediacamp.org/2010/03/31/how-to-get-the-most-out-of-an-unconference/"
 published: 2010-03-31

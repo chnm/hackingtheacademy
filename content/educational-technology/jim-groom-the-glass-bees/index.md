@@ -1,7 +1,7 @@
 ---
 title: "The Glass Bees"
 authors: ["Jim Groom"]
-weight: 4
+weight: 3
 note: "(nominated by Matt Gold)"
 original_url: "http://bavatuesdays.com/the-glass-bees/"
 archive_url: "https://web.archive.org/web/20100523103357/http://bavatuesdays.com/the-glass-bees/"

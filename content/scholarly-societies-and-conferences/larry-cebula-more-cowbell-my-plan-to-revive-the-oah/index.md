@@ -1,7 +1,7 @@
 ---
 title: "More Cowbell: My Plan to Revive the OAH"
 authors: ["Larry Cebula"]
-weight: 20
+weight: 19
 note: "(nomination)"
 original_url: "http://northwesthistory.blogspot.com/2009/09/my-plan-to-revive-oah.html"
 archive_url: "https://web.archive.org/web/20110708055210/http://northwesthistory.blogspot.com/2009/09/my-plan-to-revive-oah.html"

@@ -1,7 +1,7 @@
 ---
 title: "Democratizing Knowledge in the Digital Humanities: Making Scholarship Public, Producing Public Scholarship"
 authors: ["HASTAC"]
-weight: 18
+weight: 17
 note: "(nominated by Jentery Sayers)"
 original_url: "http://www.hastac.org/forums/hastac-scholars-discussions/democratizing-knowledge-digital-humanities"
 archive_url: "https://web.archive.org/web/20100802210202/http://www.hastac.org/forums/hastac-scholars-discussions/democratizing-knowledge-digital-humanities"

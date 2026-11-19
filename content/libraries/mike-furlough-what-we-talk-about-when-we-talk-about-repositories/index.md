@@ -1,7 +1,7 @@
 ---
 title: "What We Talk About When We Talk About Repositories"
 authors: ["Mike Furlough"]
-weight: 28
+weight: 27
 original_url: "http://www.rusq.org/2009/11/28/what-we-talk-about-when-we-talk-about-repositories/"
 archive_url: "https://web.archive.org/web/20100609224953/http://www.rusq.org/2009/11/28/what-we-talk-about-when-we-talk-about-repositories/"
 published: 2009-11-28

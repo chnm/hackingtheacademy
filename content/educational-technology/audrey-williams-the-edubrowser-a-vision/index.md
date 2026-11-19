@@ -1,7 +1,7 @@
 ---
 title: "The “EDUbrowser” – a vision"
 authors: ["Audrey Williams"]
-weight: 19
+weight: 18
 original_url: "http://blogs.pstcc.edu/teachtech/2009/10/28/the-edubrowser-a-vision/"
 archive_url: "https://web.archive.org/web/20100529183800/http://blogs.pstcc.edu/teachtech/2009/10/28/the-edubrowser-a-vision/"
 published: 2009-10-28

@@ -1,7 +1,7 @@
 ---
 title: "I got my BA in IS from the CC"
 authors: ["Tim Carmody"]
-weight: 66
+weight: 65
 original_url: "http://snarkmarket.com/2009/3079"
 published: 2021-02-12
 captured_from: live

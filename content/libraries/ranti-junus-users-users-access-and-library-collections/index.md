@@ -1,7 +1,7 @@
 ---
 title: "Users, users access, and library collections"
 authors: ["Ranti Junus"]
-weight: 30
+weight: 29
 original_url: "http://ranti.wordpress.com/users-access-and-library-collections/"
 archive_url: "https://web.archive.org/web/20110721051604/http://ranti.wordpress.com/users-access-and-library-collections/"
 published: 2011-07-21

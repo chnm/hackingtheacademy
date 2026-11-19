@@ -1,7 +1,7 @@
 ---
 title: "Art and (Sustainable) Society Re-Mix: An exercise in building a course using transmedia pedagogy"
 authors: ["John Fenn"]
-weight: 38
+weight: 37
 original_url: "http://aaablogs.uoregon.edu/artsustainablesociety/2010/05/28/course-remix-the-story/"
 archive_url: "https://web.archive.org/web/20100921181155/http://aaablogs.uoregon.edu/artsustainablesociety/2010/05/28/course-remix-the-story/"
 published: 2010-05-28

@@ -1,7 +1,7 @@
 ---
 title: "Online Education: Walled Garden vs Dating Service"
 authors: ["Shawn Graham"]
-weight: 18
+weight: 17
 original_url: "http://electricarchaeologist.wordpress.com/2010/02/10/online-education-walled-garden-vs-dating-service/"
 archive_url: "https://web.archive.org/web/20100529164122/http://electricarchaeologist.wordpress.com/2010/02/10/online-education-walled-garden-vs-dating-service/"
 published: 2010-02-10

@@ -1,7 +1,7 @@
 ---
 title: "Hacking Secondary Education"
 authors: ["David Bill"]
-weight: 68
+weight: 67
 original_url: "http://blog.davidbill.org/?p=638"
 archive_url: "https://web.archive.org/web/20141221212203/http://blog.davidbill.org/?p=638"
 published: 2014-10-08

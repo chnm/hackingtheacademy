@@ -1,7 +1,7 @@
 ---
 title: "The End of People Moving? Follow the Grad Students"
 authors: ["Adam Crymble"]
-weight: 19
+weight: 18
 original_url: "http://adamcrymble.blogspot.com/2010/05/end-of-people-moving-follow-grad.html"
 archive_url: "https://web.archive.org/web/20100530081844/http://adamcrymble.blogspot.com/2010/05/end-of-people-moving-follow-grad.html"
 published: 2010-05-25

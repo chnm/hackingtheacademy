@@ -1,7 +1,7 @@
 ---
 title: "Anthony Grafton and Digital Humanism"
 authors: ["Tim Carmody"]
-weight: 24
+weight: 23
 original_url: "http://snarkmarket.com/2009/3081"
 published: 2021-02-12
 captured_from: live

@@ -1,7 +1,7 @@
 ---
 title: "Zen Scavenger Essay Writing"
 authors: ["Mark Sample"]
-weight: 30
+weight: 29
 original_url: "http://www.samplereality.com/2009/04/14/zen-scavenger-essay-writing/"
 archive_url: "https://web.archive.org/web/20100529204037/http://www.samplereality.com/2009/04/14/zen-scavenger-essay-writing/"
 published: 2009-04-14

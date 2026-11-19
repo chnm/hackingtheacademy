@@ -1,7 +1,7 @@
 ---
 title: "Deschooling Society"
 authors: []
-weight: 6
+weight: 5
 note: "(wikipedia article nominated by Trevor Owens)"
 original_url: "http://thatcamp.org/2010/one-week-one-book-hacking-the-academy/#comment-683"
 archive_url: "https://web.archive.org/web/20100523235558/http://thatcamp.org/2010/one-week-one-book-hacking-the-academy/#comment-683"

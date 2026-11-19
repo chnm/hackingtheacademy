@@ -1,7 +1,7 @@
 ---
 title: "Twitterpated: Using Social Media at Academic Conferences"
 authors: ["Jana Remy"]
-weight: 8
+weight: 7
 original_url: "http://historycompass.wordpress.com/2009/11/16/twitterpated-using-social-media-at-academic-conferences/"
 archive_url: "https://web.archive.org/web/20100530072507/http://historycompass.wordpress.com/2009/11/16/twitterpated-using-social-media-at-academic-conferences/"
 published: 2009-11-16

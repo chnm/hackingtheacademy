@@ -1,7 +1,7 @@
 ---
 title: "Banning laptops doesn’t solve the distraction problem"
 authors: ["Monica Bulger"]
-weight: 34
+weight: 33
 note: "(nominated by Christine Madsen)"
 original_url: "http://monicabulger.com/2010/04/banning-laptops-doesnt-solve-the-distraction-problem/"
 archive_url: "https://web.archive.org/web/20100624014733/http://monicabulger.com/2010/04/banning-laptops-doesnt-solve-the-distraction-problem/"

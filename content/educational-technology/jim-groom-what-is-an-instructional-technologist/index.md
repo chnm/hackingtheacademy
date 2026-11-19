@@ -1,7 +1,7 @@
 ---
 title: "What is an Instructional Technologist?"
 authors: ["Jim Groom"]
-weight: 12
+weight: 11
 note: "(nominated by Matt Gold)"
 original_url: "http://bavatuesdays.com/what-is-an-instructional-technologist/"
 archive_url: "https://web.archive.org/web/20100626025643/http://bavatuesdays.com/what-is-an-instructional-technologist/"

@@ -1,7 +1,7 @@
 ---
 title: "digital pedagogy video"
 authors: ["Holly Willis", "Virginia Kuhn"]
-weight: 56
+weight: 55
 note: "(video)"
 original_url: "http://vimeo.com/channels/110137"
 archive_url: "https://web.archive.org/web/20111108081625/http://vimeo.com/channels/110137"

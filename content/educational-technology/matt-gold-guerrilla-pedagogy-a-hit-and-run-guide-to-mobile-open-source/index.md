@@ -1,7 +1,7 @@
 ---
 title: "Guerrilla Pedagogy: a hit-and-run guide to mobile, open-source, aggregated course design"
 authors: ["Matt Gold"]
-weight: 40
+weight: 39
 note: "(nominated by Luke Waltzer)"
 original_url: "http://guerrillapedagogy.mkgold.net/"
 archive_url: "https://web.archive.org/web/20100605003317/http://guerrillapedagogy.mkgold.net/"

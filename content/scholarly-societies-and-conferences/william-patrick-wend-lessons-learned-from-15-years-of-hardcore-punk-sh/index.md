@@ -1,7 +1,7 @@
 ---
 title: "Lessons Learned From 15 Years of Hardcore-Punk Shows About Hacking The Academic Conference"
 authors: ["William Patrick Wend"]
-weight: 23
+weight: 22
 original_url: "http://www.wpwend.com/2010/05/28/hacking-the-academy-lessons-learned-from-15-years-of-hardcore-punk-shows-about-hacking-the-academic-conference/"
 archive_url: "https://web.archive.org/web/20130625192311/http://www.wpwend.com/2010/05/28/hacking-the-academy-lessons-learned-from-15-years-of-hardcore-punk-shows-about-hacking-the-academic-conference/"
 published: 2010-05-28

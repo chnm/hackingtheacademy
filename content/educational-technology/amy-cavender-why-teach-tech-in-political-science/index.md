@@ -1,7 +1,7 @@
 ---
 title: "Why Teach Tech in Political Science?"
 authors: ["Amy Cavender"]
-weight: 15
+weight: 14
 original_url: "http://chronicle.com/blogPost/Why-Teach-Tech-in-Political/22713/"
 archive_url: "https://web.archive.org/web/20100529163311/http://chronicle.com/blogPost/Why-Teach-Tech-in-Political/22713/"
 published: 2009-09-18

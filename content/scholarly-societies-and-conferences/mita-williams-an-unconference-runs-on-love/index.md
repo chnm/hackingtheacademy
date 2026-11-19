@@ -1,7 +1,7 @@
 ---
 title: "An Unconference Runs on Love"
 authors: ["Mita Williams"]
-weight: 13
+weight: 12
 original_url: "http://librarian.newjackalmanac.ca/2010/03/unconference-runs-on-love-great-lakes.html"
 archive_url: "https://web.archive.org/web/20100528110825/http://librarian.newjackalmanac.ca/2010/03/unconference-runs-on-love-great-lakes.html"
 published: 2010-03-24

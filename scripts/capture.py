@@ -87,6 +87,24 @@ def snapshot(url):
     return min(stamps, key=lambda t: abs(int(t[:8]) - int(BOOK_WEEK)), default=None)
 
 
+def redirect_target(url):
+    """Where an archived redirect of url pointed (nearest the book week), or None."""
+    status, _, body, _ = get(
+        "https://web.archive.org/cdx/search/cdx?output=json&fl=timestamp"
+        f"&filter=statuscode:3..&url={requests.utils.quote(url, safe='')}"
+    )
+    if status != 200 or not body.strip():
+        return None
+    stamps = [row[0] for row in json.loads(body)[1:]]
+    if not stamps:
+        return None
+    ts = min(stamps, key=lambda t: abs(int(t[:8]) - int(BOOK_WEEK)))
+    _, _, _, final = get(f"https://web.archive.org/web/{ts}id_/{url}")
+    m = re.search(r"/web/\d+(?:id_)?/(https?://.+)", final)
+    target = m and re.sub(r"^(https?://[^/]+):80/", r"\1/", m.group(1)).split("#")[0]
+    return target if target and target.rstrip("/") != url.rstrip("/") else None
+
+
 def slugify(text, limit=70):
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
     slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
@@ -101,17 +119,13 @@ def split_authors(text):
 
 
 def parse_section(path):
-    """One entry per link (or per unlinked line) in the section's content div."""
+    """One entry per link in the section's content div."""
     soup = BeautifulSoup(path.read_text(), "html.parser")
     entries = []
     for p in soup.select("div.content p"):
         links = p.find_all("a")
         if not links:
-            text = p.get_text(" ", strip=True)
-            if text:
-                author, _, title = text.partition(",")
-                entries.append({"authors": split_authors(author), "title": title.strip() or text, "url": None, "note": ""})
-            continue
+            continue  # an unlinked line stays in the section page as written; no page of its own
         before = "".join(str(s) for s in links[0].previous_siblings)
         after = "".join(str(s) for s in links[-1].next_siblings)
         authors = split_authors(BeautifulSoup(before, "html.parser").get_text())
@@ -137,7 +151,15 @@ def capture(entry):
     entry.update(archived=None, archive_url=None, source=None, body="", files={}, date=None)
     if not url:
         return entry
+    if m := re.match(r"https?://(?:www\.)?archive\.org/details/([^/?#]+)", url):
+        entry["source"] = "archive.org"
+        entry["body"] = (f'<iframe src="https://archive.org/embed/{m.group(1)}" width="640" height="480" '
+                         f'title="{html.escape(entry["title"])}" allowfullscreen></iframe>')
+        return entry
     ts = snapshot(url)
+    if not ts and (target := redirect_target(url)):
+        # Moved posts and short links: capture where the archived redirect went.
+        url, ts = target, snapshot(target)
     if ts:
         entry["archived"] = ts
         entry["archive_url"] = f"https://web.archive.org/web/{ts}/{url}"
@@ -236,7 +258,7 @@ def clean_html(doc):
 
 
 def spreadsheet(key):
-    """A public Google Sheet as a Markdown table plus its CSV; None if not public."""
+    """A public Google Sheet as its CSV plus the csv shortcode; None if not public."""
     status, ctype, data, _ = get(f"https://docs.google.com/spreadsheets/d/{key}/export?format=csv")
     if status != 200 or "csv" not in ctype:
         return None
@@ -244,12 +266,9 @@ def spreadsheet(key):
     # Drop columns that are only links, numeric ids or blank (avatars, user ids).
     keep = [i for i in range(len(rows[0]))
             if not all(re.fullmatch(r"(https?://\S*|\d*)", r[i].strip()) for r in rows[1:] if i < len(r))]
-    cell = lambda v: v.replace("|", "\\|").replace("\n", " ").strip()
-    table = ["| " + " | ".join(cell(rows[0][i]) for i in keep) + " |",
-             "|" + "---|" * len(keep)]
-    table += ["| " + " | ".join(cell(r[i]) if i < len(r) else "" for i in keep) + " |" for r in rows[1:]]
-    body = "\n".join(table) + "\n\n[Download the spreadsheet (CSV)](spreadsheet.csv)"
-    body = re.sub(r"<(?=[/a-zA-Z!?])", "&lt;", body)
+    columns = ",".join(rows[0][i].replace('"', "") for i in keep)
+    body = (f'{{{{< csv file="spreadsheet.csv" columns="{columns}" >}}}}\n\n'
+            "[Download the spreadsheet (CSV)](spreadsheet.csv)")
     return body, {"spreadsheet.csv": data}
 
 
@@ -276,7 +295,9 @@ def yaml_str(s):
 
 
 def write(section, weight, entry, used):
-    """Write the bundle; returns its URL path."""
+    """Write the bundle; returns its URL path, or None for a lost piece (no page)."""
+    if not entry["source"]:
+        return None
     base = slugify(f"{(entry['authors'] or [''])[0]} {entry['title']}")
     slug, n = base, 2
     while slug in used:
@@ -307,12 +328,20 @@ def write(section, weight, entry, used):
 
 
 def write_section(site, section, paths):
-    """The section page keeps the original list as written, linked to the captures."""
+    """The section page keeps the original list as written, linked to the captures.
+
+    A lost piece keeps its title, unlinked, with a "(lost)" label."""
     soup = BeautifulSoup((site / section / "index.html").read_text(), "html.parser")
     title = soup.select_one("div.post h1").get_text(strip=True)
     content = soup.select_one("div.content")
     for a, path in zip(content.find_all("a"), paths):
-        a["href"] = path
+        if path:
+            a["href"] = path
+            continue
+        label = soup.new_tag("span", attrs={"class": "lost"})
+        label.string = "(lost)"
+        a.insert_after(" ", label)
+        a.unwrap()
     body = "".join(str(c) for c in content.children).strip()
     weight = SECTIONS.index(section) + 1
     (CONTENT / section / "_index.html").write_text(
@@ -328,9 +357,7 @@ def main(site):
     used = {s: set() for s in SECTIONS}
     paths = {s: [] for s in SECTIONS}
     for (section, weight, _), entry in zip(jobs, done):
-        path = write(section, weight, entry, used[section])
-        if entry["url"]:
-            paths[section].append(path)
+        paths[section].append(write(section, weight, entry, used[section]))
     for section in SECTIONS:
         write_section(site, section, paths[section])
     tally = {}

@@ -1,7 +1,7 @@
 ---
 title: "Domain of One’s Own"
 authors: ["Jim Groom"]
-weight: 13
+weight: 12
 note: "(nominated by Matt Gold)"
 original_url: "http://bavatuesdays.com/a-domain-of-ones-own/"
 archive_url: "https://web.archive.org/web/20100618040220/http://bavatuesdays.com/a-domain-of-ones-own/"

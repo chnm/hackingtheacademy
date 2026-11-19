@@ -1,7 +1,7 @@
 ---
 title: "Archaeology in, and archaeology of, Second Life"
 authors: ["Shawn Graham"]
-weight: 17
+weight: 16
 original_url: "http://electricarchaeologist.wordpress.com/2008/06/30/archaeology-in-and-archaeology-of-second-life/"
 archive_url: "https://web.archive.org/web/20100529164059/http://electricarchaeologist.wordpress.com/2008/06/30/archaeology-in-and-archaeology-of-second-life/"
 published: 2008-06-30

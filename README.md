@@ -6,7 +6,7 @@ The original WordPress site only linked to the contributions, and by 2026 about 
 
 ## Layout
 
-- `content/<section>/_index.html` is a section page: the original list, exactly as written, with each link pointing at its captured copy.
+- `content/<section>/_index.html` is a section page: the original list, exactly as written, with each link pointing at its captured copy. Pieces with no surviving copy anywhere keep their title, unlinked, labelled "(lost)", and get no page.
 - `content/<section>/<slug>/index.md` is one contribution, as a page bundle that holds its images and PDFs. Front matter:
 
   | param | |
@@ -17,10 +17,12 @@ The original WordPress site only linked to the contributions, and by 2026 about 
   | `original_url` | the link as it appeared on the 2010 site |
   | `archive_url` | the Wayback snapshot nearest May 28, 2010 |
   | `published` | the post's own date, when the capture has one |
-  | `captured_from` | `wayback`, `live` (the original page, fetched in 2026), `youtube` (embedded), or `none` (no copy recovered) |
+  | `captured_from` | `wayback`, `live` (the original page, fetched in 2026), `youtube` or `archive.org` (embedded) |
 
 - `content/news/` holds the site's three posts, and `content/what-this-is-and-how-to-contribute.html` is the call for contributions, recovered from Wayback. The posts keep their old URLs, with the `/2010/MM/` WordPress paths as aliases.
 - `static/theme/` is Jeremy Boggs's 2010 theme with WCAG fixes (focus outline, contrast, reflow) and its Adler font, recovered from Wayback.
+
+Where a link had no archived copy, the script follows an archived redirect (moved blogs, bit.ly links) and captures its target. 2010 Google Docs are decoded from the editor page Wayback saved, and a still-public Google Sheet is kept as `spreadsheet.csv` and shown with the `csv` shortcode (`{{< csv file="spreadsheet.csv" columns="A,B" caption="..." >}}`).
 
 ## Rebuilding the captures
 

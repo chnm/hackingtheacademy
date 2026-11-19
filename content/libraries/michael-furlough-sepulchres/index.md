@@ -1,7 +1,7 @@
 ---
 title: "Sepulchres"
 authors: ["Michael Furlough"]
-weight: 36
+weight: 35
 original_url: "http://www.personal.psu.edu/mjf25/blogs/on_furlough/2010/05/sepulchres.html"
 archive_url: "https://web.archive.org/web/20120918025405/http://www.personal.psu.edu/mjf25/blogs/on_furlough/2010/05/sepulchres.html"
 published: 2010-05-28

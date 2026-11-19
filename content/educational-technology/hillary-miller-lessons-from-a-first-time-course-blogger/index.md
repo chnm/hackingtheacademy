@@ -1,7 +1,7 @@
 ---
 title: "Lessons from a First-Time Course Blogger"
 authors: ["Hillary Miller"]
-weight: 10
+weight: 9
 note: "(nominated by Luke Waltzer)"
 original_url: "http://cac.ophony.org/2009/06/12/lessons-from-a-first-time-course-blogger/"
 archive_url: "https://web.archive.org/web/20100310082414/http://cac.ophony.org/2009/06/12/lessons-from-a-first-time-course-blogger/"

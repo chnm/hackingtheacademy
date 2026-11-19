@@ -1,7 +1,7 @@
 ---
 title: "Using Multiple Video Chats in Education"
 authors: ["Rey Junco"]
-weight: 20
+weight: 19
 original_url: "http://blog.reyjunco.com/using-multiple-video-chats-in-education"
 archive_url: "https://web.archive.org/web/20100411030627/http://blog.reyjunco.com/using-multiple-video-chats-in-education"
 published: 2010-04-06

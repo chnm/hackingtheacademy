@@ -300,6 +300,12 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 .gdoc { font-size: 1.5em; line-height: 1.3333em; margin-bottom: 1.3333em; }
 .gdoc p, .gdoc ul, .gdoc ol, .content .gdoc table { font-size: 1em; }
 
+/* csv shortcode tables; lost pieces in the section lists */
+.table-scroll { overflow-x: auto; margin-bottom: 1.3333em; }
+.content .table-scroll table { margin-bottom: 0; }
+.content caption { font-size: 1.1em; text-align: left; padding-bottom: 4px; }
+.lost { color: #63635f; font-style: italic; }
+
 /* RRCHNM sustainability banner and footer logos */
 .notice { display: flex; align-items: center; gap: 15px; background: #f8f8f8; border: 1px solid #ddd; padding: 10px; margin: 0 0 20px; }
 .notice img { height: 30px; width: auto; }

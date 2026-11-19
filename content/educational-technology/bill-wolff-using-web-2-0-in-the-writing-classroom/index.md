@@ -1,7 +1,7 @@
 ---
 title: "using web 2.0 in the writing classroom"
 authors: ["Bill Wolff"]
-weight: 47
+weight: 46
 original_url: "http://williamwolff.org/composingspaces/using-web-20-in-the-writing-classroom/"
 archive_url: "https://web.archive.org/web/20100622171610/http://williamwolff.org/composingspaces/using-web-20-in-the-writing-classroom/"
 published: 2009-05-20

@@ -1,7 +1,7 @@
 ---
 title: "21st Century Public History"
 authors: ["Sharon Leon"]
-weight: 37
+weight: 36
 original_url: "http://www.6floors.org/bracket/2010/04/21/21st-century-public-history-part-i/"
 archive_url: "https://web.archive.org/web/20111108215940/http://www.6floors.org/bracket/2010/04/21/21st-century-public-history-part-i/"
 published: 2010-04-21

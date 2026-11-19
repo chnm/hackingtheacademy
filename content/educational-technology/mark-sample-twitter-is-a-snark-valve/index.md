@@ -1,7 +1,7 @@
 ---
 title: "Twitter is a Snark Valve"
 authors: ["Mark Sample"]
-weight: 27
+weight: 26
 original_url: "http://www.samplereality.com/2009/10/07/twitter-is-a-snark-valve/"
 archive_url: "https://web.archive.org/web/20101127023411/http://www.samplereality.com/2009/10/07/twitter-is-a-snark-valve/"
 published: 2009-10-07

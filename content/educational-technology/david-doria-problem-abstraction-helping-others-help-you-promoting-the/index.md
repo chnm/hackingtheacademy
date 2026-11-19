@@ -1,7 +1,7 @@
 ---
 title: "Problem Abstraction: Helping others help you & promoting the archive-ability of your answer"
 authors: ["David Doria"]
-weight: 31
+weight: 30
 original_url: "http://daviddoria.blogspot.com/2010/05/problem-abstraction-helping-others-help.html"
 archive_url: "https://web.archive.org/web/20100529163926/http://daviddoria.blogspot.com/2010/05/problem-abstraction-helping-others-help.html"
 published: 2010-05-17

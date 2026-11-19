@@ -1,7 +1,7 @@
 ---
 title: "Teaching naked"
 authors: ["Erik Marshall"]
-weight: 61
+weight: 60
 original_url: "http://www.erikmarshall.net/blog/teaching-naked/"
 archive_url: "https://web.archive.org/web/20100103232338/http://www.erikmarshall.net/blog/teaching-naked/"
 published: 2010-01-02

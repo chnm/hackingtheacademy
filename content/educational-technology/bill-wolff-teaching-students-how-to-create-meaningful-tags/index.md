@@ -1,7 +1,7 @@
 ---
 title: "teaching students how to create meaningful tags"
 authors: ["Bill Wolff"]
-weight: 46
+weight: 45
 original_url: "http://williamwolff.org/composingspaces/teaching-students-how-to-create-meaningful-tags/"
 archive_url: "https://web.archive.org/web/20100622171205/http://williamwolff.org/composingspaces/teaching-students-how-to-create-meaningful-tags/"
 published: 2009-05-13

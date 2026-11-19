@@ -1,7 +1,7 @@
 ---
 title: "Three Roles for Teachers using Technology"
 authors: ["Jeremy Boggs"]
-weight: 11
+weight: 10
 original_url: "http://clioweb.org/2009/02/07/three-roles-for-teachers-using-technology/"
 archive_url: "https://web.archive.org/web/20100529182234/http://clioweb.org/2009/02/07/three-roles-for-teachers-using-technology/"
 published: 2009-02-07

@@ -1,7 +1,7 @@
 ---
 title: "Historical Documents in a Digital Library: OCR, Metadata, and Crowdsourcing"
 authors: ["Joshua Beatty"]
-weight: 32
+weight: 31
 original_url: "http://lemonadeandinformation.wordpress.com/2010/05/28/historical-documents-in-a-digital-library-ocr-metadata-and-crowdsourcing/"
 archive_url: "https://web.archive.org/web/20101010131832/http://lemonadeandinformation.wordpress.com/2010/05/28/historical-documents-in-a-digital-library-ocr-metadata-and-crowdsourcing/"
 published: 2010-05-28

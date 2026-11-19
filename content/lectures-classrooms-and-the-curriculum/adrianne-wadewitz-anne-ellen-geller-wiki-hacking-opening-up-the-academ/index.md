@@ -1,7 +1,7 @@
 ---
 title: "Wiki-hacking: Opening up the academy with Wikipedia"
 authors: ["Adrianne Wadewitz, Anne Ellen Geller,", "Jon Beasley-Murray"]
-weight: 63
+weight: 62
 original_url: "http://en.wikipedia.org/wiki/User:Awadewit/TeachingEssay"
 archive_url: "https://web.archive.org/web/20100616232115/http://en.wikipedia.org/wiki/User:Awadewit/TeachingEssay"
 published: 2010-06-12

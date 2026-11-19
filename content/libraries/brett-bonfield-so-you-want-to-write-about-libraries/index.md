@@ -1,7 +1,7 @@
 ---
 title: "So you want to write about libraries?"
 authors: ["Brett Bonfield"]
-weight: 34
+weight: 33
 original_url: "http://www.inthelibrarywiththeleadpipe.org/2009/so-you-want-to-write-about-libraries/"
 archive_url: "https://web.archive.org/web/20100831165047/http://www.inthelibrarywiththeleadpipe.org/2009/so-you-want-to-write-about-libraries/"
 published: 2009-12-02

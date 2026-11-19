@@ -1,7 +1,7 @@
 ---
 title: "How to Archive a Conference"
 authors: ["Adam Crymble"]
-weight: 17
+weight: 16
 original_url: "http://adamcrymble.blogspot.com/2009/11/how-to-archive-conference.html"
 archive_url: "https://web.archive.org/web/20100530081020/http://adamcrymble.blogspot.com/2009/11/how-to-archive-conference.html"
 published: 2009-11-13

@@ -1,7 +1,7 @@
 ---
 title: "The Digital Elephant"
 authors: ["Claire Warwick"]
-weight: 25
+weight: 24
 original_url: "http://clairewarwick.blogspot.com/2010/05/digital-elephant.html"
 archive_url: "https://web.archive.org/web/20120203103245/http://clairewarwick.blogspot.com/2010/05/digital-elephant.html"
 published: 2010-05-28

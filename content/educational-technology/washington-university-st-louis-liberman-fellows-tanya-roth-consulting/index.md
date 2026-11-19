@@ -1,7 +1,7 @@
 ---
 title: "Things We Learned While Teaching About Technology in the Classroom"
 authors: ["Washington University-St. Louis Liberman Fellows Tanya Roth (Consulting Fellow/PhD candidate in history), Bryn Lutes (Senior Fellow/PhD Candidate in Chemistry),", "Rajbir Hazelwood (Junior Fellow/PhD candidate in history)"]
-weight: 36
+weight: 35
 original_url: "http://tanyaroth.wordpress.com/2010/05/28/things-we-learned-while-teaching-about-technology-in-the-classroom/"
 archive_url: "https://web.archive.org/web/20101116050050/http://tanyaroth.wordpress.com/2010/05/28/things-we-learned-while-teaching-about-technology-in-the-classroom/"
 published: 2010-05-28

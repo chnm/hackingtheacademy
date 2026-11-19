@@ -1,7 +1,7 @@
 ---
 title: "This Is Not A Game: ARGs as a Composition Course Structure"
 authors: ["Jay Johnson"]
-weight: 57
+weight: 56
 original_url: "http://impovart.wordpress.com/2010/05/28/this-is-not-a-game-args-as-a-composition-course-structure/"
 archive_url: "https://web.archive.org/web/20111108092634/http://impovart.wordpress.com/2010/05/28/this-is-not-a-game-args-as-a-composition-course-structure/"
 published: 2010-05-28
