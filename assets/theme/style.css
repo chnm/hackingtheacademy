@@ -305,6 +305,7 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 .content .table-scroll table { margin-bottom: 0; }
 .content caption { font-size: 1.1em; text-align: left; padding-bottom: 4px; }
 .lost { color: #63635f; font-style: italic; }
+.missing-image { display: block; margin: 1em 0; padding: 0.75em 1em; border: 1px dashed #8a8a86; background: #f4f4f0; color: #444; font-size: 0.9em; }
 
 /* RRCHNM sustainability banner and footer logos */
 .notice { display: flex; align-items: center; gap: 15px; background: #f8f8f8; border: 1px solid #ddd; padding: 10px; margin: 0 0 20px; }

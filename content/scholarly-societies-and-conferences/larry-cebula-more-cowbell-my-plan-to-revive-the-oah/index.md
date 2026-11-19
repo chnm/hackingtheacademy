@@ -50,7 +50,7 @@ at
 [4:38 PM](http://northwesthistory.blogspot.com/2009/09/my-plan-to-revive-oah.html)
 ![](image-4.gif) 
 
-![](image-5.gif)
+
 
 
 Labels:

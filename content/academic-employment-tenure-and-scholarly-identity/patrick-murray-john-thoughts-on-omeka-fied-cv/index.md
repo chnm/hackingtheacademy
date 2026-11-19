@@ -17,13 +17,13 @@ captured_from: wayback
 0The last few posts have been about my experiment to use [Omeka](http://omeka.org) to create [my online CV](http://cv.patrickgmj.net). Many thanks to the folks who left comments and thoughts on them -- they've been really helpful. The end of the school year is always a good time to update the CV, and given the amount of work I've been doing with Omeka lately it seemed like now was the time to do some pushing on that experiment. I've linked to it before in [previous posts](http://www.patrickgmj.net/taxonomy/term/129), but it's only recently that I tweeted a link to it. I guess that's the new version of officially launching a site. So here's some reflection on the process, decisions, and difficulties I've encountered.
 
 0
-![](http://www.patrickgmj.net/images/omekacv/header.png)
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/header.png` >}}
 
 
 0The first real exhibit I tackled was "Becoming a Digital Academic". Overall, writing the first exhibit was an odd mix of writing a blog post and writing an objective narrative. In some ways, it might be more like a blog post than blog posts are in the depth of reflection on where I am and where I have been, focused by attention to the particular items that I added to the Omeka site. I think that some pages lean more toward reflection, and some lean more toward historical account. I suppose that result should have been obvious from the premise of the experiment. But it was funny to encounter through the writing process.
 
 0
-![](http://www.patrickgmj.net/images/omekacv/exhibit-switch.png)
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/exhibit-switch.png` >}}
 
 
 ### Structure
@@ -33,17 +33,17 @@ The first thing that I wanted to make sure I did was to take very seriously the 
 
 0 One obvious thing that going online offers is infinite space. I don't have to try to cram everything into a reasonably small number of pages. And, to emphasize the online-ness, I get to put in a link to any and (almost) every online account that I have, something that would probably be out of balance in a print CV.
 
-![](http://www.patrickgmj.net/images/omekacv/google.png)
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/google.png` >}}
 
-![](http://www.patrickgmj.net/images/omekacv/twitter.png) />/>
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/twitter.png` >}} />/>
 
 0 Moreover, since it's an online CV, and part of the implicit point about the kind of work that I do is that it builds up an online presence, I wanted to emphasize the online-ness not just by giving links to my online accounts, but to show real-time evidence of me online. And so one essential part of the online CV is including a "Google Me" link, which opens up Google's search page with my name filled in inside an iframe in the site. That's the real evidence of and perspective on me online. Maybe one better -- and I'm conscious that this might be risky -- I put a similar "Recent Mentions On Twitter" link, again with an iframe of the Twitter search page on "@patrickgmj".
 
 0 Those two components strike me as essential to the translation from print to online CV's, and reflect the broader translation of traditional scholarship to the online environment. A traditional CV would of course list the various publications and other contributions to scholarship under one's name. And, traditionally, that's a list of printed items, intended to reflect and demonstrate your place and, hopefully, influence in the intellectual community. Digital academia, at least in part, calls for an analogous online element to show one's place in the online intellectual community. "Google Me" and "Recent Mentions on Twitter" are an effort to implement that translation from print academia to digital academia.
 
-![](http://www.patrickgmj.net/images/omekacv/cvproper.png)
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/cvproper.png` >}}
 
-![](http://www.patrickgmj.net/images/omekacv/details.png) 
+{{< missing-image alt=`` src=`http://www.patrickgmj.net/images/omekacv/details.png` >}} 
 
 0 But I didn't feel like I could entirely omit the bullet-pointish quick overview of the print CV. And so, I've been trying to divide items up into collections that reflect the traditional print CV, and provide a page that moves toward that view. I used some of the techniques elsewhere in Omeka for tabbed display to treat the collections as tabs to show the list of Items in those collections. Then, I added in some javascript to show some of the item information on mouseover. Unfortunately, that makes for a pretty long load time for the page, since so much about all the items has to get loaded up before the javascript can do it's thing. A future version might switch that over to some AJAX. The advantage is that, like the print CV, you can get a very quick overview, but go one step further. In the print CV, the bulleted item is the end of the information. Online, rolling over the bulleted item immediately pulls up a little bit more information about that bullet-point. That's especially happy with anything, like a conference, that has a handy image to go along with it.
 

@@ -12,7 +12,7 @@ May 17, 2009
 
 ## [Barriers to Institutional Digital History](http://jeffersonsnewspaper.org/2009/barriers-to-institutional-digital-history/)
 
-![Digital History -- Now With 100% More Operational Flowcharts! Digital History -- Now With 100% More Operational Flowcharts!](http://jeffersonsnewspaper.org/wp-content/uploads/2009/05/flowchart-1024x372.jpg)
+{{< missing-image alt=`Digital History -- Now With 100% More Operational Flowcharts! Digital History -- Now With 100% More Operational Flowcharts!` src=`http://jeffersonsnewspaper.org/wp-content/uploads/2009/05/flowchart-1024x372.jpg` >}}
 
 
 So, I really like the looks of this nifty little flowchart, though I’m not sure it’s logically consistent. In fact, it kind of reminds me of the inscrutable maintenance manual that came with my Taiwanese scooter. I’m feeling compelled to take it down and make some revisions, but I think it best to just move on to writing my little article about the challenges inherent in digital history at the institutional level. So here it is…

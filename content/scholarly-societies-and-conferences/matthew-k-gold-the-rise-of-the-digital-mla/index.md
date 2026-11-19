@@ -82,7 +82,7 @@ I hope that by MLA 2009, the organization is able to take that tool one step fur
 **A Tired Meme:  The Cantankerous Objector**
 
 One of the most striking refrains I heard at the digital panels occurred during the Q&A periods, when a curmudgeon would invariably rise and question not just the validity of the panelists’ particular work but also the entire project of engaging digital technology in research or teaching.  There was a fascinatingly similar pattern to all of these comments:  he (and it was always a ‘he’) would first establish his connection to the literary field (“I’ve been teaching XYZ literature at ABC University for 25 years”), then seek to distance himself from the luddite position (“Don’t get me wrong–I love my iPhone”), before boring in with overly generalized criticism of the new generation of scholars or, more often, students (variations of “students seem more distracted these days,” “students don’t read anymore,” “students won’t stop playing with their iPhones during my overly long and thoroughly boring disquisitions on DEF’s minor ballads”)–precisely the kinds of generalized criticism, we might assume, that he would never countenance in a classroom discussion of those minor ballads.
-![not listening](http://mkgold.net/blog/images/not-listening.jpg)
+{{< missing-image alt=`not listening` src=`http://mkgold.net/blog/images/not-listening.jpg` >}}
 
 
 In his [post-convention blog post](http://www.chutry.wordherders.net/wp/?p=2064), my friend **Chuck Tryon** got to the heart of these kinds of objections:
@@ -97,7 +97,7 @@ And that leads me to my last point:
 
 **Communities Grow in Marginalized Spaces**
 
-Despite continuing objections to the field and to its methodologies, the ![Between the Crevices](http://mkgold.net/blog/images/between-crevices.jpg)
+Despite continuing objections to the field and to its methodologies, the {{< missing-image alt=`Between the Crevices` src=`http://mkgold.net/blog/images/between-crevices.jpg` >}}
 
 [strength of our union is strong](http://www.cnn.com/2007/POLITICS/01/23/sotu.bush.transcript/index.html) (really, it is, despite that link!).  As one friend noted to me, the field has now grown large enough to contain multitudes: various methodological and pedagogical disagreements played out in the panels I saw.   But the field, as a whole, still faces fundamental questions about its legitimacy–something that becomes clear as soon as the words “digital publication” and “tenure review” are put together.
 

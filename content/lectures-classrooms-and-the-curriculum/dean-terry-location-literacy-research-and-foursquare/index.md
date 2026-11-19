@@ -30,7 +30,7 @@ Foursquare is a very early take on location and looks at places through a narrow
 
 In some ways it makes places not mean anything, and contributes to the further sense of unplaceness. You are at a Best Buy. I’m at a Best Buy. But they are 20 or 2000 miles apart. It’s never I’m in the favorite corner of my favorite room. There are no ‘hoods or haunts. *(Note to self: write a post entitled “Looking for ‘Hoods and Haunts”)*
 
-![reimagining location](http://clubsilence.alt7.com/images/reimagining-location-literacy.jpg)
+{{< missing-image alt=`reimagining location` src=`http://clubsilence.alt7.com/images/reimagining-location-literacy.jpg` >}}
 
 
 Because of these limitations, and because we want to think about place in more interesting ways than checking in to specific venues, we’ve taken to inventing places. In MobileLab, it happened spontaneously. A couple of us experimented with making up places, and then everyone started doing it. Naming a place is a way to give it meaning, to make sense of it and to situate it in a social context.

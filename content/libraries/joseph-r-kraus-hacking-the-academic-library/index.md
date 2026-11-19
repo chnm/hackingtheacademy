@@ -61,7 +61,7 @@ Posted by
 Joe
 at
 [1:46 PM](http://www.nuthingbut.net/2010/05/hacking-academic-library.html)
-![](image-1.gif)
+
 
 
 Subscribe to:

@@ -20,7 +20,7 @@ We took each of these critiques seriously and decided to rethink the approach of
 ![Idle brainstorm moment](image-1.jpg)
 
 
-![Creative Commons License](image-2.png)
+
 
 [photo](http://www.photodropper.com/photos/) credit: [everdred](http://www.flickr.com/photos/44124477206@N01/15204598/)
 

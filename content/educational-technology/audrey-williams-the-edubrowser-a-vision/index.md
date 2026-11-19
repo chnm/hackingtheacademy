@@ -10,7 +10,7 @@ captured_from: wayback
 
 ## October 28th, 2009[The “EDUbrowser” – a vision](http://blogs.pstcc.edu/teachtech/2009/10/28/the-edubrowser-a-vision/)
 
-![edubrowser](http://blogs.pstcc.edu/teachtech/files/2009/10/edubrowser.jpg)
+{{< missing-image alt=`edubrowser` src=`http://blogs.pstcc.edu/teachtech/files/2009/10/edubrowser.jpg` >}}
 
 
 I have been thinking about this for several years now but some recent events have brought this to the forefront. The “camel meet straw” event was when our most recent course management upgrade was installed, it was extremely buggy with Internet Explorer 8, which had been installed on campus as a standard browser. Of course the CMS vendor was clear in their listing of supported browsers (and IE8 was not on that list). Still, we had to deal with MANY calls and frustrated users because they were trying to use their updated browser in our updated system and things just were not happy.

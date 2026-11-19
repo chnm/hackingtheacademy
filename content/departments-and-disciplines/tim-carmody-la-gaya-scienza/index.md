@@ -7,7 +7,7 @@ published: 2021-02-12
 captured_from: live
 ---
 
-![oeawhallup.jpg](http://snarkmarket.com/blog//oeawhallup.jpg)
+{{< missing-image alt=`oeawhallup.jpg` src=`http://snarkmarket.com/blog//oeawhallup.jpg` >}}
 
 According to Jonathan Jarrett,[the whole humanities vs. science contention is (at least in part) an artifact of the English language](http://hnn.us/blogs/entries/90692.html):
 

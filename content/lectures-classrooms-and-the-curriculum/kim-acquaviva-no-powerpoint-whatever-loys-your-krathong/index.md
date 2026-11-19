@@ -108,6 +108,3 @@ The van took me back to my room around 9:30 and I spent the rest of the evening 
             
 
 [0](http://www.travelpod.com#like)
-
-
-![Add Comment Add Comment](image-13.png)

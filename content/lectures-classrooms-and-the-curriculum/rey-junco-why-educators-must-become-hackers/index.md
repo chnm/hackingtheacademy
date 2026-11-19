@@ -71,8 +71,8 @@ Tags: [education](http://blog.reyjunco.com/tag/education), [hackacad](http://blo
 [blog comments powered by Disqus](http://disqus.com)
 
 - ## Categories ## Tags ## @reyjunco on Twitter ## Follow this blog
-  - ![](image-3.gif) Social Media in Higher Education
-  - ![](image-4.gif)
-  - ![](image-5.gif)
-  - ![](image-6.gif)
+  -  Social Media in Higher Education
+  - 
+  - 
+  - 
 ## Meta

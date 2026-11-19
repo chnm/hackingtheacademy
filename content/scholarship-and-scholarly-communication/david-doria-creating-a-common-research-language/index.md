@@ -52,7 +52,7 @@ Posted by
 David Doria
 at
 [7:39 AM](http://daviddoria.blogspot.com/2010/05/creating-common-research-language.html)
-![](image-1.gif)
+
 
 
 Subscribe to:

@@ -14,7 +14,7 @@ Furthermore, through our research, we surprisingly and unfortunately found the [
 
 We've been having the students draw concept maps as a part of our research. Here is one of the concept maps one of my gifted students (age 6) drew:
 
-![](http://farm1.static.flickr.com/139/393684343_ee206f9b33.jpg?v=0)
+![](image-1.jpg)
 
 
 The following is a summary from our paper pertaining to teachers, digital literacy, and the digital divide:
@@ -29,7 +29,7 @@ The philosopher Jean-Jacques Rousseau (1798) believed that, "Childhood has its o
 
 Image reference: (My Flicker Account...one of my former students age 6, gifted class) [http://www.flickr.com/photos/45299717@N00/393684343/](http://www.flickr.com/photos/45299717@N00/393684343/)
 
-![Creative  Commons License](image-1.png)
+![Creative  Commons License](image-2.png)
 
 
 All contents of this blog is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License](http://creativecommons.org/licenses/by-nc-sa/2.5/).

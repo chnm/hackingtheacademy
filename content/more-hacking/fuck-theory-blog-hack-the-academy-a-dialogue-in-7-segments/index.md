@@ -18,7 +18,7 @@ captured_from: wayback
 ![Hack/The Academy.  A Dialogue in 7 Segments.  
 (inspired by hackingtheacademy.org)
 All quotations are from Jacques Derrida, “The University Without Condition,” trans. Peggy Kamuf.  In Derrida, Without Alibi, Stanford UP, 2002.
-(intro,1,2,3,4,5,6,7)](http://28.media.tumblr.com/tumblr_l35zt8lBEq1qasntco1_400.jpg)
+(intro,1,2,3,4,5,6,7)](image-1.jpg)
 
 **Hack/The Academy.  A Dialogue in 7 Segments.**  
 

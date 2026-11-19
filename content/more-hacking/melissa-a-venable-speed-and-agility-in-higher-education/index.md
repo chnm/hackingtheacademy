@@ -12,7 +12,7 @@ captured_from: wayback
 
 I attended the [Sloan-C Conference on Online Learning](http://www.sloanconsortium.org/aln) last week and three themes surfaced as I attended sessions and talked with other participants:
 
-![NeedForSpeed-Amnemona NeedForSpeed-Amnemona](http://mvenable.files.wordpress.com/2009/11/needforspeed-amnemona.jpg?w=300&h=225) Part 2: Speed
+![NeedForSpeed-Amnemona NeedForSpeed-Amnemona](image-1.jpg) Part 2: Speed
 
 
 The opening session with [Frank Mayadas](http://www.sloan.org/bio/item/8) started this theme in motion. He stated that those of us involved in the development and delivery of online learning are moving at a frenetic pace and achieving success. That is in spite of the fact that words like “*speed* and *agility* are rarely used to describe higher education.”

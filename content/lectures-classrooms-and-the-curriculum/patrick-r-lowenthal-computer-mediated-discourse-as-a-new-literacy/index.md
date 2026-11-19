@@ -48,6 +48,6 @@ Back to the beginning of this, I wasn’t that surprised with those who were wil
 
 After writing this post in the middle of a conference, I later created a Pecha Kucha on the same topic. The following is a rough recording of the Pecha Kucha.
 
-![Post to Twitter](http://patricklowenthal.com/wp-content/plugins/tweet-this/icons/tt-twitter.png)
+
 
 [Tweet This Post](http://twitter.com/home/?status=Computer-mediated+Discourse+as+a+New+Literacy+http://5nkka.th8.us)

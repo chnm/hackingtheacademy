@@ -46,4 +46,3 @@ Posted by
 William J. Turkel
 at
 [4:24 PM](http://digitalhistoryhacks.blogspot.com/2008/11/few-arguments-for-humanistic.html)
-![](image-1.gif)

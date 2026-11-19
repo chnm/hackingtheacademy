@@ -14,7 +14,7 @@ By Jana
 			
 				
 As I started graduate school and saw just how much reading I would be doing, I realized that I would need a solid plan to keep all of my notes organized.  I bought a copy of EndNote bibliographic software.  Each book (or article) I read or discussed in a seminar, I added to my EndNote library with the relevant information and notes.
-![3956865159\_bd190dc540](http://historycompass.files.wordpress.com/2010/03/3956865159_bd190dc540.jpg?w=300&h=199)
+{{< missing-image alt=`3956865159_bd190dc540` src=`http://historycompass.files.wordpress.com/2010/03/3956865159_bd190dc540.jpg?w=300&h=199` >}}
 
 
 Because my spouse was also a graduate student and our disciplines occasionally overlapped, we  adopted a strategy for organizing our books to avoid duplication and to enable easy retrieval (at that point we had already acquired over two thousand books between us).  We started using BookCollector software to record book data and added a sticker to the spine of each one with the appropriate locational details.  Nonfiction books were shelved by the Library of Congress number.  Fiction books were shelved by category and author’s name.

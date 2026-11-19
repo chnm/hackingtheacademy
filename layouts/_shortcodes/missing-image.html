@@ -1,0 +1,6 @@
+{{- /* An image in a captured piece that no copy survives of.
+       {{< missing-image alt=`...` src=`original URL` >}}; src is kept for the record, not shown. */ -}}
+{{- $alt := .Get "alt" -}}
+<span class="missing-image"><strong>Original image missing.</strong>
+{{- if in $alt " " }} It showed: “{{ $alt }}”.{{ end -}}
+</span>

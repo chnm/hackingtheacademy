@@ -16,7 +16,7 @@ I attended the [Sloan-C Conference on Online Learning](http://www.sloanconsortiu
 - [Speed](http://mvenable.wordpress.com/2009/11/05/speed-and-agility-in-higher-education/)
 - Marketability of Graduates
 
-![ImReady-greenforall.org ImReady-greenforall.org](http://mvenable.files.wordpress.com/2009/11/imready-greenforall-org.jpg?w=300&h=199) Part 3: Marketability of Graduates
+![ImReady-greenforall.org ImReady-greenforall.org](image-1.jpg) Part 3: Marketability of Graduates
 
 
 Maybe it’s the career counselor in me that tuned in to this theme. In a session on Corporate Partnerships, Phil Ice of [APUS](http://www.apus.edu/index.htm) posed the question: What is the *college experience* today? He pointed out that his experience and expectations were different than what you would find today enrolling as a Freshman/First-Year student. I instantly remembered the groan I heard over the phone as I told my parents I had finally declared a major (on the last possible day in my sophomore year at a private liberal arts college). It was Psychology. I think one of them actually said “oh no”. What was I going to *do* with that? I wasn’t at all sure.

@@ -103,7 +103,7 @@ Posted by
 David Doria
 at
 [1:01 PM](http://daviddoria.blogspot.com/2010/05/teach-why-not-how.html)
-![](image-1.gif)
+
 
 
 Labels:

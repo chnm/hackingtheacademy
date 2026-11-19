@@ -8,7 +8,7 @@ published: 2010-01-07
 captured_from: wayback
 ---
 
-![](http://4.bp.blogspot.com/_hdOKQN9ptps/S0YF4OB_wRI/AAAAAAAAAN8/2Gl0lLPPe5w/s400/heroes.jpg)
+![](image-1.jpg)
 
 
 ["Heroes, Villains, and the American Zeitgeist"](http://www.niu.edu/artmuseum/exhibitions/index.shtml)featuring comic books from our collection at the NIU Art Museum this week. Above is a copy of the postcard that is being sent out to advertise my portion of the show. Our Media Services folks created it, and did a spectacular job, I think. I'm especially fond of Emo Wolverine (the illustrator being the amazing

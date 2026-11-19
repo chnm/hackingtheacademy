@@ -10,7 +10,7 @@ captured_from: wayback
 
 ### Hacking the Disciplinary Divide
 
-![hacking the disciplinary divide with circuit boards](http://communicablehumanities.files.wordpress.com/2010/05/hacking-disciplines.jpg?w=300) During my recently-completed search for a graduate program I discovered one word that all of the schools used to describe their programs: interdisciplinary. I was thrilled that so many programs that interested me encouraged study outside of the discipline; until it became clear that in many cases “interdisciplinary” was meant more as public relations than as a dedication to cross-discipline collaboration and study.
+{{< missing-image alt=`hacking the disciplinary divide with circuit boards` src=`http://communicablehumanities.files.wordpress.com/2010/05/hacking-disciplines.jpg?w=300` >}} During my recently-completed search for a graduate program I discovered one word that all of the schools used to describe their programs: interdisciplinary. I was thrilled that so many programs that interested me encouraged study outside of the discipline; until it became clear that in many cases “interdisciplinary” was meant more as public relations than as a dedication to cross-discipline collaboration and study.
 
 
 I have since found a program that I am very excited to be joining in the fall, but I am still drawn back to the question: How do we actually promote interdisciplinary study? (And is it actually important?) \[Spoiler: hacking; (and yes).\]

@@ -74,16 +74,16 @@ Where do we go from here? How about a reading list for historians on digital hum
 
 
 
-![Subscribe to HNN's newsletter.](http://hnn.us/articles/<http:/hnn.us/Banners/2008/HistoryChannel.jpg >)
 
 
-![Subscribe to HNN's newsletter.](image-3.jpg)
 
 
-![Subscribe to HNN's newsletter.](image-4.jpg)
 
 
-![](image-5.jpg)
 
 
-![](image-6.jpg)
+
+![](image-3.jpg)
+
+
+![](image-4.jpg)

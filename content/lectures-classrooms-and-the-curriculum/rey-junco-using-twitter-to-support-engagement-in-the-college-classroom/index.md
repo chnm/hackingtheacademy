@@ -22,8 +22,8 @@ Tags: [academic](http://blog.reyjunco.com/tag/academic), [presentation](http://b
 [blog comments powered by Disqus](http://disqus.com)
 
 - ## Categories ## Tags ## @reyjunco on Twitter ## Follow this blog
-  - ![](image-1.gif) Social Media in Higher Education
-  - ![](image-2.gif)
-  - ![](image-3.gif)
-  - ![](image-4.gif)
+  -  Social Media in Higher Education
+  - 
+  - 
+  - 
 ## Meta

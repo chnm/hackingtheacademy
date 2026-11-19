@@ -13,17 +13,17 @@ One of the secret missions behind my work with [Mikhail Gershovich](http://www.t
 ![Peasant Warfare](image-1.jpg)
 
 
- *![Creative Commons License](image-2.png)[photo](http://www.photodropper.com/photos/) credit: [jectre](http://www.flickr.com/photos/jectre/544530898/)*
+ *[photo](http://www.photodropper.com/photos/) credit: [jectre](http://www.flickr.com/photos/jectre/544530898/)*
 
 Of course, we’re far from the only ones considering these questions, and we’re certainly not the only ones who’ve borrowed the terminology of revolution to cheekily make our case. Matt Gold has already done [a fantastic job creating a hit-and-run guide to guerrilla pedagogy](http://guerrillapedagogy.mkgold.net/) that delineates the tools, philosophy, and connective processes requisite at its core. Gardner Campbell has argued for a trajectory in liberal education towards the development of [media fluency](http://www.gardnercampbell.net/blog1/?p=1238) and in favor of a shift from both “signature pedagogies” to “pedagogies of signature” and from [general education to *generalizable* education.](http://www.slideshare.net/GardnerCampbell/integrative-learning-and-the-gift-of-new-media-general-education-for-the-21st-century-3543849) Gardner has also spoken passionately about the role of movements around the integration of digital tools into the work of higher education in destabilizing the institutions at our center. Joss Winn and Mike Neary have written of [“The Student as Producer,”](http://eprints.lincoln.ac.uk/1675/) connecting pedagogies that place the student squarely in the role of knowledge-maker within broader efforts to combat the corporatization of higher education and to reimagine a university that for once might be fully committed to the development of humanistic thinkers.  Jeff McClurken has [argued smartly that digital literacy is something that should be developed within the disciplines and shown how](http://mcclurken.blogspot.com/2008/12/digital-history-and-undergraduate.html), though I’d guess he’d agree that such an approach does not preclude a broader college-wide addressing of these questions.  And besides being actively involved in building the tools from the ground up, Boone Gorges has  [brilliantly theorized](http://teleogistic.net/2010/03/my-queens-college-presidential-roundtable-talk/) the structural similarities between the types of communication and personalized connections that happen within social media and the specific goals of a college’s general education program.
 
 There are others, many others, who’ve been doing this type of [work](http://umwblogs.org) and [thinking](http://bavatuesdays.com), and their models and theories are very much the fuel that propels us along our path.
 
-![](image-3.jpg)
+![](image-2.jpg)
 
 **Che Groom**
 
- *![Creative Commons License](image-4.png)[photo](http://www.photodropper.com/photos/) credit: [5tein](http://www.flickr.com/photos/5tein/3609261904/)*
+ *[photo](http://www.photodropper.com/photos/) credit: [5tein](http://www.flickr.com/photos/5tein/3609261904/)*
 
 
 [Blogs@Baruch](http://blsciblogs.baruch.cuny.edu) has evolved along three broad publishing contours in its first two years, and each can be seen as a step towards developing a foundation upon which those in power at the College might do some tough thinking about how the general education could be reimagined. This said, I have no idea whether or not they might do this, or even when the gen ed was last revisited.  But if they call, we’ll be ready to contribute what we’re learning.

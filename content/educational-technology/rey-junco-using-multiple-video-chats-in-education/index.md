@@ -38,7 +38,7 @@ I must say, it was really impressive to have a chat with so many people online a
 
 There were a few issues that I need to think about some more in order to use this for a class. For instance, it’s hard to see who is talking if there’s an active conversation between a number of participants because of so many video streams coming in at the same time. I have some ideas to solve this which are akin to hand raising in a typical class and will post more about those later as I flesh out the course proposal some more. The verdict? It’s a go! I’ve spoken to the Director of our Graduate Program more and he has invited me to teach the course as a special topics course for the Spring. Stay tuned– I’ll be posting more details about the course in the weeks to come.
 
-![Delicious](http://blog.reyjunco.com/wp-content/plugins/digg-digg/image/delicious.png)
+
 
 [reyjunco](http://blog.reyjunco.com/author/admin/)
 
@@ -47,8 +47,8 @@ Tags: [digital media](http://blog.reyjunco.com/tag/digital-media), [learning](ht
 [blog comments powered by Disqus](http://disqus.com)
 
 - ## Categories ## Tags ## @reyjunco on Twitter ## Follow this blog
-  - ![](image-2.gif) Social Media in Higher Education
-  - ![](image-3.gif)
-  - ![](image-4.gif)
-  - ![](image-5.gif)
+  -  Social Media in Higher Education
+  - 
+  - 
+  - 
 ## Meta

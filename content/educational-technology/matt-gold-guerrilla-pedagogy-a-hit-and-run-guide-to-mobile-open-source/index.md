@@ -9,7 +9,7 @@ published: 2009-10-16
 captured_from: wayback
 ---
 
-![index](http://guerrillapedagogy.mkgold.net/files/2009/10/index.jpg)
+{{< missing-image alt=`index` src=`http://guerrillapedagogy.mkgold.net/files/2009/10/index.jpg` >}}
 
 
 Image Credit: [Network Osaka](http://www.flickr.com/photos/networkosaka/3199354666/)

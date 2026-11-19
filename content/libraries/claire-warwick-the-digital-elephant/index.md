@@ -40,9 +40,9 @@ Posted by
 [Claire Warwick](http://www.blogger.com/profile/14180746328446530759)
 at
 [19:12](http://clairewarwick.blogspot.com/2010/05/digital-elephant.html)
-![](image-1.gif) 
+ 
 
-![](image-2.gif)
+
 
 
 Subscribe to:

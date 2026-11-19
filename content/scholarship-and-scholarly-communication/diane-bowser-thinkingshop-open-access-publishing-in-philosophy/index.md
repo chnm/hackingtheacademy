@@ -12,7 +12,7 @@ captured_from: wayback
 
 For the last five years as a recent post-doc, I have consistently encountered a stark choice with regards to journal submissions.  The accepted process requires that I send articles to prestigious first tier, peer-reviewed journals that will likely take 12-18 months to recognize the submission, and if I am very fortunate, request R & R (another 12-24 months).  Then, if fortune still prevails, the article may be published within another 12-24 months.  At a minimum turnaround schedule this requires 3-5 years between submission and publication, a seemingly unacceptable delay.  During that time, for proprietary reasons, the work may not be presented or published elsewhere. 
 
-![computer in chains](image-1.jpg)
+
 
 
 The alternative is to reject the accepted process and submit to open access journals with solid peer review processes. This path is fraught with danger insofar as hiring and tenure decisions in most philosophy departments require one to choose the traditional path as a precondition for consideration. Thus, it may seem reckless, but I am committed to the later open access path for the following reasons.
@@ -45,4 +45,4 @@ In my humble opinion, the time for both open access and open publishing is now. 
 
 [trackback](http://www.thinkingshop.com/2009/10/03/open-access-publishing-in-philosophy/trackback/)from your own site.
 
-![AddThis Social Bookmark Button](image-2.gif)
+![AddThis Social Bookmark Button](image-1.gif)

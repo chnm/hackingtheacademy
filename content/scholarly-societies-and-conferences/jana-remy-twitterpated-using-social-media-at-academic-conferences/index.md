@@ -9,7 +9,7 @@ captured_from: wayback
 ---
 
 After mulling around the coffee and muffins in the reception area and feeling awkward because I didn’t know anyone at the conference, I headed into the lecture hall where I eyeballed the walls for electrical outlets.  I would need a power source if I was going to type through several hours of conference proceedings.  I saw another attendee settling in and plugging in her laptop, so I sat down nearby and asked if she would mind sharing the outlet (she didn’t).
-![tweet tweet](http://historycompass.files.wordpress.com/2009/11/tweet.jpg?w=450&h=321)
+{{< missing-image alt=`tweet tweet` src=`http://historycompass.files.wordpress.com/2009/11/tweet.jpg?w=450&h=321` >}}
 
 
 So began my day of [twittering](http://en.wikipedia.org/wiki/Twitter) the [“Nowcasting: Design Theory & Digital Humanities”](http://dma.ucla.edu/events/calendar.php?ID=602) conference held at UCLA last month.  My first volley of the day:

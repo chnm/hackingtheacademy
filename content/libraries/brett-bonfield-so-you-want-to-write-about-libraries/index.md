@@ -8,11 +8,9 @@ published: 2009-12-02
 captured_from: wayback
 ---
 
-![Print This Post Print This Post](image-1.gif)
-
 [Print This Post](http://www.inthelibrarywiththeleadpipe.org/2009/so-you-want-to-write-about-libraries/print/)
 
-![double Double Octuple Newspaper Web Perfecting Press, 1903](image-2.png)
+![double Double Octuple Newspaper Web Perfecting Press, 1903](image-1.png)
 
 Double Octuple Newspaper Web Perfecting Press, 1903
 
@@ -22,7 +20,7 @@ In this article, I do my best to explain why we think we’ve been able to reach
 
 ### Assemble a Team
 
-![treadwell Treadwell's Wooden-Frame Bed and Power Press, 1822](image-3.png)
+![treadwell Treadwell's Wooden-Frame Bed and Power Press, 1822](image-2.png)
 
 Treadwell's Wooden-Frame Bed and Power Press, 1822
 
@@ -36,7 +34,7 @@ Kim had worked with [Emily Ford](http://inthelibrarywiththeleadpipe.org/authors/
 
 ### Find Your Niche
 
-![van Modern Delivery Van for Grocers, Druggists, Etc.](image-4.png)
+![van Modern Delivery Van for Grocers, Druggists, Etc.](image-3.png)
 
 Modern Delivery Van for Grocers, Druggists, Etc.
 
@@ -58,7 +56,7 @@ In finding our niche and developing our processes, we did our best to find the t
 
 ### Build a Sound Foundation
 
-![accurate Accurate Measurements are Essential to Correct Time Keeping](image-5.png)
+![accurate Accurate Measurements are Essential to Correct Time Keeping](image-4.png)
 
 Accurate Measurements are Essential to Correct Time Keeping
 
@@ -77,13 +75,13 @@ One of the primary advantages of using a web host is that it gives you control o
 
 WordPress also made it fairly simple for Derik to create a unique website design. By modifying an existing template and adding in his art, Derik gave us some of the best staging in online library publishing. When you visit a website for the first time and see original art, it immediately signals to you that the site’s creators care about your experience.
 
-![Six Librarians Six Librarians, drawing by Derik Badman](image-6.png)
+![Six Librarians Six Librarians, drawing by Derik Badman](image-5.png)
 
 Six Librarians, drawing by Derik Badman
 
 ### Go to Your Audience
 
-![telephone Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments](image-7.png)
+![telephone Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments](image-6.png)
 
 Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments
 
@@ -109,7 +107,7 @@ We also submitted our work to several other resources that aren’t specifically
 
 ### Be Fearless
 
-![fearless The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition](image-8.png)
+![fearless The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition](image-7.png)
 
 The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition
 
@@ -121,17 +119,17 @@ I wrote to *LISNews*’s Blake Carver the day before we went live. His response,
 
 Our biggest leap happened the first time [Jessamyn West gave us a write up on her blog, librarian.net](http://www.librarian.net/stax/2589/a-little-more-long-form-reading/), on December 9, 2008. We got another big subscription increase when [she linked to Ross Singer’s guest post](http://www.librarian.net/stax/2968/did-you-mean-%E2%80%9Colive-skittered%E2%80%9D-a-look-at-whats-wrong-with-the-opac/) back in August.
 
-![traffic Detail from our Google Analytics traffic analysis](image-9.png)
+![traffic Detail from our Google Analytics traffic analysis](image-8.png)
 
 Detail from our Google Analytics traffic analysis
 
-![jessamyn Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us](image-10.png)
+![jessamyn Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us](image-9.png)
 
 Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us
 
 ### Experiment
 
-![laboratory The Laboratory](image-11.png)
+![laboratory The Laboratory](image-10.png)
 
 The Laboratory
 

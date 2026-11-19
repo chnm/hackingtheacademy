@@ -272,16 +272,35 @@ def spreadsheet(key):
     return body, {"spreadsheet.csv": data}
 
 
+# Blog furniture that extraction picks up as images: theme/plugin icons,
+# Blogger's edit pencil. Dropped, not reported missing.
+CHROME_IMG = re.compile(r"/wp-content/(?:themes|plugins)/|blogblog\.com/img/|/icons?/|/Banners/")
+
+
 def localize_images(text, base, ts):
-    """Download Markdown images into the bundle and point the Markdown at them."""
+    """Download Markdown images into the bundle and point the Markdown at them.
+
+    An image no copy survives of becomes a missing-image shortcode."""
     files = {}
+
+    def fetch_image(src):
+        bare = src.split("?")[0]  # WordPress resize queries are often not archived
+        stamp = ts or BOOK_WEEK
+        for u in dict.fromkeys([f"https://web.archive.org/web/{stamp}im_/{src}",
+                                f"https://web.archive.org/web/{stamp}im_/{bare}", src, bare]):
+            status, ctype, data, _ = get(u)
+            if status == 200 and ctype.startswith("image/") and data:
+                return ctype, data
+        return None, None
 
     def swap(m):
         alt, src = m.group(1), urljoin(base, html.unescape(m.group(2)))
-        fetch = f"https://web.archive.org/web/{ts}im_/{src}" if ts else src
-        status, ctype, data, _ = get(fetch)
-        if status != 200 or not ctype.startswith("image/"):
-            return m.group(0).replace(m.group(2), src)
+        if CHROME_IMG.search(src):
+            return ""
+        ctype, data = fetch_image(src)
+        if not data:
+            alt = alt.replace("\\", "").replace("`", "'")
+            return f"{{{{< missing-image alt=`{alt}` src=`{src.replace('`', '%60')}` >}}}}"
         ext = "." + ctype.split("/")[1].split(";")[0].replace("jpeg", "jpg").replace("svg+xml", "svg")
         name = f"image-{len(files) + 1}{ext}"
         files[name] = data

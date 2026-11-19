@@ -62,7 +62,7 @@ Posted by
 [Duane Griffin](https://www.blogger.com/profile/02473848281136199919)
 at
 [8:32 PM](http://geogdogblog.blogspot.com/2010/05/gilgamesh-ish-and-post-apocalyptic.html)
-![](https://resources.blogblog.com/img/icon18_edit_allbkg.gif)
+
 
 
 Labels:

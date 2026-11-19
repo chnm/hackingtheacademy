@@ -41,7 +41,7 @@ But at the same time the Ithaka report notes that they remain stubbornly wedded 
 
 This divide is striking. **The professoriate may be more liberal politically than the most latte-filled ZIP code  in San Francisco, but we are an  extraordinarily conservative bunch when it comes to scholarly communication.** Look carefully at this damning chart from the Ithaka report:
 
-![](file:///Users/dcohen/Library/Caches/TemporaryItems/moz-screenshot-1.png)
+{{< missing-image alt=`` src=`file:///Users/dcohen/Library/Caches/TemporaryItems/moz-screenshot-1.png` >}}
 
 ![ithaka\_faculty\_survey\_2009\_fig23](image-1.gif)
 

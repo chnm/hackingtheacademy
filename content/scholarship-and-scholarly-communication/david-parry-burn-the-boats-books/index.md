@@ -20,22 +20,6 @@ Burn the Boats/Books, part 1
 
 More
 
-![](http://b.vimeocdn.com/ts/173/799/173799881_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/151/871/151871782_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/151/422/151422961_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/139/550/139550639_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/131/313/131313407_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/129/546/129546708_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/129/547/129547794_100.jpg) 
-
-![](http://b.vimeocdn.com/ts/126/957/126957951_100.jpg) 
-
 ![](image-2.jpg) 
 
 ![](image-3.jpg) 
@@ -45,9 +29,6 @@ More
 ![](image-5.jpg) 
 
 ![](image-6.jpg) 
-
-33\. Burn the Boats/Books, part 1								
-				2 years ago
 
 ![](image-7.jpg) 
 
@@ -65,6 +46,9 @@ More
 
 ![](image-14.jpg) 
 
+33\. Burn the Boats/Books, part 1								
+				2 years ago
+
 ![](image-15.jpg) 
 
 ![](image-16.jpg) 
@@ -76,6 +60,22 @@ More
 ![](image-19.jpg) 
 
 ![](image-20.jpg) 
+
+![](image-21.jpg) 
+
+![](image-22.jpg) 
+
+![](image-23.jpg) 
+
+![](image-24.jpg) 
+
+![](image-25.jpg) 
+
+![](image-26.jpg) 
+
+![](image-27.jpg) 
+
+![](image-28.jpg) 
 
 This is the first part of Dave Parry's talk for the DWRL speaker series.
 
@@ -96,10 +96,10 @@ M4V
 | Nov 3 <sup>rd</sup> | 0 | 0 | 0 | 
 | Nov 2 <sup>nd</sup> | 0 | 0 | 0 | 
 
-![](image-21.gif) Prev week
+![](image-29.gif) Prev week
 
 - 
                             
-                            Vimeo: [About](http://vimeo.com/about) / [Blog](http://vimeo.com/blog) / [Developers](http://vimeo.com/api) / [Jobs](http://vimeo.com/jobs) / [Community Guidelines](http://vimeo.com/guidelines) / [Help Center](http://vimeo.com/help) / [Video School](http://vimeo.com/videoschool) / [Music Store](http://vimeo.com/musicstore) / [Site Map](http://vimeo.com/site_map) / Vimeo  or ![plus](image-22.gif) ![pro](image-23.gif)
+                            Vimeo: [About](http://vimeo.com/about) / [Blog](http://vimeo.com/blog) / [Developers](http://vimeo.com/api) / [Jobs](http://vimeo.com/jobs) / [Community Guidelines](http://vimeo.com/guidelines) / [Help Center](http://vimeo.com/help) / [Video School](http://vimeo.com/videoschool) / [Music Store](http://vimeo.com/musicstore) / [Site Map](http://vimeo.com/site_map) / Vimeo  or ![plus](image-30.gif) ![pro](image-31.gif)
 - 
                             Legal: TM + ©2011 Vimeo, LLC. All rights reserved. /[Terms of Service](http://vimeo.com/terms) / [Privacy Statement](http://vimeo.com/privacy) / [Copyright](http://vimeo.com/dmca)

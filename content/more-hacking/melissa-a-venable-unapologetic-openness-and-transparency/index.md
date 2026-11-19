@@ -12,7 +12,7 @@ captured_from: wayback
 
 I attended the [Sloan-C Conference on Online Learning](http://www.sloanconsortium.org/aln) last week and three themes surfaced as I attended sessions and talked with other participants: Unapologetic Openness and Transparency, [Speed](http://mvenable.wordpress.com/2009/11/05/speed-and-agility-in-higher-education/), and [Marketability of Graduates](http://mvenable.wordpress.com/2009/11/07/marketability-of-graduates/).
 
-![Bubbles-JeffKubina Bubbles-by\_Jeff-Kubina](http://mvenable.files.wordpress.com/2009/11/bubbles-jeffkubina.jpg?w=240&h=159)
+![Bubbles-JeffKubina Bubbles-by\_Jeff-Kubina](image-1.jpg)
 
 
 **Part 1: Unapologetic openness and transparency**

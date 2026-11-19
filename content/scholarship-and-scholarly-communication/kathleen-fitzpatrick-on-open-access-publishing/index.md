@@ -104,7 +104,7 @@ So while my sentence is a bit of an overstatement, I'd still argue that it gets 
 
 [Comment](http://societyforcriticalexchange.org/blog/blog3.php/2010/01/15/on-open-access-publishing#c12)from: Steven Totosy \[Visitor\] ·
 
-![Send email to comment author Email](image-1.gif)
+
 
 [http://docs.lib.purdue.edu/clcweb](http://docs.lib.purdue.edu/clcweb)
 
@@ -144,4 +144,4 @@ Result: the publication model self-replicates. If you're prestigious enough, peo
 
 [http://www.youtube.com/watch?v=z\_og6fACN-g](http://www.youtube.com/watch?v=z_og6fACN-g)
 
-![XML Feed](image-2.gif) Comment feed for this post
+ Comment feed for this post

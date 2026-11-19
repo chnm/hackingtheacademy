@@ -31,7 +31,7 @@ Posted by
 David Doria
 at
 [5:38 PM](http://daviddoria.blogspot.com/2010/05/why-does-no-one-care-that-professors.html)
-![](image-1.gif)
+
 
 
 Labels:

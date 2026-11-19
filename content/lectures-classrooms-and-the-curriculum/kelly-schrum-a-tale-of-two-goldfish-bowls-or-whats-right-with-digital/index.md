@@ -61,27 +61,27 @@ The initial script read like an academic article, introducing, comparing, and co
 
 This process also surfaced the student’s larger goals: to make art history accessible and to empower viewers without a background in art history to ask questions about the broader context of paintings and their meaning.
 
-The process of creating a DST forced the student to confront these questions and in the end, she created a lively digital story that put the painting into a simulated courtroom trial as Exhibit A. Art historians served as “witnesses,” explaining how and why they interpreted the painting in specific ways, presenting their credentials and the evidence for their arguments. Visually and through “testimony,” the story explored debates over the painting, such as whether the third figure from the right represented the personification of spring or the goddess Flora and whether the figure on the far left represented Hermes or Mercury. The jury (viewer) was asked, in this ![mystery](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/mystery-250x133.jpg)
+The process of creating a DST forced the student to confront these questions and in the end, she created a lively digital story that put the painting into a simulated courtroom trial as Exhibit A. Art historians served as “witnesses,” explaining how and why they interpreted the painting in specific ways, presenting their credentials and the evidence for their arguments. Visually and through “testimony,” the story explored debates over the painting, such as whether the third figure from the right represented the personification of spring or the goddess Flora and whether the figure on the far left represented Hermes or Mercury. The jury (viewer) was asked, in this {{< missing-image alt=`mystery` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/mystery-250x133.jpg` >}}
 
 [Why Done It? Mystery](http://vimeo.com/11342010) to evaluate the testimony and competing narratives, but also to consider the constructed nature of meaning and the process of scholarly discourse.
 
 DST challenged students to think in new ways, to ask new questions, and to interrogate the sources and ideas they were reading, researching, and developing. It challenged students to use their academic interests and research to tell a compelling story digitally, one that both made a clear argument and fully utilized the tools and power of digital storytelling.
 
 One story, [Sile](http://vimeo.com/11165331)
-![silentvoices](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/silentvoices.jpg)
+{{< missing-image alt=`silentvoices` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/silentvoices.jpg` >}}
 
 [nt Voices: Mothers & Victims of Argentina’s “Dirty War”](http://vimeo.com/11165331), by Rwany Sibaja, explored the protest movement started by mothers and grandmothers of the 30,000 *desaparecidos*, those who disappeared during the military dictatorship of Jorge Rafael Videla. Integrating video of the protests, interviews with former military officials defending their actions, and footage of the 1978 World Cup in Argentina, the story presents a powerful historical narrative, contrasting a nation’s celebration with ongoing persecution and exploring the complicated nature of history when examined through multiple lenses.
-![silentvoices2](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/silentvoices2-e1307450939908.jpg)
+{{< missing-image alt=`silentvoices2` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/silentvoices2-e1307450939908.jpg` >}}
 
 
 Anot
-![lecture2](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/lecture2-100x100.jpg) her,
+{{< missing-image alt=`lecture2` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/lecture2-100x100.jpg` >}} her,
 
-![lecture1](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/lecture1-100x100.jpg)
+{{< missing-image alt=`lecture1` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/lecture1-100x100.jpg` >}}
 
 [Re-inventing the Lecture (Or, Why Online Lectures Don’t Work, and](http://www.youtube.com/watch?v=rpe9c7BVPfo) [What](http://www.youtube.com/watch?v=rpe9c7BVPfo) [We Can Do A](http://www.youtube.com/watch?v=rpe9c7BVPfo)[bout It)](http://www.youtube.com/watch?v=rpe9c7BVPfo), by [Tad Suiter](http://www.leisurelyhistorian.net/), tackled the nature of the digital medium and one of the most common academic uses, posting video of lectures online. This video not only discusses weaknesses of online lectures, it demonstrates their shortcomings, investigates alternative modes of communicating and conveying information, especially emerging best practices in the vlogging community, and encourages viewers to think about the potential for online pedagogy, [“The only thing more boring than a bad lect](http://www.leisurelyhistorian.net/why-digital-lectures-dont-work)[ure is a decent lecture on Youtube.”](http://www.leisurelyhistorian.net/why-digital-lectures-dont-work)
 
-In one last example from the class, [Multisensory Music Making: Unleash the Power of Music W](http://vimeo.com/11424032)[ithin You!](http://vimeo.com/11424032) examined a new theory of teaching and learning music, connecting visual and auditory stimuli to help musicians ![multisensory](http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/multisensory-100x100.jpg)
+In one last example from the class, [Multisensory Music Making: Unleash the Power of Music W](http://vimeo.com/11424032)[ithin You!](http://vimeo.com/11424032) examined a new theory of teaching and learning music, connecting visual and auditory stimuli to help musicians {{< missing-image alt=`multisensory` src=`http://chnm.gmu.edu/courses/schrum/ctch792sp10/wp-content/uploads/2011/06/multisensory-100x100.jpg` >}}
 
 [“connect with music on a deeper level”](http://chnm.gmu.edu/courses/schrum/ctch792sp10/?p=1949) and “[ex](http://chnm.gmu.edu/courses/schrum/ctch792sp10/?p=1949)[pand their range of emotional and expressive playing](http://chnm.gmu.edu/courses/schrum/ctch792sp10/?p=1949).” A paper on this topic could not begin to capture this approach, but seeing a student play a musical phrase, tell a story about it through an image, and play it again shows how this works, transforming “expression into music.”
 
