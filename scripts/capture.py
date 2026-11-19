@@ -1,3 +1,11 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "beautifulsoup4==4.15.0",
+#     "requests==2.34.2",
+#     "trafilatura==2.3.1",
+# ]
+# ///
 """Rebuild Hacking the Academy's contributions as Hugo page bundles.
 
 Reads the flattened WordPress section pages (the static copy of the site),
@@ -5,7 +13,7 @@ treats every link in them as one contribution, captures that contribution's
 text from the Wayback Machine snapshot nearest the book week (May 21-28, 2010),
 falling back to the live page, and writes content/<section>/<slug>/index.md.
 
-    .venv/bin/python scripts/capture.py ~/work/chnm/hackingtheacademy-src/hackingtheacademy.org
+    uv run scripts/capture.py ~/work/chnm/hackingtheacademy-src/hackingtheacademy.org
 
 Fetches are cached in cache/, so a rerun only regenerates the Markdown.
 """
