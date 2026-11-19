@@ -296,6 +296,10 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 .content table { font-size: 1.3em; margin-bottom: 1.3333em; }
 .content td, .content th { border: 1px solid #b6b6b2; padding: 4px; }
 .post + .post { margin-top: 2em; }
+/* Google Docs captured as HTML: the text is bare, not in paragraphs */
+.gdoc { font-size: 1.5em; line-height: 1.3333em; margin-bottom: 1.3333em; }
+.gdoc p, .gdoc ul, .gdoc ol, .content .gdoc table { font-size: 1em; }
+
 /* RRCHNM sustainability banner and footer logos */
 .notice { display: flex; align-items: center; gap: 15px; background: #f8f8f8; border: 1px solid #ddd; padding: 10px; margin: 0 0 20px; }
 .notice img { height: 30px; width: auto; }

@@ -10,8 +10,10 @@ falling back to the live page, and writes content/<section>/<slug>/index.md.
 Fetches are cached in cache/, so a rerun only regenerates the Markdown.
 """
 import concurrent.futures as cf
+import csv
 import hashlib
 import html
+import io
 import json
 import re
 import sys
@@ -159,6 +161,16 @@ def capture(entry):
         if "html" not in ctype:
             continue
         page = data.decode("utf-8", "replace")
+        if m := re.search(r"/spreadsheets/d/([\w-]+)", final):
+            if sheet := spreadsheet(m.group(1)):
+                entry.update(source=source, body=sheet[0], files=sheet[1])
+                return entry
+            continue
+        if m := re.search(r"var DOC_CONTENT = '(.*?)';\s*var DOC_REVISION", page, re.S):
+            # The 2010 Google Docs editor carried the document as a JS string;
+            # its bold-line headings are what an extractor drops, so keep the HTML.
+            entry.update(source=source, body=clean_html(js_unescape(m.group(1))))
+            return entry
         if IMAGE_HOSTS.search(url):
             if m := re.search(r'id="photo-display"[^>]+src="([^"]+)"', page) or re.search(
                     r'(?:property|name)="(?:og:image|twitter:image)[^"]*"[^>]+content="([^"]+)"', page):
@@ -181,6 +193,64 @@ def capture(entry):
         entry["body"], entry["files"] = localize_images(text, url, ts if source == "wayback" else None)
         return entry
     return entry
+
+
+def js_unescape(s):
+    """Decode a JavaScript string literal's escapes (\\74, \\x3c, \\u003c, \\n, \\')."""
+    simple = {"n": "\n", "t": "\t", "r": "\r", "b": "\b", "f": "\f", "v": "\v"}
+
+    def one(m):
+        e = m.group(1)
+        if e[0] == "x" or e[0] == "u":
+            return chr(int(e[1:], 16))
+        if e[0] in "01234567":
+            return chr(int(e, 8))
+        return simple.get(e, e)
+
+    return re.sub(r"\\(x[0-9a-fA-F]{2}|u[0-9a-fA-F]{4}|[0-3]?[0-7]{1,2}|.)", one, s, flags=re.S)
+
+
+SAFE_TAGS = {"p", "br", "b", "strong", "i", "em", "u", "ul", "ol", "li", "a", "blockquote",
+             "table", "tr", "td", "th", "h1", "h2", "h3", "h4", "sup", "sub"}
+
+
+def clean_html(doc):
+    """A document's body reduced to SAFE_TAGS, no attributes but http(s) hrefs."""
+    soup = BeautifulSoup(doc, "html.parser")
+    body = soup.body or soup
+    for tag in body.find_all(["script", "style"]):
+        tag.decompose()
+    for tag in body.find_all(True):
+        if tag.name == "div":
+            tag.append(soup.new_tag("br"))
+            tag.unwrap()
+        elif tag.name not in SAFE_TAGS:
+            tag.unwrap()
+        else:
+            href = tag.get("href", "")
+            tag.attrs = {"href": href} if tag.name == "a" and re.match(r"https?://", href) else {}
+    out = body.decode_contents() if body is not soup else str(body)
+    out = re.sub(r"(?:\s*<br/?>\s*){3,}", "<br/><br/>", out.replace("\xa0", " "))
+    out = re.sub(r"\n\s*\n", "\n", out).strip()  # a blank line would end the Markdown HTML block
+    return f'<div class="gdoc">\n{out}\n</div>'
+
+
+def spreadsheet(key):
+    """A public Google Sheet as a Markdown table plus its CSV; None if not public."""
+    status, ctype, data, _ = get(f"https://docs.google.com/spreadsheets/d/{key}/export?format=csv")
+    if status != 200 or "csv" not in ctype:
+        return None
+    rows = list(csv.reader(io.StringIO(data.decode("utf-8", "replace"))))
+    # Drop columns that are only links, numeric ids or blank (avatars, user ids).
+    keep = [i for i in range(len(rows[0]))
+            if not all(re.fullmatch(r"(https?://\S*|\d*)", r[i].strip()) for r in rows[1:] if i < len(r))]
+    cell = lambda v: v.replace("|", "\\|").replace("\n", " ").strip()
+    table = ["| " + " | ".join(cell(rows[0][i]) for i in keep) + " |",
+             "|" + "---|" * len(keep)]
+    table += ["| " + " | ".join(cell(r[i]) if i < len(r) else "" for i in keep) + " |" for r in rows[1:]]
+    body = "\n".join(table) + "\n\n[Download the spreadsheet (CSV)](spreadsheet.csv)"
+    body = re.sub(r"<(?=[/a-zA-Z!?])", "&lt;", body)
+    return body, {"spreadsheet.csv": data}
 
 
 def localize_images(text, base, ts):
