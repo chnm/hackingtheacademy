@@ -8,8 +8,9 @@ published: 2010-01-21
 captured_from: wayback
 ---
 
+{{< figure src="image-1.jpg" alt=`computer computer` class="wrap" >}}
+
 The computer-mediated classroom comes with unique challenges, especially for those most familiar with teacher-centered practices. Having taught writing courses in both traditional and computer classrooms, I prefer the latter. For me, teaching in a computer-mediated classroom supports the writing course objective–to practice writing.
-![computer computer](image-1.jpg)
 
 
 Teachers take on a different role in the computer-mediated classroom. Unlike the traditional teacher-centered setting, the computer classroom is student-centered. Talking-head educators (you know who you are) are required to alter teaching practices when working in a computer-mediated classroom. This is a good thing. In general, the less time teachers spend talking to (or at) students, the more time students can spend writing. I’m not saying that a traditional teacher-centered course doesn’t have its merits, some do. Indeed, I’ve sat through my share of brilliant lectures. However, these inspiring orators rarely focused their attention on writing, even when the course subject was literature. This is an issue that I will explore further in another post. Suffice it to say that a Gen Ed literature course is *still*, at its core, a writing course.

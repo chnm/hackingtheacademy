@@ -288,6 +288,11 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 .intro { margin-top: 1.3333em; }
 .provenance p { font-size: 1.3em; border-top: 1px solid #b6b6b2; border-bottom: 1px solid #b6b6b2; padding: 0.75em 0; }
 .content img { max-width: 100%; height: auto; }
+.content figure { margin: 1em 0 1.3333em; }
+.content figure img { display: block; margin: 0 auto; }
+.content figure.wrap { float: right; max-width: 40%; margin: 0.3em 0 1em 1.5em; }
+.content::after { content: ""; display: block; clear: both; }
+.content h2, .content h3, .content h4, .content hr { clear: both; }
 .content iframe { max-width: 100%; }
 .content pre { white-space: pre-wrap; font-size: 1.3em; }
 .content h2, .content h3, .content h4 { text-align: left; margin: 1em 0 0.5em; }
@@ -317,6 +322,7 @@ hgroup .subtitle, .byline, .date { text-align: center; }
 footer { margin-top: 3em; }
 .footer-links { font-size: 1.3em; }
 @media (max-width: 600px) {
+  .content figure.wrap { float: none; max-width: 100%; margin: 1em 0; }
   body { margin: 0; padding: 16px; box-shadow: none; }
   #logo { font-size: 3.6em; padding: 10px 0; }
   .highlight { font-size: 1.8em; }

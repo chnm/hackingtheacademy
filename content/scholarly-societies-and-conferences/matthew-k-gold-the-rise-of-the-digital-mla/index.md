@@ -8,7 +8,7 @@ published: 2009-01-03
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 
 *“Untitled,” [The Tattered Coat](http://www.flickr.com/photos/tatteredcoat/)*

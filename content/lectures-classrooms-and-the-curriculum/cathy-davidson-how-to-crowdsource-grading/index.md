@@ -8,7 +8,7 @@ published: 2009-07-01
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Cathy Davidson](http://www.hastac.org/users/cathy-davidson) on Jul 26, 2009, 10:19 AM**
 
@@ -96,6 +96,8 @@ In lieu of a final exam, students will write an evaluation of the class (in addi
 
 *PLEASE NOTE:  Our apologies to anyone who tried to leave a comment on Sunday night.  I had no idea when I posted this that it would be such a popular topic.  That was a night scheduled for maintenance on our new site.  About 500 viewers (and a few bots) tuned in and our developer moved the site offline so people could read without it disturbing the data base under repair.  That meant about 500 additional "reads" weren't recorded (not a big deal by any means)---but also that you couldn't leave comments.  Comments have been open since then but tonight (Tues July 28) A & S Computing at Duke will be taking the [www.hastac.org](http://www.hastac.org) site off line again, this time for about seven hours, to do some server maintenance.  Again, you won't be able to add a comment.  But you will tomorrow.  Promise!*    
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
+
 - [Cathy Davidson's blog](http://www.hastac.org/blogs/cathy-davidson)
 - [Login](http://www.hastac.org/user/login?destination=node%2F23906%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F23906%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

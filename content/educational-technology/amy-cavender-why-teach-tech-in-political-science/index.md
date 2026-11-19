@@ -8,7 +8,7 @@ published: 2009-09-18
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 My students can vouch for the fact that I’m a technophile. Over the last few years, I’ve asked students at various times to submit work via the Digital Dropbox in Blackboard, submit work via email attachment, participate in discussion boards in Blackboard, keep a blog of their own, contribute to a class blog, and use [Zotero](http://www.zotero.org/). This semester I’m asking students in my writing-intensive course to use [Google Documents](http://docs.google.com) for their work, and I’m asking students in my upper-level seminar to contribute to a class blog and to use Zotero Groups (thanks to [Sean Takats](http://quintessenceofham.org/2009/08/07/teaching-with-zotero-groups-or-eating-my-own-dog-food-part-1/) for the latter idea).
 

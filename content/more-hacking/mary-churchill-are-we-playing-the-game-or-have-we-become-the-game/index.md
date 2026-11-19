@@ -33,7 +33,7 @@ In reading her article, I was struck by the ways in which the writers at the Uni
 
 Mary Churchill
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}
 
 Archer, Louise. 2008. “The new neoliberal subjects? Young/er academics’ constructions of professional identity.” *Journal of Education Policy.* May 2008, Vol. 23, No. 3, pp. 265-285.
 

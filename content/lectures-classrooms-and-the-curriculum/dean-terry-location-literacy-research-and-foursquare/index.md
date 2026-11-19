@@ -13,7 +13,7 @@ captured_from: wayback
 
 *This is the first of a series of posts called “Re-imagining Location”  about location, place and the mobile web as it relates to academia,  research, and the arts. For the past three years I’ve been heavily  engaged in projects in a collaborative research and creative group  called [MobileLab](http://emac.utdallas.edu/research/).   As we are entering a period where notions of location are beginning to  be discussed in these circles I thought I’d share some of the things  I’ve been thinking about along with students and colleagues.*
 
-![Austin at Night Location Literacy](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Austin at Night Location Literacy` >}}
 
 
 In 2012 mobile web access will eclipse desktop access. This means a lot more than shrinking the web so it fits on a mobile screen. The mobile web is not just a smaller desktop web. In the mobile web context is key. It is the central component that differentiates the mobile experience from the desktop one (what I like to call, semi-jokingly, the Late Desktop Era). And location / place is a critical contextual layer.

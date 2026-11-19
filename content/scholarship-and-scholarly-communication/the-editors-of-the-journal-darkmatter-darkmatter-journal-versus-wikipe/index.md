@@ -14,7 +14,7 @@ The incident highlights something of the hierarchies of online knowledge. It rev
 
 The references we added to Wikipedia’s page for [The Wire](http://en.wikipedia.org/wiki/The_Wire) were ***accepted*** after an extended discussion with the Wikipedia editor (reproduced below). To view a snapshot of the edit history of *The Wire* Wikipedia page, click on the image.<sup>\[2\]</sup>
 
-![wikipedia\_edits wikipedia\_edits](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`wikipedia_edits wikipedia_edits` >}}
 
 
 Read the discussion between the *darkmatter* and Wikipedia editor:<sup>\[3\]</sup>

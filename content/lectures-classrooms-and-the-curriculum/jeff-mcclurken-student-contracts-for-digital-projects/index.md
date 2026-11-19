@@ -8,7 +8,7 @@ published: 2010-03-02
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Like many ProfHackers, I’m constantly [tinkering with my syllabi](http://www.profhacker.com/?s=syllabus&searchsubmit=Search) and assignments, looking to improve the experience for the students (and for myself).  For many of my writing assignments, this tinkering has meant that the guidelines have grown longer and longer (as I address specific issues that have come up in previous iterations).  However, in my senior undergraduate seminar, Adventures in Digital History, I’ve taken the opposite approach, giving students the broadest of guidelines and providing them with the opportunity to create their own assignments for their group digital history projects.
 

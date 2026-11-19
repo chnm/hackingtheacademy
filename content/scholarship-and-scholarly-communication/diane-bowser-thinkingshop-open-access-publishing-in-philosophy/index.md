@@ -34,7 +34,7 @@ There are a number of excellent arguments and resources circulating in our field
 - The [Leiter Report has also covered open access and open publishing](http://leiterreports.typepad.com/blog/2009/06/open-access-journals-in-philosophy-why-arent-there-more-and-more-better-ones.html); again there are many interesting links here as well.
 - [Scholarship In the Open](http://hypertiling.wordpress.com/2009/08/18/scholarship-in-the-open/) distinguishes open access from open process publishing in an attempt to clarify how each model might benefit academics and the communities they serve.
 - A recent (2-19-2010) article from The Chronicle’s web site, [*Open Access to Research Is Inevitable, Libraries Are Told*](http://chronicle.com/blogPost/Open-Access-to-Research-Is/8475/?sid=wc&utm_source=wc&utm_medium=en), summarizes panel discussions on the future of open access.(Howard)
-- [Directory of Open Access Journals DOAJ](&lt;http://www.thinkingshop.com/This service covers free, full text, quality controlled scientific and scholarly journals. We aim to cover all subjects and languages. There are now 4755 journals in the directory. Currently 1880 journals are searchable at article level. As of today 357188 articles are included in the DOAJ service. >): This service covers free, full text, quality controlled scientific and scholarly journals. We aim to cover all subjects and languages. As of February 2010, there are now **4755** journals in the directory. Currently **1880** journals are searchable at article level. As of today (2-20-2010) **357188** articles are included in the DOAJ service.
+- [Directory of Open Access Journals DOAJ](<http://www.thinkingshop.com/This service covers free, full text, quality controlled scientific and scholarly journals. We aim to cover all subjects and languages. There are now 4755 journals in the directory. Currently 1880 journals are searchable at article level. As of today 357188 articles are included in the DOAJ service. >): This service covers free, full text, quality controlled scientific and scholarly journals. We aim to cover all subjects and languages. As of February 2010, there are now **4755** journals in the directory. Currently **1880** journals are searchable at article level. As of today (2-20-2010) **357188** articles are included in the DOAJ service.
 
 In my humble opinion, the time for both open access and open publishing is now. What do you think?
 
@@ -45,4 +45,4 @@ In my humble opinion, the time for both open access and open publishing is now. 
 
 [trackback](http://www.thinkingshop.com/2009/10/03/open-access-publishing-in-philosophy/trackback/)from your own site.
 
-![AddThis Social Bookmark Button](image-1.gif)
+{{< figure src="image-1.gif" alt=`AddThis Social Bookmark Button` >}}

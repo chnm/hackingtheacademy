@@ -25,7 +25,7 @@ Having people speak in smaller groups primes them with ideas for sharing in the 
 - I start the quarter off **being  honest and saying that it’s really tough to speak to a large crowd** and  tougher still when you have to compete for their attention (e.g.,  talking in class, or using tech to tune out), so to make it easier on me  and more interesting for them, I’ll be asking questions throughout the  lecture and if I see someone not paying attention, I will most likely  call on them.
 - **Have students present some of the info**, where  appropriate. Each class period, I have a 5 minute block for student  presentations — students definitely seem more interested in information  from their peers. If the students get the info wrong, I use it as a  teachable moment.
 
-![large\_audience large\_audience](image-1.png)
+{{< figure src="image-1.png" alt=`large_audience large_audience` >}}
 
 
 Audience from Napoleon Dynamite spoof posted on YouTube

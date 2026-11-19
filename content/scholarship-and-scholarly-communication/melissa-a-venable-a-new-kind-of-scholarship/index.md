@@ -10,7 +10,9 @@ captured_from: wayback
 
 # A New Kind of Scholarship?
 
-![GoingThrough All These Books - timtom.ch](image-1.jpg) Professors, administrators, researchers, and graduate students are increasingly using social media to:
+{{< figure src="image-1.jpg" alt=`GoingThrough All These Books - timtom.ch` class="wrap" >}}
+
+Professors, administrators, researchers, and graduate students are increasingly using social media to:
 
 
 - communicate with their students,

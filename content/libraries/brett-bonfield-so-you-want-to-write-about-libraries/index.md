@@ -10,17 +10,17 @@ captured_from: wayback
 
 [Print This Post](http://www.inthelibrarywiththeleadpipe.org/2009/so-you-want-to-write-about-libraries/print/)
 
-![double Double Octuple Newspaper Web Perfecting Press, 1903](image-1.png)
+{{< figure src="image-1.png" alt=`double Double Octuple Newspaper Web Perfecting Press, 1903` >}}
 
 Double Octuple Newspaper Web Perfecting Press, 1903
 
-*In the Library with the Lead Pipe* is a little over a year old now. We published our first article on October 8, 2008, and we’ve now published thirty-five in all, along with five group posts. By most measures, we’re still a new publication, but we’ve also been pretty successful. About 2,250 people subscribe to our feed, we were one of the [*LISNews* blogs to read in 2009](http://www.lisnews.org/10_librarian_blogs_read_2009), [we’re indexed in LISTA](&lt;http://search.ebscohost.com/login.aspx?direct=true&db=lxh&bquery=((SO+(in+the+library+with+the+lead+pipe)))&type=1&site=ehost-live>), and many of our favorite writers and librarians have contributed articles or read drafts of our work, mentioned us on their blogs, left comments, or encouraged us in person.
+*In the Library with the Lead Pipe* is a little over a year old now. We published our first article on October 8, 2008, and we’ve now published thirty-five in all, along with five group posts. By most measures, we’re still a new publication, but we’ve also been pretty successful. About 2,250 people subscribe to our feed, we were one of the [*LISNews* blogs to read in 2009](http://www.lisnews.org/10_librarian_blogs_read_2009), [we’re indexed in LISTA](<http://search.ebscohost.com/login.aspx?direct=true&db=lxh&bquery=((SO+(in+the+library+with+the+lead+pipe)))&type=1&site=ehost-live>), and many of our favorite writers and librarians have contributed articles or read drafts of our work, mentioned us on their blogs, left comments, or encouraged us in person.
 
 In this article, I do my best to explain why we think we’ve been able to reach people. Although it’s hard to avoid talking about ourselves in an article that describes our experience writing, editing, and publishing *In the Library with the Lead Pipe*, our motivation is to encourage our readers to produce their own experiments, not to encourage them to adopt our model. When we created *In the Library with the Lead Pipe*, we had to figure out a lot of things for ourselves. Because we love reading good writing about libraries, we’re sharing what we know in the hope of bringing more good library writing into the world.
 
 ### Assemble a Team
 
-![treadwell Treadwell's Wooden-Frame Bed and Power Press, 1822](image-2.png)
+{{< figure src="image-2.png" alt=`treadwell Treadwell's Wooden-Frame Bed and Power Press, 1822` >}}
 
 Treadwell's Wooden-Frame Bed and Power Press, 1822
 
@@ -34,7 +34,7 @@ Kim had worked with [Emily Ford](http://inthelibrarywiththeleadpipe.org/authors/
 
 ### Find Your Niche
 
-![van Modern Delivery Van for Grocers, Druggists, Etc.](image-3.png)
+{{< figure src="image-3.png" alt=`van Modern Delivery Van for Grocers, Druggists, Etc.` >}}
 
 Modern Delivery Van for Grocers, Druggists, Etc.
 
@@ -56,7 +56,7 @@ In finding our niche and developing our processes, we did our best to find the t
 
 ### Build a Sound Foundation
 
-![accurate Accurate Measurements are Essential to Correct Time Keeping](image-4.png)
+{{< figure src="image-4.png" alt=`accurate Accurate Measurements are Essential to Correct Time Keeping` >}}
 
 Accurate Measurements are Essential to Correct Time Keeping
 
@@ -75,13 +75,13 @@ One of the primary advantages of using a web host is that it gives you control o
 
 WordPress also made it fairly simple for Derik to create a unique website design. By modifying an existing template and adding in his art, Derik gave us some of the best staging in online library publishing. When you visit a website for the first time and see original art, it immediately signals to you that the site’s creators care about your experience.
 
-![Six Librarians Six Librarians, drawing by Derik Badman](image-5.png)
+{{< figure src="image-5.png" alt=`Six Librarians Six Librarians, drawing by Derik Badman` >}}
 
 Six Librarians, drawing by Derik Badman
 
 ### Go to Your Audience
 
-![telephone Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments](image-6.png)
+{{< figure src="image-6.png" alt=`telephone Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments` >}}
 
 Sectional View of a Telephone Building: A Typical American Central Office Building, Showing the Efficient Arrangement of the Various Departments
 
@@ -103,11 +103,11 @@ I found it surprisingly difficult to figure out the relevant indexes’ collecti
 - [Ulrich’s](http://www.ulrichsweb.com/ulrichsweb/) (subscription required). We emailed the [Microsoft Word version of the submission form found on the Ulrich’s website](http://www.ulrichsweb.com/ulrichsweb/areyou.asp) to them on December 9, 2008 and were informed less than a week later that we had been added to their database.
 - [WorldCat](http://www.worldcat.org/oclc/277229158) (subscription version available). We asked a few catalogers at OCLC libraries to include us in their catalogs, but no one has ever stepped forward to receive credit for having cataloged us, and the citation itself doesn’t indicate which library chose to include us in its collection. Whoever you are, thank you for giving us a presence in WorldCat.
 
-We also submitted our work to several other resources that aren’t specifically dedicated to scholarly research, including search engines Google, Yahoo!, MSN (now Bing), and Ask (all via the [Google XML Sitemaps WordPress plugin](&lt;http://wordpress.org/extend/plugins/google-sitemap-generator/)>), as well as [Alexa](http://www.alexa.com/data/details/traffic_details/inthelibrarywiththeleadpipe.org) and [Technorati](http://technorati.com/blogs/inthelibrarywiththeleadpipe.org); [DMOZ](http://www.dmoz.org/Reference/Libraries/Library_and_Information_Science/Journals/) and the [Yahoo! Directory](http://dir.yahoo.com/Reference/Libraries/Library_and_Information_Science/Journals/); library-centric search engines [LibWorm](http://www.libworm.com/) and [LISZen](http://liszen.com/), and librarian-created indexes [Librarians’ Internet Index](http://lii.org/pub/subtopic/595), [Internet Public Library](http://lii.org/pub/subtopic/595), and [LISWiki](http://liswiki.org/wiki/Blogs); and we requested an article at [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Requested_articles/Applied_arts_and_sciences#Library_sciences). There’s no reason not to submit your work to these resources. Depending on your goals, it may make sense to pursue them even more actively than we did.
+We also submitted our work to several other resources that aren’t specifically dedicated to scholarly research, including search engines Google, Yahoo!, MSN (now Bing), and Ask (all via the [Google XML Sitemaps WordPress plugin](<http://wordpress.org/extend/plugins/google-sitemap-generator/)>), as well as [Alexa](http://www.alexa.com/data/details/traffic_details/inthelibrarywiththeleadpipe.org) and [Technorati](http://technorati.com/blogs/inthelibrarywiththeleadpipe.org); [DMOZ](http://www.dmoz.org/Reference/Libraries/Library_and_Information_Science/Journals/) and the [Yahoo! Directory](http://dir.yahoo.com/Reference/Libraries/Library_and_Information_Science/Journals/); library-centric search engines [LibWorm](http://www.libworm.com/) and [LISZen](http://liszen.com/), and librarian-created indexes [Librarians’ Internet Index](http://lii.org/pub/subtopic/595), [Internet Public Library](http://lii.org/pub/subtopic/595), and [LISWiki](http://liswiki.org/wiki/Blogs); and we requested an article at [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Requested_articles/Applied_arts_and_sciences#Library_sciences). There’s no reason not to submit your work to these resources. Depending on your goals, it may make sense to pursue them even more actively than we did.
 
 ### Be Fearless
 
-![fearless The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition](image-7.png)
+{{< figure src="image-7.png" alt=`fearless The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition` >}}
 
 The First Missile: The Cave Man of prehistoric times unconsciously invented arms and ammunition
 
@@ -119,17 +119,17 @@ I wrote to *LISNews*’s Blake Carver the day before we went live. His response,
 
 Our biggest leap happened the first time [Jessamyn West gave us a write up on her blog, librarian.net](http://www.librarian.net/stax/2589/a-little-more-long-form-reading/), on December 9, 2008. We got another big subscription increase when [she linked to Ross Singer’s guest post](http://www.librarian.net/stax/2968/did-you-mean-%E2%80%9Colive-skittered%E2%80%9D-a-look-at-whats-wrong-with-the-opac/) back in August.
 
-![traffic Detail from our Google Analytics traffic analysis](image-8.png)
+{{< figure src="image-8.png" alt=`traffic Detail from our Google Analytics traffic analysis` >}}
 
 Detail from our Google Analytics traffic analysis
 
-![jessamyn Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us](image-9.png)
+{{< figure src="image-9.png" alt=`jessamyn Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us` >}}
 
 Detail from Google Analytics: Traffic spiked the first time Jessamyn West linked to us
 
 ### Experiment
 
-![laboratory The Laboratory](image-10.png)
+{{< figure src="image-10.png" alt=`laboratory The Laboratory` >}}
 
 The Laboratory
 

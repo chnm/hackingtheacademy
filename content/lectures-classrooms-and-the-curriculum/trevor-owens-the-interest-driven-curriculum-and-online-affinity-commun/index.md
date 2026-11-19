@@ -21,7 +21,7 @@ Here is what I have for the moment. The most important thing that happens in the
 
 **Everyone needs to find Flow**
 
-This is fundamentally about experiencing a kind of motivation. [Csíkszentmihályi](http://www.trevorowens.org/en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) calls these experiences [flow](&lt;http://www.trevorowens.org/en.wikipedia.org/wiki/Flow_(psychology)>). It’s a terrible name, but a critical concept. Flow is a kind of single-minded immersion in a task. It is a pleasurable experience, and it is a fundamental part of developing competence and eventually expertise in a domain. The idea of flow can get rather squishy, but it does describe the generic experience of developing competence and mastery across a wide range of domains.
+This is fundamentally about experiencing a kind of motivation. [Csíkszentmihályi](http://www.trevorowens.org/en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) calls these experiences [flow](<http://www.trevorowens.org/en.wikipedia.org/wiki/Flow_(psychology)>). It’s a terrible name, but a critical concept. Flow is a kind of single-minded immersion in a task. It is a pleasurable experience, and it is a fundamental part of developing competence and eventually expertise in a domain. The idea of flow can get rather squishy, but it does describe the generic experience of developing competence and mastery across a wide range of domains.
 
 What troubles me, is that I think many young people never get to experience flow in school, and if they do, only experience it in a single domain. I think places like the RPG Maker Community, and Civ Modders sites could serve as tools for schools to use to help give this experience to all students.
 

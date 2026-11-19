@@ -22,7 +22,7 @@ In addition to making student writing public, I’ve also begun taking the words
 
 With this in mind, I am moving away from asking students to write toward asking them to *weave*. To build, to fabricate, to design. I don’t want my students to become miniature scholars. I want them to be aspiring Rauschenbergs, assembling mixed media combines, all the while through their engagement with seemingly incongruous materials, developing a critical thinking practice about the process and the product.
 
-![Sid Meier's Pirates Mapped in 3D (Click image for a larger version) Sid Meier's Pirates Mapped in 3D](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Sid Meier's Pirates Mapped in 3D (Click image for a larger version) Sid Meier's Pirates Mapped in 3D` >}}
 
 Sid Meier's Pirates Mapped in 3D (Click image for a larger version)
 

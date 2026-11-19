@@ -19,13 +19,25 @@ Last fall, Teaching and Learning with Technology shot some footage of me in the 
 
 TrackBack URL: https://blogs.psu.edu/mt4/mt-tb.cgi/162645
 
-![CpLlogo.gif](image-1.gif)
+{{< figure src="image-1.gif" alt=`CpLlogo.gif` >}}
 
 ### Subscribe
 
-- ![Subscribe to feed](image-2.gif) [Entries](http://www.personal.psu.edu/cpl2/blogs/cplportfolio/index.xml)
-- ![Subscribe to feed](image-3.gif) [Comments](http://www.personal.psu.edu/cpl2/blogs/cplportfolio/comments_rss.xml)
-- ![Follow CpL on Twitter](image-4.jpg) [@cplong on Twitter](http://twitter.com/cplong)
-- ![Follow DeanCpL on Twitter](image-5.jpg) [@LAUSDeanLong on Twitter](http://twitter.com/LAUSDeanLong)
-- ![Subscribe to Digital Dialogue via iTunes](image-6.png) [Digital Dialogue via iTunes](itpc://deimos3.apple.com/WebObjects/Core.woa/Feed/psu.edu.2232368414.02232368421)
-- ![Follow Digital Dialogue on Facebook](image-7.jpg) [Digital Dialogue Facebook Page](http://facebook.com/DigitalDialogue)
+{{< figure src="image-2.gif" alt=`Subscribe to feed` class="wrap" >}}
+
+{{< figure src="image-3.gif" alt=`Subscribe to feed` class="wrap" >}}
+
+{{< figure src="image-4.jpg" alt=`Follow CpL on Twitter` class="wrap" >}}
+
+{{< figure src="image-5.jpg" alt=`Follow DeanCpL on Twitter` class="wrap" >}}
+
+{{< figure src="image-6.png" alt=`Subscribe to Digital Dialogue via iTunes` class="wrap" >}}
+
+{{< figure src="image-7.jpg" alt=`Follow Digital Dialogue on Facebook` class="wrap" >}}
+
+- [Entries](http://www.personal.psu.edu/cpl2/blogs/cplportfolio/index.xml)
+- [Comments](http://www.personal.psu.edu/cpl2/blogs/cplportfolio/comments_rss.xml)
+- [@cplong on Twitter](http://twitter.com/cplong)
+- [@LAUSDeanLong on Twitter](http://twitter.com/LAUSDeanLong)
+- [Digital Dialogue via iTunes](itpc://deimos3.apple.com/WebObjects/Core.woa/Feed/psu.edu.2232368414.02232368421)
+- [Digital Dialogue Facebook Page](http://facebook.com/DigitalDialogue)

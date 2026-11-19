@@ -22,7 +22,7 @@ Let me step back and explain.
 
 I began with a Twitter Adoption Matrix, originally sketched out in late August by Rick Reo. Rick is an instructional designer at George Mason University, and he’d been keeping tabs on the different ways instructors have been using Twitter in their teaching. Rick sent a [draft of this adoption matrix](http://www.scribd.com/doc/20769928) to the university’s Teaching with Technology listserv, and I soon began trying to situate my own Twitter use on the chart. In the process, I adapted Rick’s original matrix, re-imagining the vertical axis as a spectrum ranging from monologic to dialogic, and redefining the horizontal axis as a measurement of student activity, ranging from passive to active. After some other changes based on my experience with Twitter, I ended up with this revised Twitter Adoption Matrix ([larger image](http://www.samplereality.com/wp-content/uploads/2009/10/Twitter-Matrix.jpg)):
 
-![Twitter Adoption Matrix Twitter Adoption Matrix (click image for full size)](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Twitter Adoption Matrix Twitter Adoption Matrix (click image for full size)` >}}
 
 Twitter Adoption Matrix (click image for full size)
 

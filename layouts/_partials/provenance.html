@@ -5,6 +5,8 @@
 {{ $snap := "" }}{{ with .Params.archive_url }}{{ $snap = . }}{{ end }}
 {{- if eq .Params.captured_from "wayback" }} This copy comes from the <a href="{{ $snap }}">Internet Archive's snapshot</a>.
 {{- else if eq .Params.captured_from "live" }} This copy was taken from the original page in 2026.{{ with $snap }} See also the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}
+{{- else if eq .Params.captured_from "embed" }} It is played below from {{ (urls.Parse .Params.original_url).Host | strings.TrimPrefix "www." }}.
+{{- else if eq .Params.captured_from "external" }} It is still online there, and can't be copied or embedded here.
 {{- else if eq .Params.captured_from "archive.org" }} The recording below is played from the Internet Archive.
 {{- else if eq .Params.captured_from "youtube" }}{{ with $snap }} See the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}
 {{- else }} No copy is kept here.{{ with $snap }} See the <a href="{{ . }}">Internet Archive's snapshot</a>.{{ end }}

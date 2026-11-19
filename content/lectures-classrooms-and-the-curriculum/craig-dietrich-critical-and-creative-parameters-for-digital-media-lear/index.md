@@ -10,7 +10,9 @@ captured_from: wayback
 
 This essay outlines three considerations for digital media learning: ecologies, formlessness, and relational literacy.  Parts originally presented at the [2010 Digital Media and Learning conference](http://dmlcentral.net/conference/sites/all/files/documents/dmlconf_feb2010.pdf) \[pdf\] panel "Setting Critical and Creative Parameters for a Cross-Disciplinary / Platform Research Agenda"
 
-This drab slide is a wall label, the ubiquitous signage that sits next to an artwork describing its parts.  The text includes such things as creator, date created, medium, and dimensions, reaching a quandary for works of new media: none of the descriptors have relevance to the ways creative people create in the Internet age.  Works are routinely remixed, re-hashed, or re-purposed from older material.  Medium and dimension?  These are terms befitting paintings, but can't contend with the multitudes of media types, formats, and linkages.  And how can we define a date-created when digital projects increment their version numbers? ![ThoughtMesh Image](image-1.png)
+{{< figure src="image-1.png" alt=`ThoughtMesh Image` class="wrap" >}}
+
+This drab slide is a wall label, the ubiquitous signage that sits next to an artwork describing its parts. The text includes such things as creator, date created, medium, and dimensions, reaching a quandary for works of new media: none of the descriptors have relevance to the ways creative people create in the Internet age. Works are routinely remixed, re-hashed, or re-purposed from older material.  Medium and dimension? These are terms befitting paintings, but can't contend with the multitudes of media types, formats, and linkages.  And how can we define a date-created when digital projects increment their version numbers?
 
 
 But I'm being too nice. [Jon Ippolito](http://en.wikipedia.org/wiki/Jon_Ippolito) does a much better job of summing up the problem in his article, [Death by Wall Label](http://vectors.usc.edu/thoughtmesh/publish/11.php):
@@ -39,7 +41,7 @@ Void of exchanges between creator and consumer, relying on detachment over engag
 
 One of the outcomes of the aforementioned Variable Media Network is the
 
-![ThoughtMesh Image](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`ThoughtMesh Image` >}}
 
 [Variable Media Questionnaire](http://variablemediaquestionnaire.net/)(VQM), a web-based application developed to make apparent connections between artwork components. The application asks questions of an artwork: is it "contained" inside materials or frameworks? What are the properties of the room it is installed or performed in? How was the digital material encoded? With these properties in place, the Variable Media Questionnaire then asks questions from the artist: what changes can be made to the materials while maintaining your original intent? Can a room be lit differently? Will encoding in a different file format or playing on with a HD projector change the work's meaning? The Variable Media Network has defined an artwork not just by its visible elements, but also the harder-to-determine relationships of the components inside a work, between works, and artists to their work.
 
@@ -57,9 +59,9 @@ RSS feeds are lists of blog posts and news reports that users pull into programs
 
 If Meri showed this project in a gallery, its wall label might try to grab on by listing "RSS", "webpage," and "web browser" as constituent compoents. Yet this description disregards its essence: RSS is intended to move users to scattered content on the internet, but Meri's project miss-uses the format to bring parts of the internet together. 
 
-Interestingly, the RSS project's dispersed, relational form of writing is similar to the ways of working at USC's ![ThoughtMesh Image](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`ThoughtMesh Image` class="wrap" >}}
 
-[Vectors Journal](http://vectors.usc.edu/).  At Vectors we find that much of the beginning stages of creating an interactive work focus on the "structuring up" of the data by using database tools like the [Dynamic Backend Generator](http://vectorsjournal.org/journal/blog/category/tools/dbg/) (DBG).  Fundamentally, the DBG creates a spreadsheet view of each table in a MySQL database. Though it goes one step further, predicting relationships between database tables representing them as HTML pulldown menus.  This way, relational data can be managed without the back-and-forth between tables and by novice or expert users. 
+Interestingly, the RSS project's dispersed, relational form of writing is similar to the ways of working at USC's [Vectors Journal](http://vectors.usc.edu/).  At Vectors we find that much of the beginning stages of creating an interactive work focus on the "structuring up" of the data by using database tools like the [Dynamic Backend Generator](http://vectorsjournal.org/journal/blog/category/tools/dbg/) (DBG).  Fundamentally, the DBG creates a spreadsheet view of each table in a MySQL database. Though it goes one step further, predicting relationships between database tables representing them as HTML pulldown menus.  This way, relational data can be managed without the back-and-forth between tables and by novice or expert users. 
 
 Unexpected at first, we often see Vectors' fellows using the tool to re-imagine and recreate their scholarship by using the tool as a canvas for ideas, not simply data management.  Relationships that would be considered non-sequitor or even non-existent in linear form become connected in relational form.  And once initial connections are established, fellows often start remixing and re-remixing their scholarly work.  So while database literacy is being established, new scholarly relationships between content -- ecologies -- are being created.
 

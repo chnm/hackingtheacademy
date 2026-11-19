@@ -8,7 +8,7 @@ published: 2010-01-21
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 This semester, as I mentioned below, I'm going all in on practomimetic education.
 

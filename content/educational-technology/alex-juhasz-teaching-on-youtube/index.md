@@ -30,6 +30,6 @@ Thinking through education on YouTube, after teaching a class using its many res
 
 6\. Control/Chaos: The college classroom is a disciplined space where knowledge moves in a formal and structured routine familiar to all the players. While the critical classroom begins to alter this script by giving more power to students, and allowing knowledge to be created dynamically, this is not the random chaos of information and power which is YouTube. For effective education, structure remains paramount so as to control conversation, to allow ideas to build in succession permitting things to grow steadily more complex, to be able to [find things](http://www.youtube.com/watch?v=D7KoZREAsiY&feature=PlayList&p=21B9EB915ADD83D1&index=1) once and then again.
 
-![](image-1.png)
+{{< figure src="image-1.png" alt=`` >}}
 
 [Subscribe to Our Feed](http://feeds.feedburner.com/OpenCulture)

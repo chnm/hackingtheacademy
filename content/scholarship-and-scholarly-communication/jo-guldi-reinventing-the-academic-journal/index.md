@@ -12,7 +12,7 @@ captured_from: wayback
 
 The web is thirsty for efficient, effective ways of retrieving useful information about the state of the field. This pressure creates an enormous market for those instruments that help individuals locate authoritative discourses and situated scholarship, and this, of course, is one of the traditional roles of the academic journal.
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Academic Journals are in the course of rethinking their management, methods, and publication standards. This year saw major panels at the AHA (American Historical Association) and MLA (Modern Language association), largely through the leadership of the
 

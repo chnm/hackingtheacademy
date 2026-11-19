@@ -14,7 +14,7 @@ A friend of mine has been testing out a major technology company’s new e-book,
 
 But I have to admit to being seduced by the promise and idea of the digital book, particularly its portability and its usability. Every time I find myself lugging forty pounds of books along while on vacation or visiting an archive, I realize I’d give up the physical pleasures of ‘book-ness’ for easy mobility. Sure, I might have to forego reading in the tub or in bright sunlight, but there are gains to be had here, even beyond portability. I’ve become so accustomed to working with digital documents that I find myself stymied by the inadequate indexes of many books I read. I want to search the print book of my own accord and have it capitulate to my desires the way the reams of digital data on my desktop appear to obey my epistemophilic desires. Sometimes I want to read a book cover to cover, in full savor mode, but, increasingly, I want to cut, paste, and remix them.
 
-![the Sony LIBRIe the Sony LIBRIe](image-1.png)
+{{< figure src="image-1.png" alt=`the Sony LIBRIe the Sony LIBRIe` >}}
 
 
 **the Sony LIBRIe**
@@ -25,14 +25,14 @@ My desktop now sports a new folder labeled “Katrina clips,” a small, DYI dat
 
 It’s a feeling of control that impacts my interactions with both word and image, returning me to my opening thoughts about e-books. In less than 20 years (I got my first PC and VCR in 1987, shiny new tools for starting grad school), I guess I’ve succumbed pretty fully to the lure of information machines and the control they seem to promise. No matter that this control is more ideology than ontology, to repurpose Jane Feuer’s prescient analysis of television. As fond as I am of my many, many books, I feel primed for new modes of reading and of writing, for information mixes that might open up new ways of knowing and of feeling, new circuits of exchange. New media artists have been pushing the boundaries of digital expression for at least a decade, and the electronic literature crowd has an even longer track record of pushing the boundaries of linear narrative. Still, the scholarly crowd has been slow to respond. Even those of us who study electronic media for a living still largely write and publish the ‘old-fashioned’ way even as academic presses struggle to stay afloat. What might electronic scholarship (rather than scholarship about the electronic) look like?
 
-![Horizon Zero, a publication of the Banff Centre Horizon Zero, a publication of the Banff Centre](image-2.png)
+{{< figure src="image-2.png" alt=`Horizon Zero, a publication of the Banff Centre Horizon Zero, a publication of the Banff Centre` >}}
 
 
 **Horizon Zero, a publication of the Banff Centre**
 
 Flow already begins to point the way. It closes the feedback loop between publication and reply, between academic call and response, by knitting the ‘comments’ function integrally into each article it publishes. Other online publications like the  [Electronic Book Review](http://www.electronicbookreview.com/) ,  [Kairos](< http://english.ttu.edu/kairos/>) , and the now-defunct  [Horizon Zero](< http://www.horizonzero.ca/>)  have also explored how multimedia or networked scholarship might take shape.   [The Labyrinth Project](< http://www.annenberg.edu/labyrinth/>)  at USC pushes even further, exploring the power of cinematic language for the database documentary and public scholarship.   [Vectors](< http://www.vectorsjournal.org>) , a new electronic scholarly journal, only publishes pieces that can’t exist in print. (In the interest of full disclosure, I edit the last one.)
 
-![Vectors: Journal of Culture and Technology in a Dynamic Vernacular Vectors: Journal of Culture and Technology in a Dynamic Vernacular](image-3.png)
+{{< figure src="image-3.png" alt=`Vectors: Journal of Culture and Technology in a Dynamic Vernacular Vectors: Journal of Culture and Technology in a Dynamic Vernacular` >}}
 
 
 **Vectors: Journal of Culture and Technology in a Dynamic Vernacular**

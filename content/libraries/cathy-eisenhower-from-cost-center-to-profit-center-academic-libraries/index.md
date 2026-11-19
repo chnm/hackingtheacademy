@@ -26,4 +26,4 @@ I do know this, though: Academic libraries and librarians are desperate to stay 
 
 (Cathy Eisenhower is a poet-librarian and is author of clearing without reversal (Edge 2008) and would with and (Roof 2009). She translates the work of Argentine poet Diana Bellessi and has published essays in Writing against the Curriculum: Anti-Disciplinarity in the Writing and Cultural Studies Classroom and the forthcoming Critical Pedagogy and Library Instruction.)
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

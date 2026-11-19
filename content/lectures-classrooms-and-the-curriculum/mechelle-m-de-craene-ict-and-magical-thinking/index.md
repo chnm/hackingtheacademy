@@ -8,7 +8,7 @@ published: 2006-08-26
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 
 Children have very different schemas than adults when relating with technology. The concept of Cybernetic Developmental Theory (De Craene & Cuthell, 2006) uses Piaget's Cognitive Developmental Theory to identify developmental differences in how children interact with technology. This provides a lens through which teachers can understand how children of all ages (including "clickerati") relate to ICT (De Craene & Cuthell, 2006).

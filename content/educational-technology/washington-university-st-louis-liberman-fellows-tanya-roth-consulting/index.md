@@ -42,7 +42,7 @@ Instructing these workshops has been an eye-opener for all of us. Here are some 
 
 6\. Encourage graduate student graduate to think BIG, and explore the possibilities all these tools offer for a twenty-first century classroom. BUT at the same time remember that it’s important to be discriminating when it comes to selecting which tools to apply, and when. Being selective further helps graduate student instructors match tools to their own teaching goals.
 
-7\.  Emphasize the importance of just knowing about the tools.  Your students will have a harder time thinking you are as stuffy as your subject matter if you appear to be aware of the world outside the classroom ![:)](image-1.gif)
+7\.  Emphasize the importance of just knowing about the tools.  Your students will have a harder time thinking you are as stuffy as your subject matter if you appear to be aware of the world outside the classroom :)
 
 
 Because our workshops have focused on ultimate goals as an educator and not on “how do I use technology to present molecular orbital theory” or “how do I use technology to lead a discussion about the British Empire”, we begin our workshops AWAY from technology with a discussion about goals and current technology use by the participants. For a number of participants, this is the first opportunity they have had to think about and discuss their goals as educators. For us as leaders, this was our eye-opening moment where we realized that these goals were similar across all disciplines.

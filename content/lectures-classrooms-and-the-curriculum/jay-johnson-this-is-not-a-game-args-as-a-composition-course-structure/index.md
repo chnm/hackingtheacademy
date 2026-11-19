@@ -107,4 +107,4 @@ Furthermore, hypercontextuality might also be understood in the terms of The New
 
 [Eco World Content From Across The Internet. Featured on EcoPressed How to feed 7 billion of us without ruining the planet](http://ecopressed.com)
 
-![EcoPressed](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`EcoPressed` >}}

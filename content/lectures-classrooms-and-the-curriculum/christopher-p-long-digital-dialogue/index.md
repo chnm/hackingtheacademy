@@ -22,9 +22,9 @@ TLT Summer Faculty Fellowship Project
 
 Christopher Long, Associate Professor of Philosophy
 
-![DDlogo4-10.png](image-1.png)
+{{< figure src="image-1.png" alt=`DDlogo4-10.png` >}}
 
-![](image-2.png)
+{{< figure src="image-2.png" alt=`` >}}
 
 *Gorgias*, Socrates claims to be one of the only Athenians who attempts the true art of politics. As is well known, Socrates haunted the public places in Athens looking for young people with whom he could converse. During these discussions, Socrates was intent on turning the attention of those he encountered toward the question of the good and the just. It is difficult to understate the lasting political power these dialogues have had over the course of time. Yet the emergence of social Web 2.0 technologies opens new possibilities for this ancient practice of politics, which Socrates fittingly called in the
 

@@ -10,7 +10,9 @@ captured_from: wayback
 
 *Mary Churchill, writing from Boston in the USA.*
 
- Welcome to the February 15, 2010 edition of ![mary-l-churchill2](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`mary-l-churchill2` class="wrap" >}}
+
+Welcome to the February 15, 2010 edition of
 
 *Happy Mondays* here at the University of Venus.
 
@@ -34,7 +36,7 @@ What caught my eye (along with my mind and heart) last week was news from the UK
 
 - I believe that we are obligated to **facilitate the success of all of our students**, not just our domestic students.  They are more than merely revenue-generators; they are human beings making decisions that will impact the rest of their lives…and ours!
 
-![](image-2.gif)
+{{< figure src="image-2.gif" alt=`` >}}
 
 References:
 

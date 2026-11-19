@@ -14,38 +14,38 @@ One of my goals in teaching a graduate-level [Digital Storytelling](http://chnm.
 
 A short project early in the semester asked students to tell a story in five photos (á la [Tell a Story with 5 Photos for Educators](http://www.flickr.com/groups/fivephotos/)). One student told a tale of two goldfish bowls entitled [An escape . . .](http://chnm.gmu.edu/courses/schrum/ctch792sp10/?p=1032):
 
-![goldfishA1](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`goldfishA1` >}}
 
 
-![goldfishA2](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`goldfishA2` >}}
 
 
-![goldfishA3](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`goldfishA3` >}}
 
 
-![goldfishA4](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`goldfishA4` >}}
 
 
-![goldfishA5](image-5.jpg)
+{{< figure src="image-5.jpg" alt=`goldfishA5` >}}
 
 
 The fish leaves a crowded fishbowl to explore a solitary life. After swimming alone, though, the fish returns to group, choosing companionship over solitude.
 
 But what happens the pictures are rearranged:
 
-![goldfishB1](image-6.jpg)
+{{< figure src="image-6.jpg" alt=`goldfishB1` >}}
 
 
-![goldfishB2](image-7.jpg)
+{{< figure src="image-7.jpg" alt=`goldfishB2` >}}
 
 
-![goldfishB3](image-8.jpg)
+{{< figure src="image-8.jpg" alt=`goldfishB3` >}}
 
 
-![goldfishB4](image-9.jpg)
+{{< figure src="image-9.jpg" alt=`goldfishB4` >}}
 
 
-![goldfishB5](image-10.jpg)
+{{< figure src="image-10.jpg" alt=`goldfishB5` >}}
 
 
 The images tell a very different story. We experimented with this in class, arranging and rearranging several sets of photos. For some of the 19 MA and PhD students from the department of History and Art History and the Higher Education Program, this was their first experience telling a story visually. As simple as it was, it started the process of shifting their thinking from a text-based world to one in which images tell stories and communicate meaning. This was one step of many on the path to creating the final project, a 10-minute digital story.
@@ -54,7 +54,7 @@ For me, one of the successes in the class was seeing the projects grow and devel
 
 One student, for example, chose to explore competing scholarly interpretations of *Primavera*, painted by Italian Renaissance artist Sandro Botticelli in the late fifteenth century.
 
-![botticelli](image-11.jpg)
+{{< figure src="image-11.jpg" alt=`botticelli` >}}
 
 
 The initial script read like an academic article, introducing, comparing, and contrasting academic analyses of the painting with long scholarly quotes. Through conversations, feedback, and the experience of watching a host of digital stories (the good, the bad, and the ugly), the student reexamined her approach and began to investigate strategies for maximizing the potential of DST to tell this story.

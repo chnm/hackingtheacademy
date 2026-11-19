@@ -10,12 +10,12 @@ captured_from: wayback
 
 ## Creating an Online Portfolio, Part 2
 
+{{< figure src="image-1.png" alt=`portfolio` class="wrap" >}}
+
 By Jana
 			
 				
-My efforts to ![portfolio](image-1.png)
-
-[create an online portfolio continue](http://historycompass.wordpress.com/2010/05/17/creating-an-online-portfolio/).  In the process I’ve altered the categories somewhat, and have weighed how much to reveal about my various online niches.  For example, in some online communities I am most well-known for my decision to leave the LDS Church and my blogposts about this choice and the ensuing [church discipline](http://pilgrimgirl.blogspot.com/2009/09/this-post-brought-to-you-by-letter-or.html) against my husband.  But in other communities I’m known for my posts about my experiences with [cancer](http://pilgrimgirl.blogspot.com/2009/08/on-cancer-canoes-and-connectedness.html) and a [disability](http://pilgrimgirl.blogspot.com/search/label/amputee).  Neither of these are aspects of oneself that would necessarily be revealed in an academic job interview–particularly because prejudices can be so strong about religion and ability.  However, because a simple google search would easily reveal this information about me, I’ve chosen to integrate my writings on these topics into my online portfolio.
+My efforts to [create an online portfolio continue](http://historycompass.wordpress.com/2010/05/17/creating-an-online-portfolio/).  In the process I’ve altered the categories somewhat, and have weighed how much to reveal about my various online niches.  For example, in some online communities I am most well-known for my decision to leave the LDS Church and my blogposts about this choice and the ensuing [church discipline](http://pilgrimgirl.blogspot.com/2009/09/this-post-brought-to-you-by-letter-or.html) against my husband.  But in other communities I’m known for my posts about my experiences with [cancer](http://pilgrimgirl.blogspot.com/2009/08/on-cancer-canoes-and-connectedness.html) and a [disability](http://pilgrimgirl.blogspot.com/search/label/amputee).  Neither of these are aspects of oneself that would necessarily be revealed in an academic job interview–particularly because prejudices can be so strong about religion and ability.  However, because a simple google search would easily reveal this information about me, I’ve chosen to integrate my writings on these topics into my online portfolio.
 
 While I presented at UCSB’s “[Literature. Culture. Media Slam](http://dhsocal.blogspot.com/2010/05/ucsb-literatureculturemedia-center.html)” last Friday, I showcased my online portfolio and spoke with attendees about the pros and cons of aggregating such information for a search committee.  I asked whether the group thought this was dangerous to one’s employ-ability, and the consensus was that because of google we can’t hide much nowadays, so it’s better to “own” it and collate it ourselves (or for those with common names, it’s helpful to distinguish ourselves from all of the other “John Smiths” that appear on google).
 

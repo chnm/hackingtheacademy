@@ -10,7 +10,9 @@ captured_from: wayback
 
 # Intimacy and fidelity: situating social media
 
-Human societies are made in media. Gesture and speech, before writing, the printing press and the internet, have not just been vehicles through which we talk about people and stuff; they have fundamentally shaped what societies ![162024298\_809c1e5b4c](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`162024298_809c1e5b4c` class="wrap" >}}
+
+Human societies are made in media. Gesture and speech, before writing, the printing press and the internet, have not just been vehicles through which we talk about people and stuff; they have fundamentally shaped what societies
 
 *are* and what they can *possibly be*.
 
@@ -22,7 +24,7 @@ So that we can properly understand the meaning of modern social media, it’s im
 
 ### **The long history of rumour: highly intimate, low fidelity**
 
-![Before writing](image-2.png)
+{{< figure src="image-2.png" alt=`Before writing` >}}
 
 
 Face to face communication has rested at the heart of human society for as long as we’ve been human. Gesturing, grunting and talking are the modes of communication that first separated us from the other animals, and for 99% of human existence exclusively defined human societies. Face to face forms of communication were dominant throughout the long era of hunter gatherer and early agricultural societies, when our communities were made up of those we had met in person and could talk to face to face.
@@ -39,7 +41,7 @@ Importantly, though other forms of communication have come to dominance over the
 
 ### **Organised media 1: The church-state: not intimate, high fidelity**
 
-![The church state](image-3.png)
+{{< figure src="image-3.png" alt=`The church state` >}}
 
 
 The development of writing really stirred things up. For the first time, information could be transmitted across space and time to people you couldn’t see or to yourself in a little while. This meant that new forms of society could be brought into being, imagined and constituted at a more abstract level.
@@ -52,7 +54,7 @@ Returning to the ideas of fidelity and intimacy, writing in the era of the churc
 
 ### **Organised media 2: Print-capitalism and the nation-state: moderately intimate, high fidelity**
 
-![Print capitalism](image-4.png)
+{{< figure src="image-4.png" alt=`Print capitalism` >}}
 
 
 As writing allowed dramatic changes in the social order, the printing press again ushered in much revolution. At heart, the printing press continued the revolutions brought about by the development of writing, yet where teams of monks were previously required to whip a book into shape, now all that was required was an elaborate contraption – an elaborate contraption that could be purchased and run at a far lower cost per reproduced volume.
@@ -68,7 +70,7 @@ Where the era of the church-state saw the dominance of a mode of communication w
 
 ### **The emergence of mass social media: highly intimate, high fidelity**
 
-![Social media](image-5.png)
+{{< figure src="image-5.png" alt=`Social media` >}}
 
 
 This brings us to the final emergence in this trend: the emergence to (possible) dominance of forms of communication both highly reproducible and highly intimate. In essence, social media – and Twitter represents perhaps the most useful example for discussion here – allows the creation of an information stream attuned directly to individual needs, but still reproducible with great fidelity for little price.

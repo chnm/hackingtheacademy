@@ -8,14 +8,14 @@ published: 2010-05-28
 captured_from: live
 ---
 
-![](image-1.jpg) 
+{{< figure src="image-1.jpg" alt=`` >}} 
 
 William Patrick Wend () is a lecturer in the liberal arts department at
 
 [Burlington County College](http://www.bcc.edu/)
 . You can contact him by .
 
-![](image-2.png)
+{{< figure src="image-2.png" alt=`` >}}
 
 |
 

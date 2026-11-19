@@ -25,7 +25,7 @@ One way to answer these questions is to focus on one of the classic problems of 
 
 A few months ago the Center for History and New Media conducted a survey of historians as part of a project funded by NEH to study text-mining and the use of digital tools by historians. Two key findings were the perceived challenges of digital sources and the chief method used by historians to interact with such material. First, historians were overwhelmingly interested in increasing the amount of digitized content available. They claimed that the largest problem facing them was the need to digitize more materials. But the second key finding exposed a serious risk to this demand for more digitization. When we turned to how historians characterized their methods of finding and interacting with digital content, we found a disturbing result.
 
-![Google Word Cloud](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Google Word Cloud` >}}
 
 As we can see, Google overwhelmingly dominates the way that scholars locate digital materials and is far and away the most commonly cited tool used by historians. Yes, keyword search is incredibly powerful, but it’s also a fairly crude tool. For example, to take a common (and valid) criticism, what happens to the first page of 20 hits as the overall corpus of documents continues to grow? The net result for resources like Google Books can be dismaying, since search results frequently return a sea of useless texts.
 

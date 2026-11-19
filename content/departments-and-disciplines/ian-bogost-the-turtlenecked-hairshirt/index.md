@@ -15,16 +15,16 @@ captured_from: wayback
 |  | Remember me for next time? | 
 | Comments: (HTML is allowed, but comments with URLs will be held for moderation to avoid spam.) |  | 
 
-![The Georgia Institute of Technology](image-1.gif) 
+{{< figure src="image-1.gif" alt=`The Georgia Institute of Technology` >}} 
 
-![Persuasive Games](image-2.gif) 
+{{< figure src="image-2.gif" alt=`Persuasive Games` >}} 
 
-![Open Texture](image-3.gif)
+{{< figure src="image-3.gif" alt=`Open Texture` >}}
 
-![Water Cooler Games](image-4.gif)
+{{< figure src="image-4.gif" alt=`Water Cooler Games` >}}
 
 
-![](image-5.gif) 
+{{< figure src="image-5.gif" alt=`` >}} 
 
 [blog](http://www.bogost.com/blog/)
 
@@ -219,7 +219,7 @@ Indeed, orienting advanced study in the humanities toward more than just higher 
 
 Very interesting debate!
 
-I agree with you, Matt, that the two (or more) communities would benefit from having a better sense of each other/working more together. This is a fairly complex disciplinary territory, and of course, "digital humanities" is not a particularly old term, and partly a result of "renaming" humanities computing. This means that new media studies probably never were part of digital humanities in terms of actually subscribing to the term. And also, there are different epistemic commitments at play here (I do some background work in my article on Digital Humanities as Humanities Computing: [http://digitalhumanities.org/dhq/vol/3/3/000065.html).](&lt;http://digitalhumanities.org/dhq/vol/3/3/000065.html).>)
+I agree with you, Matt, that the two (or more) communities would benefit from having a better sense of each other/working more together. This is a fairly complex disciplinary territory, and of course, "digital humanities" is not a particularly old term, and partly a result of "renaming" humanities computing. This means that new media studies probably never were part of digital humanities in terms of actually subscribing to the term. And also, there are different epistemic commitments at play here (I do some background work in my article on Digital Humanities as Humanities Computing: [http://digitalhumanities.org/dhq/vol/3/3/000065.html).](<http://digitalhumanities.org/dhq/vol/3/3/000065.html).>)
 
 Look at internet studies, for instance. In my "The Landscape of Digital Humanities" article (soon to be finished), I look at the Air-L list:
 
@@ -380,13 +380,13 @@ In the meantime, everyone go read Grant McCracken's new "Chief Culture Officer" 
 Thanks for a light and some welcome warmth.
 
 
-![](image-6.jpg)
+{{< figure src="image-6.jpg" alt=`` >}}
 
 [Guru Meditation](http://www.bogost.com/games/guru_meditation.shtml)
 
 for Atari VCS and iPhone
 
-![](image-7.gif)
+{{< figure src="image-7.gif" alt=`` >}}
 
 [About the game](http://www.bogost.com/games/guru_meditation.shtml)
 

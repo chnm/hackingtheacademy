@@ -253,7 +253,7 @@ Fitzpatrick, Kathleen. 2007. “CommentPress: New (Social) Structures for New (N
 
 Fitzpatrick, Kathleen. 2010. “One: Peer Review – anonymity.” in Planned Obsolescence: Publishing, Technology, and the Future of the Academy. New York University Press [http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/one/anonymity/](http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/one/anonymity/) (Accessed October 7, 2009).
 
-Geer, Richard Malter, and Toni Prug. 2005a. “Introduction to Open Organizations.” [http://www.open-organizations.org/view/Main/IntroToOpenOrg](&lt;http://www.open-organizations.org/view/Main/IntroToOpenOrg >) (Accessed September 20, 2009).
+Geer, Richard Malter, and Toni Prug. 2005a. “Introduction to Open Organizations.” [http://www.open-organizations.org/view/Main/IntroToOpenOrg](<http://www.open-organizations.org/view/Main/IntroToOpenOrg >) (Accessed September 20, 2009).
 
 Geer, Richard Malter, and Toni Prug. 2005b. “Open Organizations: Guidelines for Volunteer Working Groups.” [http://www.open-organizations.org/view/Main/OpenOrgGuideWgr#Participation](http://www.open-organizations.org/view/Main/OpenOrgGuideWgr#Participation) (Accessed September 20, 2009).
 
@@ -261,13 +261,13 @@ Gipp, B., J. Beel, and C. Hentschel. n.d. “Scienstein: A research paper recomm
 
 Gura, Trisha. 2002. “Scientific publishing: Peer review, unmasked.” Nature 416:258-260.
 
-H. Alverstrand. 2004. “RFC 3935 –  A Mission Statement for the IETF.” [http://www.ietf.org/rfc/rfc3935.txt](&lt;http://www.ietf.org/rfc/rfc3935.txt >) (Accessed August 6, 2009).
+H. Alverstrand. 2004. “RFC 3935 –  A Mission Statement for the IETF.” [http://www.ietf.org/rfc/rfc3935.txt](<http://www.ietf.org/rfc/rfc3935.txt >) (Accessed August 6, 2009).
 
 Internet Engineering Task Force. 2009. “Official Internet Protocol Standards.” [http://www.rfc-editor.org/rfcxx00.html](http://www.rfc-editor.org/rfcxx00.html) (Accessed September 21, 2009).
 
-Internet Mail Consortium. n.d. “IETF Request For Comments defining E-mail.” [http://www.imc.org/rfcs.html](&lt;http://www.imc.org/rfcs.html >) (Accessed November 7, 2009).
+Internet Mail Consortium. n.d. “IETF Request For Comments defining E-mail.” [http://www.imc.org/rfcs.html](<http://www.imc.org/rfcs.html >) (Accessed November 7, 2009).
 
-Internet Mail Consortium. n.d. “Internet Mail Standards.” [http://www.imc.org/mail-standards.html](&lt;http://www.imc.org/mail-standards.html >) (Accessed September 21, 2009).
+Internet Mail Consortium. n.d. “Internet Mail Standards.” [http://www.imc.org/mail-standards.html](<http://www.imc.org/mail-standards.html >) (Accessed September 21, 2009).
 
 Kaplan, David. 2005. “How to Fix Peer Review.” The Scientist 19:10.
 
@@ -283,7 +283,7 @@ Marxist Internet Archive Admin Committee. 2009. “Marxist Internet Acrhive Volu
 
 Mietchen, Daniel. n.d. “Open-process academic publishing: Some more comments.” [http://ways.org/en/blogs/2009/sep/10/openprocess\_academic\_publishing\_some\_more\_comments](http://ways.org/en/blogs/2009/sep/10/openprocess_academic_publishing_some_more_comments) (Accessed September 29, 2009).
 
-Mietchen, Daniel. 2009. “What would science look like if it were invented today?.” [http://blog.euroscience.org/en/blog/welcome-to-the-euroscientist-246/what-would-science-look-like-if-it-were-invented-today,5061.html](&lt;http://blog.euroscience.org/en/blog/welcome-to-the-euroscientist-246/what-would-science-look-like-if-it-were-invented-today,5061.html >) (Accessed September 29, 2009).
+Mietchen, Daniel. 2009. “What would science look like if it were invented today?.” [http://blog.euroscience.org/en/blog/welcome-to-the-euroscientist-246/what-would-science-look-like-if-it-were-invented-today,5061.html](<http://blog.euroscience.org/en/blog/welcome-to-the-euroscientist-246/what-would-science-look-like-if-it-were-invented-today,5061.html >) (Accessed September 29, 2009).
 
 Nielsen, Michael. 2009a. “Doing science in the open.” Physicsworld.com. [http://physicsworld.com/cws/article/indepth/38904](http://physicsworld.com/cws/article/indepth/38904) (Accessed September 29, 2009).
 
@@ -315,7 +315,7 @@ Wall, Larry. n.d. Patch. Free Software Foundation [http://directory.fsf.org/proj
 
 Weber, Ron. 1999. “The journal review process: a manifesto for change.” Communications of the AIS 2:3.
 
-Whitworth, Brian, and Rob Friedman. 2009a. “Reinventing academic publishing online. Part I: Rigor, relevance and practice.” First Monday 14. [http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2609/2248](&lt;http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2609/2248 >) (Accessed September 20, 2009).
+Whitworth, Brian, and Rob Friedman. 2009a. “Reinventing academic publishing online. Part I: Rigor, relevance and practice.” First Monday 14. [http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2609/2248](<http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2609/2248 >) (Accessed September 20, 2009).
 
 Whitworth, Brian, and Rob Friedman. 2009b. “Reinventing academic publishing online. Part II: A socio–technical vision.” First Monday 14. [http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2642/2287](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2642/2287) (Accessed September 20, 2009).
 

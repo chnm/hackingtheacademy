@@ -10,8 +10,9 @@ captured_from: wayback
 
 *Denise Horn, writing from Boston in the USA.*
 
+{{< figure src="image-1.jpg" alt=`Denise Horn` class="wrap" >}}
+
 I’m in the unenviable position of preparing my dossier for “third year review”–that time where I get to tell my colleagues what I’ve managed to accomplish in the hectic time of early tenure track, to show that I can “produce” while also teaching, creating new programs, traveling, engaging in “service” for the university, holding it together enough to have intelligent conversations…
-![Denise Horn](image-1.jpg)
 
 
 Part of the process entails compiling my teaching evaluations. Our university has recently switched to on-line teaching evaluations, and we’re still working out the bugs. Once we would hand out bubble sheets to the entire class (usually on a day when we could be reasonably assured everyone would be there), carefully explain to them that their input is important, and that the bubbles on the right are higher than the left, and then solemnly leave the room to allow them to ponder their experience in the course. Now we remind them in class that they should remember to go on-line to fill in the survey, they get multiple emails to do so, and then…they don’t do it. The return rates are abysmal. Those of us coming up for tenure review, in effect, have relatively incomplete teaching evaluations to work with.
@@ -32,6 +33,6 @@ I get this; as a feminist scholar, I’ve spent my career trying to undermine th
 
 But once again, I want to be a conduit to critical thinking, not an obstacle of authority. Maybe it’s not them, after all; maybe it is me.  Maybe I’m really *not* the smartest person in the classroom, and it’s my job to make them tell me why.
 
-![Bookmark and Share](image-2.gif)
+{{< figure src="image-2.gif" alt=`Bookmark and Share` >}}
 
 *(Update – this post was included in [Hacking the Academy](http://hackingtheacademy.org/), a project at the Center for History and New Media at George Mason University*)

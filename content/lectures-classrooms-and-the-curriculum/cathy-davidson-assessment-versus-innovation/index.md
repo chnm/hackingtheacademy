@@ -8,7 +8,7 @@ published: 2010-05-21
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Cathy Davidson](http://www.hastac.org/users/cathy-davidson) on May 21, 2010, 04:10 AM**
 
@@ -28,7 +28,8 @@ I recently spent time with a British scholar who noted that the new government p
 
 More and more of us experience such discrepancies, back again to what Ive talked about before as the difference between standardization and high standards.  The rigidity of contemporary assessment may well turn out to be a death knell.   Practices often become more stringently enforced when they no longer have real utility and before they are about to be transformed or discarded.    In the meantime, many of us are stuck with assessment methods that inhibit excellence, impede creativity, and serve as the antithesis to innovation.   The measure may well be simple and efficient.   The tragedy Is that, in many cases, we have reached a binary:  assessment *versus* innovation.
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
 
 - [Cathy Davidson's blog](http://www.hastac.org/blogs/cathy-davidson)
 - [Login](http://www.hastac.org/user/login?destination=node%2F25768%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F25768%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

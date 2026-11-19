@@ -8,7 +8,7 @@ published: 2007-10-06
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Mechelle](http://www.hastac.org/users/mechelle) on Oct 06, 2007, 09:38 PM**
 
@@ -30,7 +30,8 @@ Cheers,
 
 Mechelle : )
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
 
 - [Mechelle's blog](http://www.hastac.org/blogs/mechelle)
 - [Login](http://www.hastac.org/user/login?destination=node%2F966%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F966%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

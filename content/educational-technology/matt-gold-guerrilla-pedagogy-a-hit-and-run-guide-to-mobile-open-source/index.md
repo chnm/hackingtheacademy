@@ -69,7 +69,6 @@ Weber, Steven.  *[The Success of Open Source](http://books.google.com/books?id=E
 
 Modified version of the [Typograph theme](http://blog.pinkandyellow.com/free-wordpress-themes/typograph/). Powered by  [WordPress](http://wordpress.org/).  
 
+{{< figure src="image-1.png" alt=`Creative Commons License` class="wrap" >}}
 
-This work is licensed under a ![Creative Commons License](image-1.png)
-
-[Creative Commons BY-NC-ND United States License](http://creativecommons.org/licenses/by-nc-nd/3.0/us/).
+This work is licensed under a [Creative Commons BY-NC-ND United States License](http://creativecommons.org/licenses/by-nc-nd/3.0/us/).

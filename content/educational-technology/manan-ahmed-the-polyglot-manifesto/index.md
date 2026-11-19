@@ -8,7 +8,7 @@ published: 2005-09-30
 captured_from: wayback
 ---
 
-![](image-1.gif)
+{{< figure src="image-1.gif" alt=`` >}}
 
 
 
@@ -69,7 +69,7 @@ Where do we go from here? How about a reading list for historians on digital hum
 
 **Related Links**
 
-![](image-2.gif)
+{{< figure src="image-2.gif" alt=`` >}}
 
 
 
@@ -83,7 +83,7 @@ Where do we go from here? How about a reading list for historians on digital hum
 
 
 
-![](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`` >}}
 
 
-![](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`` >}}

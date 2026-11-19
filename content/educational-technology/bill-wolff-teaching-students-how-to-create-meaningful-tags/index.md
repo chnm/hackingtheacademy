@@ -32,7 +32,7 @@ During the set-up of Module 1 student blogs we were running behind and in the ru
 
 Usually I talk about tagging when students are introduced to Diigo during the 3rd week of the 4-week module. That had pretty much been a failure—my discussion was always too abstract. As I walked down the steps that day, [Wordle](http://wordle.net) popped in to my head as way to help students break down their posts to suggest keywords for what was important about the post itself. I usually start my discussion of tagging with a space where students are familiar with tagging: Facebook photos. I tend to quickly draw on the board a stick-figure photo of Jane, Jim, John, and Jill passed out at some party that Jason had uploaded and tagged. We talk about how this allows the photo to appear on each of the tagged’s Facebook page, allowing one item to appear to be in 5 places at once. This time, after the discussion, which usually comes before introducing Diigo, I put the wonderful visual rhetoric blog, [Viz](http://viz.cwrl.utexas.edu/), on the screen. Aside from the content, I like how they make so prominent the tag cloud and the tags under each post.
 
-![screen shot of tag cloud and posts on the viz blog](image-1.png)
+{{< figure src="image-1.png" alt=`screen shot of tag cloud and posts on the viz blog` >}}
 
 
 We talk about how the tag cloud is a semantic representation of the tags that the bloggers have chosen for their posts, that the bigger the word the more the tag has been used, how this tells us something about the topics covered in the blog, and so on. Still, however, this discussion is in the abstract; students are not gaining the experience of how to create their own tags.
@@ -47,17 +47,17 @@ The next step changed everything. The prompt for the response to the Bolter and 
 
 So, for example, [a student’s post](http://creatorsconscience.wordpress.com/2009/04/09/writing-spaces-and-remediation/) resulted in the following Wordle:
 
-![wordle of a student\'s blog post in response to bolter and grusin](image-2.png)
+{{< figure src="image-2.png" alt=`wordle of a student's blog post in response to bolter and grusin` >}}
 
 
 From this Wordle, we might select the following as tags: documents, writing spaces, presentation, email, remediates, Microsoft PowerPoint, Microsoft Word. Here is what the student selected:
 
-![screen shot of tags from student blog post](image-3.png)
+{{< figure src="image-3.png" alt=`screen shot of tags from student blog post` >}}
 
 
 This post now has effective, meaningful tags. The next step would be to create the tag cloud. After the students saved their tags, we took a look at their blogs and saw that though the tags were appearing with their posts, they were not appearing in a tag cloud. This led to an introduction of sidebar widgets. Once they had activated the tag cloud widget the clouds appeared. Over the course of the module, clouds from 3 blogs evolved into the following:
 
-![tag clouds from three student blogs](image-4.png)
+{{< figure src="image-4.png" alt=`tag clouds from three student blogs` >}}
 
 
 **social bookmarking tagging**

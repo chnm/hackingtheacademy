@@ -32,7 +32,7 @@ captured_from: wayback
 
 I have been thinking a lot about understanding Computer-mediated Discourse (CMD) as a legitimate  type of new literacy.  I recently returned to this idea after some debates on [ITForum](http://it.coe.uga.edu/itforum/).
 
-Basically, a few listserv members wanted to unsubscribe from the listserv but rather than follow the correct steps to unsubscribe (or what others perceived as not even trying to look up the correct steps to unsubscribe) they simply kept sending messages to the entire list (which has over 2,000 members) that they wanted to be subscribed.  This angered some members of the list and insults were exchanged and the [flaming](&lt;http://en.wikipedia.org/wiki/Flaming_(Internet)>) began.
+Basically, a few listserv members wanted to unsubscribe from the listserv but rather than follow the correct steps to unsubscribe (or what others perceived as not even trying to look up the correct steps to unsubscribe) they simply kept sending messages to the entire list (which has over 2,000 members) that they wanted to be subscribed.  This angered some members of the list and insults were exchanged and the [flaming](<http://en.wikipedia.org/wiki/Flaming_(Internet)>) began.
 
 While a number of people talked about ways to improve the listserv, I kept thinking about [Will Richardson’s](http://weblogg-ed.com/about/) idea–where do we teach Wikipedia? Now when he mentioned this in a keynote I saw online, he  wasn’t focusing necessarily only on Wikipedia as much as he was about how do we or when do we (if ever) teach students how to participate and contribute in this new Web 2.0 world we find ourselves in.
 

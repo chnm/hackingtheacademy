@@ -17,7 +17,7 @@ But feedback from the peer mentors indicated that buy-in was low among freshmen.
 
 We took each of these critiques seriously and decided to rethink the approach of Blogs@Baruch to Freshman Seminar in light of the concerns raised by peer mentors. Luke already had plays to open up the WordPress blogging environment, including giving more control to peer mentors over theme selection and plug-in activation, and incorporating social networking functionality through BuddyPress to create a more networked and collegial environment for peer mentors and first year students alike. Luke invited me to join the team that oversees Freshman Seminar to help him address the second critique, that is, to rethink the role of blogging in the Freshman Seminar curriculum. And so last Friday we collaboratively facilitated two sessions with peer mentors, part of which was a brainstorming session to develop more compelling blog post prompts.
 
-![Idle brainstorm moment](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Idle brainstorm moment` >}}
 
 
 

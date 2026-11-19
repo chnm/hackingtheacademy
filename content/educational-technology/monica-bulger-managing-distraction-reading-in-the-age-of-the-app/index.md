@@ -14,7 +14,7 @@ captured_from: wayback
 
 Imagine if, when Steve Jobs introduced the iPhone, he said, this phone is going to have applications that allow you to check e-mail, find nearby restaurants, update your Facebook, tweet, and use maps, but it’s going to be rubbish as a phone. It’s awkward to hold to your ear, it often drops calls, and most of the time, won’t get reception wherever you are. Would you have bought it? Remember, at that time, apps weren’t well known. Of course, those of you who have an iPhone can’t live without the apps now and don’t mind if it doesn’t really work well as a phone. You’re texting instead of calling anyway.
 
-![picture-4 picture-4](image-1.png)
+{{< figure src="image-1.png" alt=`picture-4 picture-4` >}}
 
 
 Now, we have a new mobile device, the iPad, which many describe as a reader. Sure, it has reading capacity, but the iPad isn’t a Kindle. The iPad has pinball. In fact, while it does offer business and communication apps, the iPad environment seems fraught with distraction.
@@ -65,7 +65,9 @@ Generally, on the Internet, stories are hard to find. We have a lot of informati
 
 So, what does story have to do with the iPad? News can contribute compelling content to the iPad reading experience. By content, I do not mean endlessly repeated AP feeds, but genuinely interesting content that provides a story to help us organize and understand key issues and daily happenings.
 
-While the iPad and other technologies will certainly offer new options for delivering content, news writers should consider the ways in which their current content effectively conveys meaning. I mentioned story earlier. Using print newspapers as an example, next I’d like to explore the concept of **cognitive containers**. ![news\_reading news\_reading](image-2.jpg) When we open a newspaper to read it and we’re holding it in front of our faces, or glancing down at it over breakfast, we’ve essentially shut out most other inputs. It’s basically us and the page.
+{{< figure src="image-2.jpg" alt=`news_reading news_reading` class="wrap" >}}
+
+While the iPad and other technologies will certainly offer new options for delivering content, news writers should consider the ways in which their current content effectively conveys meaning. I mentioned story earlier. Using print newspapers as an example, next I’d like to explore the concept of **cognitive containers**. When we open a newspaper to read it and we’re holding it in front of our faces, or glancing down at it over breakfast, we’ve essentially shut out most other inputs. It’s basically us and the page.
 
 **Our attentional focus is contained: it is directed toward the text in front of us, with minimal distraction.** Of course, pictures and advertisements are on the page, along with headlines for other articles, all of which can potentially distract our focus, but for the most part, we are able to immerse ourselves in whatever we’re reading.
 
@@ -75,7 +77,7 @@ When reading on a laptop or desktop screen, windows may have loosely reminded us
 
 On the flip side, with careful design, content delivered on the iPad could create a cognitive container which keeps readers on the page and within the app, rather than linking to outside materials and potentially forgetting where they started. Kindle seems to succeed on this front by performing solely as a reader. At the Tablet Summit, NewspaperDirect.com demonstrated their online newspaper delivery service. The papers appeared as vivid pdfs — digital copies of the print papers, sans links within the articles. Combined with meaningful interactive graphs, such as this chart, titled “The Geography of Jobs” from Tip Strategies, Inc., newspapers could leverage the affordances of digital media while minimizing distraction.
 
-![Geography of Jobs 2004-2010 Geography of Jobs 2004-2010](image-3.png)
+{{< figure src="image-3.png" alt=`Geography of Jobs 2004-2010 Geography of Jobs 2004-2010` >}}
 
 
 References

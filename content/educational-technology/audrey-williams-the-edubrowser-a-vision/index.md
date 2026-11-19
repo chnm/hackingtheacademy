@@ -36,7 +36,7 @@ What else does it take to get the EDUbrowser out in the wild? What else would yo
 
 Photo remixed from:
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 
 [cc licensed flickr photo](http://flickr.com/photos/katej/1043510993/) shared by [kate e. did](http://flickr.com/people/katej/)

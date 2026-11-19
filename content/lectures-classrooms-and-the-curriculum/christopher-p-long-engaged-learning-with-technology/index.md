@@ -8,7 +8,9 @@ published: 2009-11-17
 captured_from: wayback
 ---
 
-![UVU View.jpg](image-1.jpg) OREM, UT - At the
+{{< figure src="image-1.jpg" alt=`UVU View.jpg` class="wrap" >}}
+
+OREM, UT - At the
 
 [Utah Valley University](http://www.uvu.edu/), there is a strong commitment to engaged learning. In what follows, I try to offer a model by which social media technology can be used to cultivate the active engagement of students in their own education.
 

@@ -10,7 +10,7 @@ captured_from: wayback
 
 On Thursday afternoon of this year’s [Open Ed conference](http://openedconference.org), a challenging contrast began to emerge between the approaches to student writing being espoused by the various speakers. First was [Gardner Campbell](http://www.gardnercampbell.net/blog1/) and [Jim Groom](http://bavatuesdays.com), who delivered a talk titled [No Digital Facelifts: Thinking the Unthinkable About Open Educational Experiences](http://openedconference.org/archives/541). (This and other links go to Ustream recordings of the talks – they’re well worth your time, if you weren’t able to attend in person.) Gardner’s message echoed some of the familiar strains in [Jim’s talk from the previous day](http://openedconference.org/archives/434), putting forth the idea that instead of herding students together into a single platform of our choosing, we should be giving them the tools and knowledge to be creators and curators of their own digital identity. (See [this post at bavatuesdays](http://bavatuesdays.com/a-domain-of-ones-own/) for some of Jim’s thoughts on “a domain of one’s own”.) Gardner pushed this line of thinking a step further, suggesting that students literally become the sys admins of their own web space. Not only should students be able to move outside of the institutional platforms to develop their digital selves, the argument goes, but they should be free to choose and maintain whatever platform they’d like, without the different but perhaps equally cumbersome constraints of free/commercial platforms (like wordpress.com and others).
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 [Gardner and Jim | cc licensed flickr photo](http://flickr.com/photos/colecamplese/3820201375/)shared by
 
@@ -24,7 +24,7 @@ So here’s the tension (which John himself articulates very clearly in [his own
 
 There is a sense in which the tension might be fundamental, going to the heart of what we want our students gain from our classes. If the point of education is to shape students’ individual agency – to make them sys admins of their own souls (?) – then it makes perfect sense to make them sys admins of their online selves. If the point of education is to develop the next generation of scholars (or, if we want to take the point further, the next generation of *society members*), then the wiki approach might be more sensible. Insofar as there is a real conflict here, it might run even deeper than the purpose of education, but to the purpose of knowledge production itself: is it more important to foster and encourage each individual’s idiosyncratic “truth” scheme or our collective movement toward Truth?
 
-![](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`` >}}
 
 [Distributed groups | cc licensed flickr photo](http://flickr.com/photos/fdecomite/3841651845/)shared by
 

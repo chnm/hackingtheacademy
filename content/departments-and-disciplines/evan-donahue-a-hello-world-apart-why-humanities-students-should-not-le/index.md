@@ -9,7 +9,7 @@ published: 2010-08-01
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Evan Donahue](http://www.hastac.org/users/evan-donahue) on May 28, 2010, 04:12 AM**
 
@@ -46,7 +46,8 @@ To all readers coming from a humanities background: do the concerns evident in t
 
 My goal in writing this, as a student of the computer sciences and the humanities in equal measure, is to point out that not only could the two areas usefully benefit from one another, as per Kirschenbaum's essay, but furthermore that in many ways the two are working on exactly the same projects and the very idea that they are, a priori, separate and distinct bodies of knowledge may be the king hobgoblin of any attempts to create something that professes to be a digital humanities situated somewhere between the two. Learn to program whenever it is convenient, but start thinking about the computer sciences as relevant areas of concern right now.
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
 
 - [Evan Donahue's blog](http://www.hastac.org/blogs/evan-donahue)
 - [Login](http://www.hastac.org/user/login?destination=node%2F25811%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F25811%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

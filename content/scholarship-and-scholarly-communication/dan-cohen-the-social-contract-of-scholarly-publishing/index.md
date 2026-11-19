@@ -10,7 +10,9 @@ captured_from: wayback
 
 ## [The Social Contract of Scholarly Publishing](http://www.dancohen.org/2010/03/05/the-social-contract-of-scholarly-publishing/)
 
-![1010048412\_454bb17b8f](image-1.jpg) When
+{{< figure src="image-1.jpg" alt=`1010048412_454bb17b8f` class="wrap" >}}
+
+When
 
 [Roy Rosenzweig](http://www.dancohen.org/2007/10/14/remembering-roy-rosenzweig/) and I finished writing a full draft of our book [*Digital History*](http://www.dancohen.org/publications/#digital_history_book), we sat down at a table and looked at the stack of printouts.
 

@@ -8,4 +8,4 @@ archive_url: "https://web.archive.org/web/20191209123016/http://www.flickr.com/p
 captured_from: wayback
 ---
 
-![Cover Study](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Cover Study` >}}

@@ -28,4 +28,4 @@ Do our views resonate with your experiences or are we way off base? What is it l
 
 The University of Venus
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

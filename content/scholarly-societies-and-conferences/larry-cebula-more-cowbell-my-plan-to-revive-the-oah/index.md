@@ -9,9 +9,9 @@ published: 2009-09-16
 captured_from: wayback
 ---
 
-So I was looking at the Organization of American Historians new ![](image-1.gif)
+{{< figure src="image-1.gif" alt=`` class="wrap" >}}
 
-[2009 Draft Strategic Plan](http://www.oah.org/strategic/sp09draft-final.html) and their request for member comments. The OAH is suffering the fate of many professional organizations--an aging and declining membership, fewer subscribers for its journal, less interest in its annual conference. I was typing out a long email response when it hit me: I have a blog.
+So I was looking at the Organization of American Historians new [2009 Draft Strategic Plan](http://www.oah.org/strategic/sp09draft-final.html) and their request for member comments. The OAH is suffering the fate of many professional organizations--an aging and declining membership, fewer subscribers for its journal, less interest in its annual conference. I was typing out a long email response when it hit me: I have a blog.
 
 I have only occasionally been a member of the OAH, usually when I go to the annual conference to present or to listen. I respect the organization, but it has never seemed very relevant to me. The articles in the [Journal of American History](http://www.journalofamericanhistory.org/) tend to be narrow and densely written--which is fine when they publish something in one of my subfields, but of course this doesn't happen very often. The OAH conference consists largely of people in suits reading fledgling JAH articles out loud. I have drawn on the valuable OAH Speakers Bureau when designing a Teaching American History grant, and I do like the [Magazine of History](http://www.oah.org/pubs/magazine/) that they began putting out a few years ago. I always thought the OAH should be more of an advocacy organization for funding for history programs but they [don't seem to do much](http://northwesthistory.blogspot.com/2009/02/scanner-ready.html) (correct me [if I am wrong](http://northwesthistory.blogspot.com/2009/05/no-stimulus-for-you.html)). So I have supported the OAH intermittently, sometimes feeling guilty for not doing more. Anyway, here is my plan:
 
@@ -20,7 +20,9 @@ I have only occasionally been a member of the OAH, usually when I go to the annu
 2. Reboot the conference. The conference needs an overhaul! 3 panelists + 1 commenter + passive audience = snooze fest. (The accompanying picture is of the audience at my last OAH presentation.)  Some changes:
 Ban the reading of papers and shorten presenters time
 
-3. One blog to rule them all. Establish a year-round OAH community blog and discussion forum. Community blog means that any member of the OAH can create a post! Have some loose guidelines (no advocacy except for historical advocacy, no pictures of your cats) and name some moderators (and yes I am volunteering). The H-NET lists are largely moribund and online historical discussion has been atomized across a hundred different forums. The OAH can bring some of it together and gain scholarly energy and relevance. The closest model for what I have in mind is ![](image-2.jpg) to ten minutes.    One-half of each session should be dedicated to discussion with the audience.    Ask presenters to summarize their evidence and arguments on a conference blog in advance of the conference. Allow others to comment and engage the presenters.    Ditch the roundtables, which are actually even more of a snooze than the traditional panels because no one prepares anything new to say. The majority of roundtables come off as the most forced and awkward imaginable sort of cocktail party conversation.
+{{< figure src="image-2.jpg" alt=`` class="wrap" >}}
+
+3. One blog to rule them all. Establish a year-round OAH community blog and discussion forum. Community blog means that any member of the OAH can create a post! Have some loose guidelines (no advocacy except for historical advocacy, no pictures of your cats) and name some moderators (and yes I am volunteering). The H-NET lists are largely moribund and online historical discussion has been atomized across a hundred different forums. The OAH can bring some of it together and gain scholarly energy and relevance. The closest model for what I have in mind is to ten minutes. One-half of each session should be dedicated to discussion with the audience. Ask presenters to summarize their evidence and arguments on a conference blog in advance of the conference. Allow others to comment and engage the presenters. Ditch the roundtables, which are actually even more of a snooze than the traditional panels because no one prepares anything new to say. The majority of roundtables come off as the most forced and awkward imaginable sort of cocktail party conversation.
 
 
 Free wireless throughout the session, and encourage use of a Twitter hash tag to open another channel for conversations. This is important.
@@ -42,13 +44,14 @@ The OAH was founded in the early 20th Century on a 19th Century model. Can it ma
 
 ### [More Cowbell: My Plan to Revive the OAH](http://northwesthistory.blogspot.com/2009/09/my-plan-to-revive-oah.html)
 
-![Bookmark and Share](image-3.gif)
+{{< figure src="image-3.gif" alt=`Bookmark and Share` >}}
+
+{{< figure src="image-4.gif" alt=`` class="wrap" >}}
 
 Posted by
 Larry Cebula
 at
 [4:38 PM](http://northwesthistory.blogspot.com/2009/09/my-plan-to-revive-oah.html)
-![](image-4.gif) 
 
 
 

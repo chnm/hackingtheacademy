@@ -14,7 +14,7 @@ Tuesday, May 25, 2010
 
 **\[Originally posted on my former blog, *Never Neutral,* on 2009/08/26\].**
 
-![art by Eddie Campbell](image-1.png)
+{{< figure src="image-1.png" alt=`art by Eddie Campbell` >}}
 
 
 Artwork by [Eddie Campbell](http://eddiecampbell.blogspot.com/)
@@ -72,6 +72,12 @@ As [Anne Boyer suggested yesterday](http://twitter.com/anne_boyer/status/3538314
 
 #### Notes
 
-1. ![](image-2.png) [saidtotheuniverse](http://saidtotheuniverse.tumblr.com/) liked this
-2. ![](image-3.png) [mxmlsm](http://micro.maximalis.me/) liked this
-3. ![](image-4.png) [butterflyhunt](http://butterflyhunt.tumblr.com/) posted this
+{{< figure src="image-2.png" alt=`` class="wrap" >}}
+
+{{< figure src="image-3.png" alt=`` class="wrap" >}}
+
+{{< figure src="image-4.png" alt=`` class="wrap" >}}
+
+1. [saidtotheuniverse](http://saidtotheuniverse.tumblr.com/) liked this
+2. [mxmlsm](http://micro.maximalis.me/) liked this
+3. [butterflyhunt](http://butterflyhunt.tumblr.com/) posted this

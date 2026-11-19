@@ -32,7 +32,7 @@ Do we write to make a difference or do we write to secure a job?
 
 I would like to believe that **we write because we have something to say** not because we are supposed to say something.
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}
 
 Relevant articles:
 

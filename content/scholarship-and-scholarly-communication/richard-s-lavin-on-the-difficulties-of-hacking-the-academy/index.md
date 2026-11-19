@@ -71,7 +71,7 @@ The author of this essay is Richard S. Lavin
 
 
 
-![Creative Commons License](image-1.png)
+{{< figure src="image-1.png" alt=`Creative Commons License` >}}
 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)

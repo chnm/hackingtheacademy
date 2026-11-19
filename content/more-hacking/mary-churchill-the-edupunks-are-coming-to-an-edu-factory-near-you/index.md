@@ -36,4 +36,4 @@ I would argue that Edu-factory begins from the perspective of labor and focuses 
 
 From my everyday life perspective, all three “movements” are working to change the same **system** of higher education. In addition to working side-by-side, we should also find a way to work collaboratively to bring about changes that will benefit the teachers, the process of learning, and the students. We should find a way to bring everyday forms of resistance together with the BIG SOCIAL MOVEMENT to make change happen.
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

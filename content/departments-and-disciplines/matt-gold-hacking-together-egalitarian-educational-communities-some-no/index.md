@@ -10,7 +10,7 @@ captured_from: wayback
 
 When I discuss the “[Looking for Whitman](http://lookingforwhitman.org)” project, a multi-campus experiment in digital pedagogy sponsored by the [NEH Office of the Digital Humanities](http://www.neh.gov/ODH/ODHHome/tabid/36/BlogId/17/Default.aspx), I often emphasize the place-based structure of the project.  As part of it, four courses were offered in institutions located in cities in which Walt Whitman lived; students spent the Fall 2009 semester reading texts that Whitman had written in their location and sharing their thoughts, reactions, and research with one another in a dynamic, social, web-based learning environment.
 
-![lfw-slide](image-1.png)
+{{< figure src="image-1.png" alt=`lfw-slide` >}}
 
 
 What I discuss a little less often, even though it was extremely important to the project, was the way in which the project worked within existing institutional structures in order to encourage, or at least model, a shift in their functioning. Rather than forming a meta-course that would run classes outside of traditional, credit-bearing disciplinary and institutional frameworks, we chose to work within existing academic boundaries. This wound up necessitating a great deal of administrative work: faculty participants had to ensure that their courses would get on the books in forms that would allow them to be aligned with the project, which involved extensive consultations with departments, deans, registrars, colleagues, and curriculum committees.

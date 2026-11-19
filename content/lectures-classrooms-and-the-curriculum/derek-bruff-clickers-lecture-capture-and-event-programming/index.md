@@ -12,7 +12,9 @@ Resources for engaging and assessing students with clickers
 
 19 Apr
 
-![Empy](image-1.jpg) Over on the new Active Class blog,
+{{< figure src="image-1.jpg" alt=`Empy` class="wrap" >}}
+
+Over on the new Active Class blog,
 
 [Sidneyeve Matrix](http://twitter.com/sidneyeve) [recently discussed](http://theactiveclass.com/2010/04/15/eventness-partitioning-the-lecture/) the idea of turning the college lecture into something like what the television industry calls “event programming.”  She did so in the context of encouraging students to come to class when the lecture is captured for later listening or watching by students.  She suggested instructors who are capturing their lectures incorporate a couple of elements to the in-class experience that aren’t replicated in the lecture capture: the use of video clips that help students remember and make sense of course content and the use of clickers for content and opinion questions.
 

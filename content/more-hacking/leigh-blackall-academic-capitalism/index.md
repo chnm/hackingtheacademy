@@ -8,7 +8,7 @@ published: 2010-11-05
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 [The role of marketing in educational development](http://leighblackall.blogspot.com/2010/04/role-of-marketing-in-educational.html), pointing to an excellent paper by
 
@@ -50,7 +50,7 @@ Bingo!. I have a lead to a body of knowledge that investigates this phenomenon. 
 
 Once you implement \[change\] strategies you may ask: “What did we expect to happen?” “What were the results?” and “How might we alter our strategy next time?” These questions are all asked from within the mental model you hold of the situation. If we also ask questions such as: “Why did we select this strategy?” “What made us think it will work?” “What have been the unintended consequences on each of our guiding values?” we are asking questions about our mental model and challenging our theory-in-use.
 
-![](image-2.png)
+{{< figure src="image-2.png" alt=`` >}}
 
 The trouble with this I think, and especially in the academic sector where truth is largely relative, and people's depth of understanding is non sequential and a-synchronous, such a review of consequences might lead to a paralysis. I've certainly come to such a point in many areas of my work, particularly when looking more deeply at the values of 'learning', the practice of 'education', and the consequences that practice has on 'learning'! aka Illich. Our practices are so deeply embedded, and the critique is so fundamentally challenging, that many people become simply paralysed and end up either ignoring the critique and 'getting on with it anyway', or dropping out of the structure all together. As a result, it is very difficult to find people in the sector who are willing and able to discuss the critique.
 

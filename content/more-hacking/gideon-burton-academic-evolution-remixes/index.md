@@ -8,4 +8,4 @@ archive_url: "https://web.archive.org/web/20100222122344/http://www.flickr.com/p
 captured_from: live
 ---
 
-![Academic Evolution remixes](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Academic Evolution remixes` >}}

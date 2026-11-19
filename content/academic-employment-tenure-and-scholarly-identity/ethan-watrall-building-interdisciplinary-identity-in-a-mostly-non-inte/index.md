@@ -8,7 +8,7 @@ published: 2010-04-01
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Hi there, my name is Ethan and I’m an archaeologist. Well…maybe not exactly. I haven’t run an excavation in years, and I don’t teach in an anthropology department. Ok, lets try this again. Hi my name’s Ethan and I’m a digital historian. Ok, thats a little better, its got the “digital,” and I also live (mostly) in a history department. But, my PhD isn’t in history. Hmmmm…ok, how about digital humanist? Well, its got the “digital,” so that’s good. I also “live” in the digital humanities community, work with many people who identify themselves as digital humanists, and have received digital humanities grants. The problem is that I’m not a humanist. Ok, mmmm…Game designer? No. Serious game designer? Not really..its what I work on, not what I am. Oh bother, what the heck am I?
 

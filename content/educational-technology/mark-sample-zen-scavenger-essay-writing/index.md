@@ -18,7 +18,7 @@ A less faithful, though perhaps more intriguing possibility for introducing the 
 
 Or, in a variation of this assignment, the professor creates a Wordle cloud out of a scholarly essay, and the students work collaboratively to reconstruct the original publication. So, here’s a [word cloud](http://www.wordle.net/gallery/wrdl/749531/Rachel_Adams_on_the_Tropic_of_Orange) generated from Rachel Adam’s essay in *Twentieth Century Literature* 53.3 (2007) on *Tropic of Orange*, “The Ends of American, the Ends of Postmodernism” ([larger version](http://www.samplereality.com/wp-content/uploads/2009/04/orange.jpg)):
 
-![Rachel Adams on "Tropic of Orange" Rachel Adams on "Tropic of Orange"](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Rachel Adams on "Tropic of Orange" Rachel Adams on "Tropic of Orange"` >}}
 
 
 Could a group of students reconstruct an essay out of this word cloud? And then persuade me and their classmates, through an overlay of textual and spoken improvisation, that their new essay is in fact a faithful recreation of the original?

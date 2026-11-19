@@ -49,7 +49,7 @@ I completely agree with his sentiment. It’s quite possible to make an online c
 
 I know there are a lot of educators out there who are doing amazing things online, and it gives me hope. But there are too many instructors who aren’t willing to put in the time and effort necessary to do anything more than put their content and expertise into their classroom. Distance learning is not just a fad or something for a small portion of the population who can’t or won’t attend face-to-face classes. This is a major trend in education and the number of people taking advantage of online learning is growing exponentially. We absolutely need to be putting time, money and effort towards rethinking education in an online context and building our courses based on best practices for teaching *online*. Doing anything less is an insult to your students and a disservice to the profession, since we should be doing everything we can to help develop passionate and engaged librarians.
 
-*Ok, I’ll get off my soapbox now.* ![;)](image-1.gif)
+*Ok, I’ll get off my soapbox now.* ;)
 
 
 **Topics:** [library school](http://meredith.wolfwater.com/wordpress/category/librarianship/library-school/),  [online education](http://meredith.wolfwater.com/wordpress/category/free-the-information/online-education/),  [our digital future](http://meredith.wolfwater.com/wordpress/category/our-digital-future/),  [social software](http://meredith.wolfwater.com/wordpress/category/social-software/) |   [11 Comments »](http://meredith.wolfwater.com/wordpress/2010/05/19/creating-community-in-online-learning/#comments)

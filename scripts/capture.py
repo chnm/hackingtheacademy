@@ -140,6 +140,41 @@ def parse_section(path):
     return entries
 
 
+# Sites whose pages are a player plus clutter: embed the work, never capture
+# the page as text.
+MEDIA_HOSTS = re.compile(r"//(?:www\.)?(?:vimeo\.com|slideshare\.net|scribd\.com|issuu\.com)/")
+# SlideShare and Scribd answer scripts with a bot check, so these embeds were
+# looked up and checked in a browser (2026-11-19).
+EMBEDS = {
+    "http://www.slideshare.net/leighblackall/teaching-is-dead":
+        "https://www.slideshare.net/slideshow/embed_code/key/dt3eJPq3DVMq6H",
+    "http://www.slideshare.net/leighblackall/the-disconnect-between-learning-and-education-429513":
+        "https://www.slideshare.net/slideshow/embed_code/key/jdELH0Q2nVeHOE",
+    "http://www.scribd.com/doc/9293620/LIBR200FinalPaperDraftPRINT-Millenials-vs-Xers-Yers-and-Boomers-Info-Usage-120508":
+        "https://www.scribd.com/embeds/9293620/content",
+    "http://www.scribd.com/doc/19367583/LIBR25611EAD-Online-Access-Tools-FINISHED-Final-BlackPRNT5109":
+        "https://www.scribd.com/embeds/19367583/content",
+}
+
+
+def media(entry, url):
+    """Embed a work on a media host; a Vimeo channel is only linked; else lost."""
+    if src := EMBEDS.get(url):
+        entry["source"] = "embed"
+        entry["body"] = (f'<iframe src="{src}" width="640" height="520" '
+                         f'title="{html.escape(entry["title"])}" allowfullscreen></iframe>')
+    elif m := re.search(r"vimeo\.com/(\d+)", url):
+        status, _, _, _ = get(f"https://vimeo.com/api/oembed.json?url=https://vimeo.com/{m.group(1)}")
+        if status == 200:
+            entry["source"] = "embed"
+            entry["body"] = f"{{{{< vimeo {m.group(1)} >}}}}"
+    elif "vimeo.com/channels/" in url:
+        status, _, _, _ = get(url)
+        if status == 200:
+            entry["source"] = "external"
+    return entry
+
+
 def youtube_id(url):
     m = re.search(r"(?:youtube\.com/watch\?v=|youtu\.be/)([\w-]{11})", url)
     return m and m.group(1)
@@ -156,6 +191,8 @@ def capture(entry):
         entry["body"] = (f'<iframe src="https://archive.org/embed/{m.group(1)}" width="640" height="480" '
                          f'title="{html.escape(entry["title"])}" allowfullscreen></iframe>')
         return entry
+    if MEDIA_HOSTS.search(url):
+        return media(entry, url)
     ts = snapshot(url)
     if not ts and (target := redirect_target(url)):
         # Moved posts and short links: capture where the archived redirect went.
@@ -208,11 +245,14 @@ def capture(entry):
             continue
         # Captured text is third-party: keep footnote marks and simple inline
         # tags, escape any other raw HTML so it shows as text.
-        text = re.sub(r"<(?!/?(?:sup|sub|u|em|strong|strike|q)>)(?=[/a-zA-Z!?])", "&lt;", text)
+        # (<https://...> is Markdown's own syntax for links and addresses with spaces.)
+        text = re.sub(r"<(?!/?(?:sup|sub|u|em|strong|strike|q)>)(?!https?://|mailto:)(?=[/a-zA-Z!?])",
+                      "&lt;", text)
         meta = trafilatura.extract_metadata(page, default_url=url)
         entry["date"] = meta and meta.date
         entry["source"] = source
-        entry["body"], entry["files"] = localize_images(text, url, ts if source == "wayback" else None)
+        body, entry["files"] = localize_images(text, url, ts if source == "wayback" else None)
+        entry["body"] = hoist_figures(body)
         return entry
     return entry
 
@@ -297,6 +337,8 @@ def localize_images(text, base, ts):
         alt, src = m.group(1), urljoin(base, html.unescape(m.group(2)))
         if CHROME_IMG.search(src):
             return ""
+        if SMILEY.search(src):
+            return alt
         ctype, data = fetch_image(src)
         if not data:
             alt = alt.replace("\\", "").replace("`", "'")
@@ -304,9 +346,39 @@ def localize_images(text, base, ts):
         ext = "." + ctype.split("/")[1].split(";")[0].replace("jpeg", "jpg").replace("svg+xml", "svg")
         name = f"image-{len(files) + 1}{ext}"
         files[name] = data
-        return f"![{alt}]({name})"
+        alt = re.sub(r"\\(.)", r"\1", alt).replace("`", "'")  # Markdown escapes, as plain text
+        return f"{{{{< figure src=\"{name}\" alt=`{alt}` >}}}}"
 
     return re.sub(r"!\[([^\]]*)\]\(([^)\s]+)[^)]*\)", swap, text), files
+
+
+FIGURE = re.compile(r"\{\{< figure [^\n]*?>\}\}")
+SMILEY = re.compile(r"/smilies/|/images/smiley|/emoji/")
+PLAIN_START = re.compile(r"[^#>*|{\-\d\s]")  # not a heading, quote, list, table or shortcode
+
+
+def hoist_figures(md):
+    """Give every figure its own block. One that sat inside a paragraph moves
+    just before it, classed "wrap" so the text flows around it, and a sentence
+    the extractor split at the image is joined back up."""
+    paras = md.split("\n\n")
+    out, i = [], 0
+    while i < len(paras):
+        para = paras[i]
+        figs = FIGURE.findall(para)
+        rest = re.sub(r"(?<=\S)  +(?=\S)", " ", FIGURE.sub("", para)).strip()
+        if not figs or not rest:
+            out.append(para)
+            i += 1
+            continue
+        out += [f.replace(" >}}", ' class="wrap" >}}') for f in figs]
+        if (para.rstrip().endswith(">}}") and not re.search(r"[.!?:;\"”)\]*]$", rest)
+                and i + 1 < len(paras) and PLAIN_START.match(paras[i + 1])):
+            rest = f"{rest} {paras[i + 1]}"
+            i += 1
+        out.append(rest)
+        i += 1
+    return "\n\n".join(out)
 
 
 def yaml_str(s):

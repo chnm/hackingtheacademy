@@ -10,8 +10,9 @@ captured_from: wayback
 
 Illich and Vern's booklet, [Imprisoned in the Global Classroom](http://leighblackall.blogspot.com/2010/05/imprisoned-by-global-classroom.html) is a difficult read. Its paragraphs point out in all directions, but not with much recognisable accuracy.. perhaps too much has passed between now and 1976. It makes an impression of a vague sense, but using exact and urgent language. I imagine many would dismiss it out of frustration, but reading passages over and over, and reflecting on its meaning takes time, and the thoughts and ideas it gives me feel worth the time.
 
+{{< figure src="image-1.gif" alt=`` class="wrap" >}}
+
 This paragraph appears on page 12, and should give all of us in the edtech game reason to pause. It talks about life long learning, and its sinister appropriation by education agents using it to justifying themselves (ring any bells?). While I'm half certain I sit on the right side of the fence on this one, I'm cautious not to appropriate the statement as an endorsement of my work either - because I just might be guilty of exactly what Illich and Verne point to here.
-![](image-1.gif)
 
 
 Is my work in opening up an educational institution, its processes and resources, and then to situate its teachers and research in the popular arena, in fact just further entrapment of independent social existence, and bringing it under the dominance of Education? On may levels it is, I can see that. To build awareness of learning as it happens in social networks and its media, and then to nurture ideas in the educational institution on how they might measure, recognise and reward that learning, seeks to further legitimise the dominance of the Education paradigm, impacting further on individual and community self determination and sufficiency. Its just as bad as what marketing agents are doing, government agents, even the medical institutions. There lacks [a genuine sense of altruism](http://keithlyons.wordpress.com/2009/12/21/vicarious-learning-and-reciprocal-altruism/) from these institutions.

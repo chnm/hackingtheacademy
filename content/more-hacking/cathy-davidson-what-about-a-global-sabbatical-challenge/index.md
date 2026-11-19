@@ -8,7 +8,7 @@ published: 2010-05-19
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Cathy Davidson](http://www.hastac.org/users/cathy-davidson) on May 19, 2010, 10:44 AM**
 
@@ -31,7 +31,8 @@ What would we come up with?
 
 
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
 
 - [Cathy Davidson's blog](http://www.hastac.org/blogs/cathy-davidson)
 - [Login](http://www.hastac.org/user/login?destination=node%2F25758%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F25758%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

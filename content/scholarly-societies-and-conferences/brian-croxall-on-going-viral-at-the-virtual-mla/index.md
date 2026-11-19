@@ -12,15 +12,15 @@ March 7, 2010
 
 # On Going Viral at the (Virtual) MLA
 
-![On Going Viral at the (Virtual) MLA 1](image-1.jpg) 
+{{< figure src="image-1.jpg" alt=`On Going Viral at the (Virtual) MLA 1` >}} 
 
 Mark Shaver for The Chronicle Review
 
 [Enlarge Image](http://chronicle.com)
 
-![close](image-2.gif) 
+{{< figure src="image-2.gif" alt=`close` >}} 
 
-![On Going Viral at the (Virtual) MLA 1](image-3.jpg) 
+{{< figure src="image-3.jpg" alt=`On Going Viral at the (Virtual) MLA 1` >}} 
 
 Mark Shaver for The Chronicle Review
 
@@ -39,9 +39,15 @@ low salary of a visiting professor, I rewrote the
 
 Already have an account? [Log In Now](http://chronicle.com/myaccount/login?goto=/article/On-Going-Viral-at-the/64455/).
 
-- ### On Course ![Teaching Illustration Careers](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`Teaching Illustration Careers` class="wrap" >}}
+
+{{< figure src="image-5.jpg" alt=`College 2.0: The Incredible Shrinking CIO 1` class="wrap" >}}
+
+{{< figure src="image-6.jpg" alt=`Financial Literacy, a Key to Success for Low-Income Students 1` class="wrap" >}}
+
+- ### On Course 
 [A Year From Hell](http://chronicle.com/article/Fare-Thee-Well-Year-From-Hell/65354/)
-- ### College 2.0 ![College 2.0: The Incredible Shrinking CIO 1](image-5.jpg)
+- ### College 2.0 
 [Whither the CIO?](http://chronicle.com/article/College-20-The-Incredible/65442/)
-- ### Commentary ![Financial Literacy, a Key to Success for Low-Income Students 1](image-6.jpg)
+- ### Commentary 
 [Financial Literacy 101](http://chronicle.com/article/Financial-Literacy-a-Key-to/65418/)

@@ -8,7 +8,7 @@ published: 2010-03-16
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **The Problem**
 
@@ -44,9 +44,9 @@ Last summer, I got one of the 8-inch frames ([SPF-85H](http://www.samsung.com/hk
 
 6\) I placed the URL for the [wheresthechair](http://twitter.com/wheresthechair/) account on my syllabi and office door.
 
-![Twitter\_frame Samsung frame as mini-monitor](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`Twitter_frame Samsung frame as mini-monitor` >}}
 
-![Mini-monitor outside my office Dynamic Office Hours Monitor](image-3.jpg) 
+{{< figure src="image-3.jpg" alt=`Mini-monitor outside my office Dynamic Office Hours Monitor` >}} 
 
 **The Results**
 

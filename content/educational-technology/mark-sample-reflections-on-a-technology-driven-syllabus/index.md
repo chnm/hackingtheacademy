@@ -37,7 +37,7 @@ The primary challenge at the outset is the deluge of information I’m faced wit
 
 - **Redundancy is redundancy is redundancy is important** when it comes to archiving. I am very aware of the ephemeral nature of online communication, especially with something like Twitter. Don’t trust the cloud. So in addition to preserving feeds in my offline reader, I use [The Archivist](http://www.flotzam.com/archivist/) to capture the #eng493 Twitter conversation and save it as an exportable XML file. Once the data is in XML format, you can manipulate it in all sorts of ways. The Archivist has a few inline data visualizations too. Here we can see when spikes in activity occur (usually the night before class, when students are reading and tweeting as they read):
 
-![#eng493 Twitter Timeline](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`#eng493 Twitter Timeline` >}}
 
 
 So there you have it, some reflections on a technology-driven syllabus. These reflections are strictly from my own perspective, of course. Something I need more information about, then, is what *my students* think about the technology in the course. My sense is that it’s a daunting amount of activity for them to keep track of. I sometimes forget that students have three or four other courses besides mine, each with their own demands. I’m hoping that some activities, like Twitter, fit into their existing lifeflow, though I know others, like working with a wiki, can punctuate their daily lives in a disruptive way.

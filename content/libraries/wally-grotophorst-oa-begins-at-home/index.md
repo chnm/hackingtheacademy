@@ -19,7 +19,7 @@ I’m working with [Deep Web Technologies](http://www.deepwebtech.com) to build 
 
 As I was banging in searches and exploring result sets, I kept hitting journal articles that I assumed were available in e-journal form despite the fact that outbound SFX links suggested otherwise.
 
-![badSFX SFX befuddled](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`badSFX SFX befuddled` >}}
 
 
 Testing a history collection, my mind eventually drifted to thoughts of Roy Rosenzweig.  I entered his name in the search box and among the hits that began flowing back, I noticed an interview from 2000 that appeared in the journal *Left History*.

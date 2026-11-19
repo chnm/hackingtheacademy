@@ -30,4 +30,4 @@ I believe we can move from a bittersweet spot to a sweet spot.
 
 Mary Churchill
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

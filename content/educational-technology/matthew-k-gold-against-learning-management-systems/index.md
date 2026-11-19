@@ -8,7 +8,7 @@ published: 2009-03-30
 captured_from: wayback
 ---
 
-![jail2 Jail by Gipics](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`jail2 Jail by Gipics` >}}
 
 Jail by Gipics
 

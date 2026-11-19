@@ -12,7 +12,9 @@ captured_from: wayback
 Written by [Marshall Kirkpatrick](http://www.readwriteweb.com/archives/author/marshall-kirkpatrick-1.php) / June  1, 2009  4:04 PM 
        / [45 Comments](http://www.readwriteweb.com/archives/how_one_teacher_uses_twitter_in_the_classroom.php#comments)
 
-![](image-1.jpg) Teachers are always trying to combat student apathy and University of Texas at Dallas History Professor, Monica Rankin, has found an interesting way to do it using Twitter in the classroom.
+{{< figure src="image-1.jpg" alt=`` class="wrap" >}}
+
+Teachers are always trying to combat student apathy and University of Texas at Dallas History Professor, Monica Rankin, has found an interesting way to do it using Twitter in the classroom.
 
 
 Rankin uses a weekly [hashtag](http://hashtags.org) to organize comments, questions and feedback posted by students to Twitter during class.  Some of the students have downloaded [Tweetdeck](http://tweetdeck.com) to their computers, others post by SMS or by writing questions on a piece of paper.  Rankin then projects a giant image of live Tweets in the front of the class for discussion and suggests that students refer back to the messages later when studying.  The Professor's results so far have been mixed but it is clear that more students are participating in classroom discussions than they used to.  A video about Rankin's classroom experiment follows.

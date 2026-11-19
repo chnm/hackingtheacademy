@@ -19,7 +19,7 @@ I’m finally looking back to Spring ’09, when I had my first experience using
 
 4\.  **Students might be less excited about instructional technology than you are.** (…How to get them more excited is part of the task.) Take ‘tagging,’ for example—it was harder than I might have imagined getting the ‘tagging’ to happen. Some assume that the ‘Sidekick generation’ will tag as if it were natural as breathing. Not so– every nineteen-year-old might know how to search YouTube, but they’re not all writing Facebook applications or even their own blogs. Making some class time available to teach students the rhyme and reason behind some aspects of the blog is arguably essential, and yet somehow easy to overlook.
 
-![The Com1010 Public Speaking Award Goes To...](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`The Com1010 Public Speaking Award Goes To...` >}}
 
 The Com1010 Public Speaking Award Goes To...
 

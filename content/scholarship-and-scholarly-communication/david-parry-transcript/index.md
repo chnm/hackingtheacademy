@@ -41,7 +41,7 @@ Let me be clear, I am not saying that the book is dead, in one regard it is alre
 
 (P.S. Below is a photo I took at my visit to *The Chronicle* last week. Apparently these are all the books they received from academic publishers in the last week (that’s right just one week), which nobody wanted. In other words at an academic institution like *The Chronicle*, not one reader could be found for any of these books. They were giving them away for free. Seriously, we should stop this madness. Won’t somebody please think of the trees?)
 
-![chroniclebooks.jpg chroniclebooks.jpg](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`chroniclebooks.jpg chroniclebooks.jpg` >}}
 
 
 (*Below is the full video where I elaborate on the points/ideas above*.)

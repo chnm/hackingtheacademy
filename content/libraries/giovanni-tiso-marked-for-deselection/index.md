@@ -8,7 +8,7 @@ published: 2010-04-05
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Under the somewhat deceptive title of Collection Appraisal Project, the
 
@@ -20,7 +20,7 @@ But the books themselves preserve its memory. To this day if you browse the libr
 
 [Giovanni Boccaccio](http://en.wikipedia.org/wiki/Giovanni_Boccaccio)were checked out. We need them; they must be there, occupy that space, or we might as well not have an Italian department at all.
 
-![](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`` >}}
 
 It had already been marked with a thick black forward-slash by the time I got there, but I recoiled especially at seeing Antonio Gramsci's
 
@@ -45,7 +45,7 @@ Reading Gramsci's letters, more so than the Notebooks, I am reminded of Primo Le
 
 [extraordinary compulsion to write](http://bat-bean-beam.blogspot.com/2009/11/canto-of-ulysses.html#write)while still a prisoner at Monowitz, knowing that if any of those scraps of hastily scribbled upon paper had been found on his person he would be put to death, and so they had to be immediately destroyed. Yet he wrote, as if the act alone could leave a material trace of his conscience, of his passage through that infernal machinery whose purpose it was to destroy him and every sign of his person. Gramsci too, albeit in a lesser hell, was almost physically consumed by the need to fight with the only weapon he had left the forces that wished to neutralize his intellect.
 
-![](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`` >}}
 
 When a library wants to get rid of some of its books, it is sometimes referred to as a cull. Bear in mind that these are the same people who refer to the acquisition of digital information as ‘
 
@@ -53,7 +53,7 @@ When a library wants to get rid of some of its books, it is sometimes referred t
 
 What made the exercise at Victoria objectionable then wasn’t the decision to get rid of some books, or the involvement of staff and students in the selection, but the ulterior aim, which was an actual reduction of the overall holdings so that other functions - primarily IT - could be expanded. By rights this move ought to have followed a discussion on what it means to have more computers and fewer books; whether or not it broadens access to key knowledge and resources; whether it leads to better research rather than just faster research. But in the clumsy way they went about it, the library administrators also created an interesting case study, in that they made visible and in fact indelible the process that leads to the elimination of books from a collection. The red sticker on the letters of Gramsci, as well as the black mark on the sticker itself, are now part of the history of that book. They broaden its meaning and contribute to its interpretation, inviting further reflection on the material circumstances in which the letters were written, and the history of their publication and ongoing reception. And when the book is threatened to be displaced due the encroaching of a new technology, those signs also remind us that before the digital humanities there was this thing called the analogue humanities, and that the transition between the two is enormously sensitive and fraught.
 
-![](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`` >}}
 
 Antonio Gramsci. Lettere dal carcere. Edited by Sergio Caprioglio and Elsa Fubini. Turin: Einaudi, 1965.
 

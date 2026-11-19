@@ -14,7 +14,7 @@ captured_from: wayback
 
 "How do I keep up with the reading?" This is perhaps the most frequent question I get from overwhelmed history graduate students. And no wonder. A graduate history course typically has 500 or more assigned pages a week, and a full slate of courses can quickly push your weekly reading assignments into the thousands of pages. How is it possible to read that much?
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Those who survive graduate school learn along the way that it is necessary to change the way you read. As children we are taught that reading is always linear--you start on page one and end on page three-hundred-and-sixty-seven and skipping pages is
 

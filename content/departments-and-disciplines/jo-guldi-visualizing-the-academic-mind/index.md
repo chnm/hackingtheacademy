@@ -14,7 +14,7 @@ The Social Sciences began experimenting with visualization as early as the 1910s
 
 [Franz Boas](http://en.wikipedia.org/wiki/Franz_Boas)applied Kwakiutl place-names to an ordinary map to help him better explain the Kwakiutl world view. In the 1940s, scholars of folklore began abstracting these geographical diagrams into "synoptic diagrams" that showed concepts in relationship to each other. Since that time, scholars around a range of disciplines have used mental maps and synoptic diagrams for their powers at synthesizing a range of information from diverse fields.
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 James A. Notopoulos, “The Symbolism of the Sun and Light in the Republic of Plato. II,” Classical Philology 39, no. 4 (October 1944): 223-240.
 
@@ -46,17 +46,17 @@ Key uses:
 
 [Ship and Sanitary Canal](http://en.wikipedia.org/wiki/Chicago_Sanitary_and_Ship_Canal)).
 
-![](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`` >}}
 
 PersonalBrain is amazing at making million-thought outlines at conferences. Using it to take notes allows you to, over time, create an extended map of your entire knowledge of things-people-have-told-you-about-the-periphery-of-your-field.
 
 Say I'm listening to presentations at the Anglo-American Conference, and one of them includes a colleague lecturing on balloon housing in the history of Chicago. When I begin taking notes on "Balloon Housing," I link it to the "History of Chicago." PersonalBrain remembers that I have other notes on the History of Chicago, and suddenly, my two sets of ideas are connected. Everything the colleague now tells me about housing and construction is now linked, however distantly, to the larger thoughts, The History of Chicago and the History of Cities. Should I ever need to locate those thoughts again, there they are, linked up with their related subjects.
 
-![](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`` >}}
 
 Over time, these expanding larger categories ("history", "modernity", and "landscape" are key ones in my case) come to be enriched with detailed information garnered from sitting in conferences, job talks, and other lectures.
 
-![](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`` >}}
 
 Five years from now, when I'm suddenly called upon to teach an introduction to Western Civilization, there will be my lecture notes: matching my colleague, his references to Chicago, all the notes I took, and any other notes I happen to take on Chicago after now. Say I'm planning that lecture, and want to recall how Chicago fits into everything else I know about modernity. PersonalBrain allows me to pan back from the single-thought view. It creates a map -- weighting thoughts related to each other so that they float near each other. On a big screen, entire branches of knowledge become clear.
 
@@ -94,7 +94,7 @@ until they make sense. Because the essay view is synoptic, the writer's eye can 
 
 The essay is written as a branching tree. Each sentence and paragraph can be dragged-and-dropped into place; entire sections can be rearranged, with their entire structure intact, into the linear flow of the essay. In this way, the essay's structure is constantly being reorganized for clearer flow.
 
-![](image-5.jpg)
+{{< figure src="image-5.jpg" alt=`` >}}
 
 The writer has the ability to easily zoom in and out of a particular view. As one zooms out, viewing the entire essay as a map, blank spaces of insufficient support become visually clear. That ability alone decreases the chances of convincing oneself that one has adequately supported a point only to remember, when printing the essay out, that insufficient evidence has been cited.
 
@@ -102,7 +102,7 @@ Such tools increase the writer's chances of catching redundancies early, and dec
 
 Once the thoughts are organized in what seems to be their proper shape, sufficiently elaborated, the writer exports to a text document. The visual, hierarchical mindmap instantly becomes a linear essay.
 
-![](image-6.jpg)
+{{< figure src="image-6.jpg" alt=`` >}}
 
 However: MindManager doesn't allow you to make the million-point 3d
 

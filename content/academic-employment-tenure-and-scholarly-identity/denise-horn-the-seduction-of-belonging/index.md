@@ -26,4 +26,4 @@ That being said: Carol, thanks so much for your essay. I love teaching it.
 
 Denise Horn
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

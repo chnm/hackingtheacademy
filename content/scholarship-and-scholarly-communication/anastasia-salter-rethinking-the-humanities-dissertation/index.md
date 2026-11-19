@@ -54,7 +54,7 @@ The traditional dissertation as product reflects the dominance of the book: it c
 
 Perhaps as all these stages of academic production are "[hacked](http://hackingtheacademy.org/)" we'll see more dissertations embracing the models that are now experimental. I'd like to see a community form online that resembles the collaborative social networks I've made an object of study. For instance, a community like [Fanfiction.net](http://fanfiction.net/) brings value to its many users not only by offering a place to share one's story but by offering a community of collaborators--other creators of content who are enthusiastic about sharing their own knowledge and opinions because they are engaged in the same processes for themselves. These types of communities go a step beyond the social networks we now have as graduate students (like [Gradshare](http://www.gradshare.com/answers.html) and the [PhD Forums](http://www.phdcomics.com/proceedings/)) and become spaces that encourage continual revision, collaboration and extension. Embracing these models might bring some of the same challenges we see in the classroom, like sorting out the different values of individual authorship and dealing with the ever-present risks of plagiarism, but the results might bring dissertation work that can move more easily to relevance in a larger discourse. A dissertation written (and blogged, and revised, and remixed) in networked space need not be condemned to stasis.
 
-![Creative Commons License](image-1.png)
+{{< figure src="image-1.png" alt=`Creative Commons License` >}}
 
 This work is licensed under a
 

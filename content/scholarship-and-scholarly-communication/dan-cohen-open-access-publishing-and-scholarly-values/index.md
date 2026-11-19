@@ -43,7 +43,7 @@ This divide is striking. **The professoriate may be more liberal politically tha
 
 {{< missing-image alt=`` src=`file:///Users/dcohen/Library/Caches/TemporaryItems/moz-screenshot-1.png` >}}
 
-![ithaka\_faculty\_survey\_2009\_fig23](image-1.gif)
+{{< figure src="image-1.gif" alt=`ithaka_faculty_survey_2009_fig23` >}}
 
 
 Any faculty member who looks at this chart should feel ashamed. We professors care less about sharing our work—*even with underprivileged nations that cannot afford access to gated resources*—than with making sure we impress our colleagues. Indeed, there was actually a sharp *drop* in professors who cared about open access between 2003 and the present.
@@ -52,7 +52,7 @@ This would be acceptable, I suppose, if we understood ourselves to be ruthless, 
 
 We can’t even be bothered to share our *old finished* articles, already published and our reputation suitably burnished, by putting them in an open institutional repository:
 
-![ithaka\_faculty\_report\_fig25](image-2.gif)
+{{< figure src="image-2.gif" alt=`ithaka_faculty_report_fig25` >}}
 
 
 I honestly can’t think of any other way to read these charts than as shameful hypocrisy.

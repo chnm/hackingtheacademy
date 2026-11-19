@@ -17,18 +17,28 @@ The recording starts a bit hectic, but improves considerably as we get going.
 
 Play episode as :
 
+{{< figure src="image-1.gif" alt=`` class="wrap" >}}
+
 Quick Links
 					
 					
-![](image-1.gif) RSS Feed
+ RSS Feed
 
-![](image-2.gif) channels.com
+{{< figure src="image-2.gif" alt=`` class="wrap" >}}
 
-![](image-3.gif) iTunes Feed
+channels.com
 
-![](image-4.gif) Download
+{{< figure src="image-3.gif" alt=`` class="wrap" >}}
 
-![](image-5.gif) Tattle
+iTunes Feed
+
+{{< figure src="image-4.gif" alt=`` class="wrap" >}}
+
+Download
+
+{{< figure src="image-5.gif" alt=`` class="wrap" >}}
+
+Tattle
 
 
 You've reached the newest episode.

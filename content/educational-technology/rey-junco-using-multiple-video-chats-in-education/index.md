@@ -33,7 +33,7 @@ So, I gave a shout out to my friends over in #sachat and asked if they’d like 
 I must say, it was really impressive to have a chat with so many people online at the same time. At our highest saturation, we had 11 people online:
 
 
-![TokBox #sachat video chat](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`TokBox #sachat video chat` >}}
 
 
 There were a few issues that I need to think about some more in order to use this for a class. For instance, it’s hard to see who is talking if there’s an active conversation between a number of participants because of so many video streams coming in at the same time. I have some ideas to solve this which are akin to hand raising in a typical class and will post more about those later as I flesh out the course proposal some more. The verdict? It’s a go! I’ve spoken to the Director of our Graduate Program more and he has invited me to teach the course as a special topics course for the Spring. Stay tuned– I’ll be posting more details about the course in the weeks to come.

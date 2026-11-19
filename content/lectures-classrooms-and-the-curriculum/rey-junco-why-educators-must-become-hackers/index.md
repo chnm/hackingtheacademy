@@ -33,12 +33,12 @@ A key quality these early academic social media adopters share is the hacker men
 
 1\. The old school conceptualization of the classroom as a place to receive knowledge has outlived its usefulness. Society in general, and today’s college students specifically, are more interested in participatory methodologies. Take the Pew Internet and American Life Project Report on [teens and content creation](http://www.pewinternet.org/Reports/2007/Teens-and-Social-Media.aspx) as an example—[with important exceptions](http://www.webuse.org/digital-inequality-differences-in-young-adults-use-of-the-internet/index.html), youth are very interested in creating online videos, mashups, etc. This is true of the online population as a whole—they are interested in a more [engaging and engaged experience with online content](http://www.pewinternet.org/Reports/2010/Social-Media-and-Young-Adults.aspx). Consider this view of the traditional lecture classroom:
 
-![Boring Boring](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Boring Boring` >}}
 
 
 **Would you rather be sitting here?** 
 
-![Engaging Engaging](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`Engaging Engaging` >}}
 
 
 **Where do you think your students would rather be?**

@@ -20,7 +20,7 @@ Some highlights:
 At the same time, we have the following trends:
 
 1. Increased need for remedial classes in both high schools and colleges. (see article [here](http://freakonomics.blogs.nytimes.com/2010/02/25/why-do-so-few-men-graduate-college-in-their-early-twenties/))
-2. Complaints about failing secondary education systems ([see RI](&lt;http://blogs.edweek.org/edweek/walt_gardners_reality_check/2010/03/draconian_measures_at_ri_high_school_are_misdirected.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WaltGardnersRealityCheck+(Walt+Gardner's+Reality+Check)>)).
+2. Complaints about failing secondary education systems ([see RI](<http://blogs.edweek.org/edweek/walt_gardners_reality_check/2010/03/draconian_measures_at_ri_high_school_are_misdirected.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WaltGardnersRealityCheck+(Walt+Gardner's+Reality+Check)>)).
 3. Complaints from higher ed faculty that high school graduates are not prepared for college-level work. (perhaps this is constant rather than increasing)
 4. Complaints from employers that recent college graduates are not prepared for the workforce.
 5. Studies that show that students take an average of six years to complete an undergraduate degree in the U.S. (see one study [here](http://nces.ed.gov/fastfacts/display.asp?id=40))
@@ -47,4 +47,4 @@ We know that fast-tracking students fast-tracks them right into the labor market
 
 Mary Churchill
 
-![Bookmark and Share](image-1.gif)
+{{< figure src="image-1.gif" alt=`Bookmark and Share` >}}

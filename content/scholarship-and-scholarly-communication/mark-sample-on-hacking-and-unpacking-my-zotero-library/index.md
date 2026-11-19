@@ -54,7 +54,7 @@ The online mash-up tool Yahoo Pipes is perfect for combining and filtering RSS f
 
 Next I dumped the Dapper feed into Yahoo Pipes, using several of Pipe’s operators to filter duplicates and attachment file names that were cluttering the RSS feed. Here’s is a map of [my Pipe](http://pipes.yahoo.com/pipes/pipe.info?_id=brjay5Z63hGRqawnU5Wufg).
 
-![Yahoo Pipes and Zotero Using Yahoo Pipes to filter a Zotero library](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Yahoo Pipes and Zotero Using Yahoo Pipes to filter a Zotero library` >}}
 
 Using Yahoo Pipes to filter a Zotero library
 

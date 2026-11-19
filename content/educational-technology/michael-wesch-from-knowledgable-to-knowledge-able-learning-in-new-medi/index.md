@@ -279,12 +279,22 @@ The beauty of the current moment is that new media has thrown all of us as educa
 
 #### How to cite this work
 
-Michael Wesch . "From Knowledgable to Knowledge-able: Learning in New Media Environments." Academic Commons Issue Name (Spring 2008): 23 May 2010. \&lt;http://www.academiccommons.org/>.
-- ![Delicious](image-1.png) Delicious
-- ![Newsvine](image-2.png) Newsvine
-- ![Facebook](image-3.png) Facebook
-- ![Google](image-4.png) Google
-- ![Technorati](image-5.png) Technorati
+{{< figure src="image-1.png" alt=`Delicious` class="wrap" >}}
+
+{{< figure src="image-2.png" alt=`Newsvine` class="wrap" >}}
+
+{{< figure src="image-3.png" alt=`Facebook` class="wrap" >}}
+
+{{< figure src="image-4.png" alt=`Google` class="wrap" >}}
+
+{{< figure src="image-5.png" alt=`Technorati` class="wrap" >}}
+
+Michael Wesch . "From Knowledgable to Knowledge-able: Learning in New Media Environments." Academic Commons Issue Name (Spring 2008): 23 May 2010. \<http://www.academiccommons.org/>.
+- Delicious
+- Newsvine
+- Facebook
+- Google
+- Technorati
 
 | Attachment | Size | 
 |---|---|

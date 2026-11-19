@@ -22,7 +22,7 @@ For a while I’ve been trying to figure out a way to show this distilled “Fri
 
 [*Digital Humanities Now*](http://digitalhumanitiesnow.org) is a new web publication that is the experimental result of this thought. It aggregates thousands of tweets and the hundreds of articles and projects those tweets point to, and boils everything down to the most-discussed items, with commentary from Twitter. A slightly longer discussion of how the publication was created can be found on [the *DHN* “About” page](http://digitalhumanitiesnow.org/about/).
 
-![digitalhumanitiesnow\_homepage\_1 Digital Humanities Now home page](image-1.gif)
+{{< figure src="image-1.gif" alt=`digitalhumanitiesnow_homepage_1 Digital Humanities Now home page` >}}
 
 
 Does the process behind *DHN* work? From the early returns, the algorithms have done fairly well, putting on the front page articles on grading in a digital age, bringing high-speed networking to liberal arts colleges, Google’s law archive search, and (appropriately enough) a talk on how to deal with streams of content given limited attention. Perhaps *Digital Humanities Now* will show a need for the light touch of a discerning editor. This could certainly be added on top of the [raw feed of all interest items](http://twittertim.es/dhnow/rss.xml) (about 50 a day, out of which only 2 or 3 make it into *DHN*), but I like the automated simplicity of *DHN* 1.0.

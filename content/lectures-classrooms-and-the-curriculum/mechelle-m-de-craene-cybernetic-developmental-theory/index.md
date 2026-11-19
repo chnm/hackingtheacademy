@@ -8,7 +8,7 @@ published: 2007-10-07
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Mechelle](http://www.hastac.org/users/mechelle) on Oct 07, 2007, 12:58 PM**
 
@@ -20,6 +20,8 @@ De Craene, M.M. & Cuthell, J. (2006) [Clickerati Generation Update: The Digital 
 
 Also, here is one of my favorite students learning the computer for the first time. He was such a joyto teach.He was learning to make the connection between the mouse and thescreen along with digital object permance.
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
+
 - [Mechelle's blog](http://www.hastac.org/blogs/mechelle)
 - [Login](http://www.hastac.org/user/login?destination=node%2F970%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F970%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

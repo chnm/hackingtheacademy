@@ -12,7 +12,7 @@ captured_from: wayback
 
 #hackacad \[Originally posted on *Never Neutral* on 2009/08/27\].
 
-![image](image-1.png)
+{{< figure src="image-1.png" alt=`image` >}}
 
 
 Panel crop from [Geek and Poke](http://geekandpoke.typepad.com/geekandpoke/2007/12/that-was-2007-2.html)

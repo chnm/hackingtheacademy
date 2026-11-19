@@ -8,7 +8,9 @@ published: 2010-05-25
 captured_from: wayback
 ---
 
-![](image-1.jpg) An original article written for
+{{< figure src="image-1.jpg" alt=`` class="wrap" >}}
+
+An original article written for
 
 [#hackacad](http://hackingtheacademy.org/)
 

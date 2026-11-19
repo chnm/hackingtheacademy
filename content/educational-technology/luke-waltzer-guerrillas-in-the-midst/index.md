@@ -10,7 +10,7 @@ captured_from: wayback
 
 One of the secret missions behind my work with [Mikhail Gershovich](http://www.twitter.com/mikhailg) in developing an open source publishing platform at Baruch College is to gradually integrate into the school’s general education curriculum the deep, critical examination of how digital tools are changing the way we think and live. This curricular purpose is not currently present on any kind of scale at our college. Because of political realities at the school, we’ve very much built [Blogs@Baruch](http://blsciblogs.baruch.cuny.edu) in a haphazard, take-what-we-can-get kind of way, and we haven’t had the luxury of being systematic about the thing. But we’re now two years into our experiment, and we’re widely established enough throughout the college that we’re confident we will continue to operate.  We’re now able to theorize what we’ve done and to strengthen our case for more attention to the types of curricular innovation we’d like to see.
 
-![Peasant Warfare](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Peasant Warfare` >}}
 
 
  *[photo](http://www.photodropper.com/photos/) credit: [jectre](http://www.flickr.com/photos/jectre/544530898/)*
@@ -19,7 +19,7 @@ Of course, we’re far from the only ones considering these questions, and we’
 
 There are others, many others, who’ve been doing this type of [work](http://umwblogs.org) and [thinking](http://bavatuesdays.com), and their models and theories are very much the fuel that propels us along our path.
 
-![](image-2.jpg)
+{{< figure src="image-2.jpg" alt=`` >}}
 
 **Che Groom**
 

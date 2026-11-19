@@ -26,12 +26,14 @@ Good luck going to the university website and finding out information about the 
 
 Here is George Mason’s own equivalent of the “Beware of Leopard” sign:
 
-![Off Campus Ratings Accessibility Message Off Campus Ratings Accessibility Message](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Off Campus Ratings Accessibility Message Off Campus Ratings Accessibility Message` >}}
 
 
 The above message is what any off-campus visitor sees when he or she attempts to access the [database](http://ratings.gmu.edu/) of teaching evaluations. On campus, the wiew \[sic\] isn’t much better:
 
-![GMU's Typo GMU's Typo](image-2.jpg) To be fair, I’m hoping that the typo has been corrected since I captured this screen shot in May. But I wouldn’t know for sure. You see, it’s August and I’m off-campus right now, as are most faculty and students, and
+{{< figure src="image-2.jpg" alt=`GMU's Typo GMU's Typo` class="wrap" >}}
+
+To be fair, I’m hoping that the typo has been corrected since I captured this screen shot in May. But I wouldn’t know for sure. You see, it’s August and I’m off-campus right now, as are most faculty and students, and
 
 *I can’t even electronically access my own teaching evaluations, let alone those of other professors, unless I’m physically there.* 
 

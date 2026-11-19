@@ -41,4 +41,4 @@ When you are finished with the comments for this entry, [close the window](http:
 
 
 
-![](image-1.gif)
+{{< figure src="image-1.gif" alt=`` >}}

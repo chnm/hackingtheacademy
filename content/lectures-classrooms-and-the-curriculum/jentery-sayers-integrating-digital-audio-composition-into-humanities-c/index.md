@@ -14,7 +14,7 @@ May 25, 2010, 02:00 PM ET
 
 # Integrating Digital Audio Composition into Humanities Courses
 
-![Edison Phonograph](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`Edison Phonograph` >}}
 
 *\[This guest post is by [Jentery Sayers](http://www.jenterysayers.com/?p=3449), who is a PhD candidate in English at the University of Washington, Seattle. In 2010-2011, he will be teaching media and communication studies courses in Interdisciplinary Arts and Sciences at the University of Washington, Bothell. He is also actively involved with [HASTAC](http://www.hastac.org/). You can follow Jentery on Twitter: [@jenterysayers](http://twitter.com/jenterysayers).\]*
 

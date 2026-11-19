@@ -15,8 +15,9 @@ In the digital humanities, what does it mean to "democratize knowledge"? In this
 
 **Democratizing Knowledge in the Digital Humanities: Making Scholarship Public, Producing Public Scholarship**
 
+{{< figure src="image-1.jpg" alt=`` class="wrap" >}}
+
 Organizations like [HASTAC](http://www.hastac.org/), [Imagining America](http://www.imaginingamerica.org/), the [Obermann Graduate Institute for Public Engagement at the University of Iowa](http://www.uiowa.edu/obermann/), the [Center for Teaching at the University of Iowa](http://www.uiowa.edu/~centeach/), and the [Simpson Center for the Humanities at the University of Washington](http://depts.washington.edu/uwch/index.php) aim to democratize knowledge to reach out to "publics," share academic discoveries, and invite an array of audiences to participate in knowledge production.  Of course, emerging technologies and media offer the potential to widen even further the reach of public scholarship and the breadth of community partnerships.
-![](image-1.jpg)
 
 
 More specifically, in the context of the digital humanities, democratizing knowledge often refers to making scholarship public, to opening access to university resources and research through, for example, the creation and preservation of digital archives and journals.
@@ -61,5 +62,7 @@ University of Iowa, PhD student, Department of Computer Science
 
 Obermann Senior Graduate Fellow 2010
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
+
 - [Login](http://www.hastac.org/user/login?destination=node%2F24453%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F24453%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

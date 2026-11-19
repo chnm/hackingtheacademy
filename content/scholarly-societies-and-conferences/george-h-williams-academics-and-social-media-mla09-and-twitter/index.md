@@ -8,7 +8,7 @@ published: 2010-01-09
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 Recently (27-30 December 2009, in fact) the annual convention of the [Modern Language Association](http://www.mla.org/) took place in Philadelphia. This convention is, unless I’m mistaken, the largest annual gathering of scholars and teachers of language and literature: papers are presented, roundtable discussions are hosted, job candidates are interviewed, new books are promoted, and formal & informal gatherings take place.
 

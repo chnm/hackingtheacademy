@@ -8,7 +8,7 @@ published: 2010-08-01
 captured_from: wayback
 ---
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
 **Submitted by[Cathy Davidson](http://www.hastac.org/users/cathy-davidson) on May 03, 2010, 07:01 AM**
 
@@ -42,7 +42,8 @@ And of course the HASTAC Scholars Forum continues in its lively, thought-provoki
 
 [http://www.hastac.org/forums/hastac-scholars-discussions/teaching-techno...](http://www.hastac.org/forums/hastac-scholars-discussions/teaching-technologies)
 
+{{< figure src="image-2.png" alt=`Share/Save` class="wrap" >}}
 
 - [Cathy Davidson's blog](http://www.hastac.org/blogs/cathy-davidson)
 - [Login](http://www.hastac.org/user/login?destination=node%2F25710%23comment-form) or [register](http://www.hastac.org/user/register?destination=node%2F25710%23comment-form) to post comments
-- ![Share/Save](image-2.png)
+-

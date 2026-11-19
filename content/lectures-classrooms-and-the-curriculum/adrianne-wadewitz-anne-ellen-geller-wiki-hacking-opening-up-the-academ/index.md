@@ -20,9 +20,9 @@ By [Adrianne Wadewitz](http://en.wikipedia.org/wiki/User:Awadewit), [Anne Ellen 
 
 ## \[[edit](http://en.wikipedia.org/w/index.php?title=User:Awadewit/TeachingEssay&action=edit§ion=2)\] Introduction
 
-![](image-1.jpg)
+{{< figure src="image-1.jpg" alt=`` >}}
 
-![](image-2.png)
+{{< figure src="image-2.png" alt=`` >}}
 
 A week ago, on Friday, May 21, 2010, we three were part of a roundtable dedicated to Wikipedia and pedagogy as part of the [2010 Writing Across the Curriculum](http://www.indiana.edu/~wac2010/abstracts.shtml) conference. That was our first face-to-face encounter; none of us had ever met in real life. We had known one another previously, but only through our writing and our online personae at Wikipedia. For example, two of us had collaborated virtually for [a podcast on teaching with Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Wikivoices/Episode_41).
 
@@ -36,7 +36,7 @@ Numerous scholarly articles about Wikipedia have appeared across the disciplines
 
 Like an uninvited guest at a party, Wikipedia hovers at the fringes of academia. Yet the online encyclopedia's aims are eminently academic: it collects, processes, stores, and transmits knowledge. Judging by the site's over 3.3 million articles, many of which are extensively referenced to the scholarly literature, and [its popularity on the internet](http://www.alexa.com/data/details/traffic_details/wikipedia.org), Wikipedia has been remarkably successful at promoting a culture that honors intellectual inquiry. Yet it is derided by many academics.
 
-![Mark Twain DLitt.jpg](image-3.jpg)
+{{< figure src="image-3.jpg" alt=`Mark Twain DLitt.jpg` >}}
 
 Still, we all use Wikipedia in one way or another—even scholars, although we might not want to admit to the fact. Most of us find it a very convenient resource. Above all, students use Wikipedia, openly or otherwise; over half of US undergraduates use it "always" or "frequently" in their research.<sup>[\[3\]](http://en.wikipedia.org#cite_note-2)</sup> However, these students do so without necessarily knowing how the information is written and revised. They are often told not to use Wikipedia because it is "bad"—but they are not told why.
 
@@ -57,7 +57,7 @@ This editor is concerned that the Calvin article is being shaped to serve a spec
 
 In addition to disputes over article content, meta-discussions about articles in Wikipedia can allow students to see that editors may reasonably, if passionately, disagree how to represent and structure knowledge throughout the encyclopedia. For example, [this 2007 discussion about whether or not to include sections about "Themes" and "Cinematic style" in film articles](http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Films/Style_guidelines/Archive_1#Proposal_for_new_sections) reveals differing views on the importance of these topics to encyclopedia articles about films. [Wadewitz](http://en.wikipedia.org/wiki/User:Awadewit) began the debate by proposing that the style guidelines for film articles include these two sections since "The guidelines as they stand do not encourage editors to discuss the *meaning* of the film, apart from its plot, production and reception. While those elements are important, the most obvious place to look for a film's meaning is in its themes and artistic style (its content and its form)...." [User:Bignole](http://en.wikipedia.org/wiki/User:Bignole), the first respondent in a long debate, agreed to an extent, but emphasized that "Every film is different. I think it's something good to include, to make sure editors look for that stuff, but it should be noted that not every single film will have some underlying meaning in it. There are probably countless B-horror films whose only real theme would be "kill the stupid people". Certainly, there are classics that actually do have some underlying themes in them, but some do not." The debate continued with variations of these basic arguments. These editors have a fundamentally different understanding of what a film article should contain. Such debates about how to organize and present knowledge occur every day on Wikipedia.
 
-![Bookspile.jpg](image-4.jpg)
+{{< figure src="image-4.jpg" alt=`Bookspile.jpg` >}}
 
 Perhaps the most popular type of assignment using Wikipedia is one that involves article development. In the spring of 2008, [Jon Beaseley-Murray](http://en.wikipedia.org/wiki/User:Jbmurray) required his students in an upper-division Latin American literature class to research and write entire articles (see [WikiProject Murder Madness and Mayhem](http://en.wikipedia.org/wiki/Wikipedia:MMM)). The project had three aims: 1) to improve Wikipedia's coverage of selected articles on Latin American literature, particularly those related to dictator novels; 2) to submit those articles to Wikipedia review processes; 3) to increase the number of featured articles in this area. (Featured articles are considered the best articles of Wikipedia; they are vetted rigorously according to a stringent [set of criteria](http://en.wikipedia.org/wiki/Wikipedia:FA%3F).) All three aims were accomplished.
 
@@ -71,9 +71,9 @@ In short, the assignment not only reveals the weaknesses in students' research s
 
 In his book *Lazy Virtues: Teaching Writing in the Age of Wikipedia*, Cummings emphasizes the benefits of "commons-based peer production", which allows students to take control of their writing in groups and de-emphasizes the authority of the instructor. Wikipedia is an excellent environment for exploring this approach, as teacher and student are editors working together to produce a better encyclopedia article. Wikipedia not only breaks down the authority of the classroom in helpful ways, but it also introduces student writers to a readership. Whereas most assignments in a university setting are written solely for the instructor, on Wikipedia they are written for a global audience. Wikipedia editors must struggle with making their language accessible to the entire community of English speakers, many of whom will write back to them. Students are engaging in a real-world project on Wikipedia, with tangible and public dialogue.
 
-![](image-5.png)
+{{< figure src="image-5.png" alt=`` >}}
 
-![](image-6.png)
+{{< figure src="image-6.png" alt=`` >}}
 
 [consensus](http://en.wikipedia.org/wiki/Wikipedia:CONSENSUS).
 
@@ -95,9 +95,9 @@ According to a common stereotype, humanities academics are solitary scholars who
 
 At our roundtable, an audience member commented that the web was supposed to offer a democratic space in which no voices or experiences would be marginalized or ignored. Yet the coverage on Wikipedia has huge gaps, partly because of the interests and knowledge of those who have hitherto been most drawn to contributing: "more than 80 percent male, more than 65 percent single, more than 85 percent without children, around 70 percent under the age of 30."<sup>[\[10\]](http://en.wikipedia.org#cite_note-9)</sup> Although Wikipedia boasts thousands of detailed, well-researched, well-referenced articles on scholarly subjects, such as its [Featured Articles](http://en.wikipedia.org/wiki/Wikipedia:Featured_articles), entries on fictional locations such as [Middle-earth](http://en.wikipedia.org/wiki/Middle-earth) may be much more detailed than entries on real locations, such as countries in Africa.[\[11\]](http://en.wikipedia.org#cite_note-10)
 
-![](image-7.jpg)
+{{< figure src="image-7.jpg" alt=`` >}}
 
-![](image-8.png)
+{{< figure src="image-8.png" alt=`` >}}
 
 [Chinua Achebe](http://en.wikipedia.org/wiki/Chinua_Achebe)is the only African writer to have a
 
@@ -118,9 +118,9 @@ We wholly agree. In fact, Wadewitz is one of [the top-ten producers of Wikipedia
 
 ## \[[edit](http://en.wikipedia.org/w/index.php?title=User:Awadewit/TeachingEssay&action=edit§ion=7)\] Postscript: Authorship and attribution in this article
 
-![](image-9.png)
+{{< figure src="image-9.png" alt=`` >}}
 
-![](image-10.png)
+{{< figure src="image-10.png" alt=`` >}}
 
 At the same time as this essay promotes co-authorship, collaboration and “hacking” of the academy, we ourselves have had to decide how we would represent our authorship of this article because of our positions in the academy.<sup>[\[14\]](http://en.wikipedia.org#cite_note-13)</sup> We represent three different points in an academic career: a graduate student about to go on the job market, a faculty member pursuing tenure at the associate level, and a tenured faculty member. Our discussions about attribution are less open to public scrutiny than anything else related to this article and largely took place over email and IM, revealing the anxiety that this topic raises.
 
